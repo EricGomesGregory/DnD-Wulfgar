@@ -44,7 +44,7 @@ During this time Gwyn fought many battles as part of the 1st division of the Ban
 As his acomplishments grew Gwyn became the target of envy of Heindel's son, Heyso that at the time was the 2nd in command of the 2nd division. This only worsoned when Gwyn was declared the 1st divison commander in his 20th birthday, to the surprise of Heyso.
 
 #### Turbulent Family
-To Heindel blood relations were of little value, he belived that the members of the Wolves were his sons. But to him he saw Heyso as his most trusted son, his legacy, so Heindel 
+To Heindel blood relations were of little value, he belived that the members of his mercenary company were his sons. But his son Heyso was his most trusted son, his legacy, so Heindel 
 
 
 ## The Dammed Siege
