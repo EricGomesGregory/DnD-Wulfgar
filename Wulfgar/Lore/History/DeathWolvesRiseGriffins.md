@@ -34,5 +34,6 @@ When the others came to see what was happening Gwyn discovered that he had kille
 ## Gwyn's Rise
 As the years passed Gwyn slowly became a valuable soldier to the Band of the Wolves, having risen from the post of scout to soldier and eventually to the position of squadron commander.
 
+
 ## The Dammed Siege
 During the siege of KEEP keep
