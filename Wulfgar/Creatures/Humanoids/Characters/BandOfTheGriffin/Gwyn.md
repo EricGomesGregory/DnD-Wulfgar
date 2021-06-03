@@ -1,23 +1,29 @@
 ## Gwyn, the Young Griffin
+Gwyn is a 6'4, 21 year old man with skin as white as the moon, raven-black hair, and light blue eyes. He dawns a silver-like plate armor with a hawk head.
+
+He is calm, intelligent and magnetic in his personality. He acts as a kindhearted individual, hiding his ambitious heart.
 
 
 ### History
+Gwyn is the son of an elf whore and a hafexian duque, he grew up poor in the city of Melfia dreaming of being a duke like his father. When he was a child he found a wolf cub nested in a dead wolf in the forest near his house, he took in the cub and trained her, giving her the name Nymeria.
+
+From an early age, Gwyn became mercenary and quickly grew as a soldier and then as a commander, with Nymeria always at his side. At 20 Gwyn broke from his former mercenary band and created his own, the Griffins band with the aid of Aileen and Ludwig after a siege.
 
 
 ### Character Trais
-
+The following are Gwyn's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
-
+Gwyn is a calm and collected person with a natural kindness. But deep down  he is an ambitious individual that is willing to sacrifice anything and anyone to obtain his goals.
 ___
 **Ideals.**
-
+Gwyn seeks to create a kingdom of his own by any means.
 ___
 **Bonds.**
-
+Gwyn is loyal only to Nymeria, as she has saved him many times.
 ___
 **Flaws.**
-
+Gwyn believes himself above other people, regardless of their status or lack thereof.
 
 
 ___
@@ -30,7 +36,7 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 17 (+3) | 10 (+0) | 13 (+1) | 11 (+0) | 10 (+0) | 14 (+2) |
+>| 17 (+3) | 11 (+0) | 13 (+1) | 10 (+0) | 10 (+0) | 14 (+2) |
 >___
 > - **Saving Throws** Str +5, Cha +4
 > - **Skills** Deception +4, Perception +2, Persuasion +4
@@ -48,7 +54,9 @@ ___
 > Gwyn can spend 10 minutes inspiring its companions, shoring up their resolve to fight. When he does, he chooses up to six friendly creatures (which can includes himself) within 30 feet of him who can see or hear him and who can understand him. Each creature can gain temporary hit points equal to Gwyn's level + its Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 >
 > ### Actions
-> ***Saber.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 7 (1d8 + 3) slashing damage. 
+> ***Estoc.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 7 (1d8 + 3) piercing damage. 
+>
+> ***Estoc (two-handed).*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) piercing damage. 
 >
 > ### Reaction
 > ***Parry.*** Gwyn can make a saber attack, whenever a enemy misses a melee weapon attack against him.

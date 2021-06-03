@@ -1,22 +1,31 @@
 ## Siegward, Lionheart
+Siegward is a 5'8 hardy 48 year old man with blond hair, mahogany brown eyes, a bushy mustache, and lightly tanned skin, dawning a set of full plate from Catarina, and caring a claymore into battle.
+
+Siegward is a kindhearted man that enjoys the simple aspects of life, such as a good stew at camp after a glorious battle.
 
 
 ### History
+In his youth Siegward was a knight of the vice kingdom of Catarina. Serving his land, marrying a woman named *Angela*, and having two sons named *Brian*, and *Frederick* and a daughter named *Sieglinde*.
+
+After his sons and daughters had married and his wife passed away, Siegward found himself alone and longing for the adventures of his youth. So he left his estate, wandering the lands, in search of adventure and glory.
+___
+Siegward joined the Griffins band after a duel with Gwyn. Earning glory in battle and friendship with his comrades.
 
 
 ### Character Trais
-
+The following are Siegward's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
-
+Siegward is a knightly man, always polite and respectful. Even for his enemies.
 ___
 **Ideals.**
-
+Siegward believes that all, regardless of background, deserves to be treated with dignity and respect.
 ___
 **Bonds.**
-
+Siegward is loyal to his friends and comrades from the Griffins band. He would die fighting beside any of them.
 ___
 **Flaws.**
+Siegward trusts people who join the band too quickly, this sometimes is a problem.
 
 
 ___
