@@ -69,9 +69,13 @@ At the crack of dawn the forces moved into position, Gwyn at the left side of He
 
 The battle was brutal, the rush was half successful as the enemies archers were the sharpest they ever seen.
 
-Gwyn and his men were able to reach the walls and invade the outer keep but the battle inside the walls was brutal. When all of a sudden the keeps gate were thrown open, Gwyn and his men invaded and quickly killed the remaining retiners reaching the noblemans quarters.
+Gwyn and his men were able to reach the walls and invade the outer keep but the battle inside the walls was brutal, with heavy casualties on both sides. When all of a sudden the keeps gate were thrown open, Gwyn and his men invaded and quickly killed the remaining retiners reaching the noblemans quarters.
 ___
-There they found a 19 year old servant covered in blood of the lorde of the keep. That woman, named Aileen, later would join Gwyn in his new band. As they investigated the...
+There they found, within the luxurious room, a servant holding a knife and covered in blood as well as the body of the lord of the keep. That 19 year old woman, named Aileen, later would join Gwyn in his new band. As the battle died down and the enemy forces surrendered Gwyn discovered that Heindel died in the ladder rush and half of the band died in the conflict.
+
+To worsone the situation the low morale of the Wolves caused the 3rd and 4th divisions to abbandon the battle as soon as Heindel had died. Heyso was attempting to maintan the remaining warriors united but due to its arrogant nature the Band of the Wolves quckly disbanded in the days after the funeral of Heindel.
+
+Gwyn, after seeing the luxury of the noblemans quarters, started to develop a dream of its own 
 
 
 
