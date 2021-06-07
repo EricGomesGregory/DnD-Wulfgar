@@ -20,7 +20,7 @@ ___
 Your base walking speed is 30 feet.
 ___
 ***Skilled.***
-You are proficient in a skill of language, skill, tool, vehicle, or weapon of your choice.
+You are proficient in a skill of skill, tool, vehicle, or weapon of your choice.
 ___
 ***Languages.***
-You can speak Common.
+You can speak Common and one extra language of your choice.

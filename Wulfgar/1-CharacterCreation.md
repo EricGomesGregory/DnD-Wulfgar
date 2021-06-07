@@ -11,7 +11,7 @@
 
 **Basic NPC array:** 15, 14, 13, 12, 10, 8
 
-**Player and character arrya:** 17, 14, 13, 10, 10, 8
+**Player and character arrya:** 17, 14, 12, 11, 10, 8
 
 ##### Ability Scores and Modifier
 
