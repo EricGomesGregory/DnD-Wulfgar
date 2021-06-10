@@ -4,7 +4,7 @@
 
 ##### Barbarian
 | Level | Proficiency Bonus | Features  | Rages | Rage Damage |
-|:----:|:--:|:------------------------------|:-:|
+|:----:|:--:|:------------------------------|:-:|:-:|
 |  1st | +2 | Rage, Unarmored Defense       |
 |  2nd | +2 | Reckless Attack, Danger Sense |
 |  3rd | +2 | Primal Path                   |

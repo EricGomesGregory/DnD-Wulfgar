@@ -4,27 +4,21 @@ ___
 > ## Bonewheel
 >*Medium undead, chaotic evil*
 > ___
-> - **Armor Class** 00
-> - **Hit Points** 00 (0d0 + 0)
-> - **Speed** 00ft.
+> - **Armor Class** 12
+> - **Hit Points** 8 (1d8)
+> - **Speed** 50ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 10 (+0) | 15 (+2) | 10 (+0) |  8 (+0) |  8 (+0) |  6 (+0) |
+>| 10 (+0) | 15 (+2) | 10 (+0) |  8 (-1) |  8 (-1) |  6 (-2) |
 >___
-> - **Saving Throws**
-> - **Skills**
-> - **Damage Immunities**
-> - **Damage Resistances**
-> - **Damage Vulnerabilities**
-> - **Condition Immunities**
-> - **Senses** passive Perception 00
-> - **Languages** 
-> - **Challenge** 00 (000 XP)
+> - **Senses** passive Perception 9
+> - **Level** 1
 > ___
-> ***FEATURE.*** DESCRIPTION
+> ***Charge.*** Whenever the bonewheel moves at least 30 feet straight toward a target and then hits it with a trample attack on the same turn, the target takes an extra 10 (3d6) piercing damage. 
 >
 > ### Actions
-> ***MELEE ATTACK.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
+> ***Trample.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 9 (2d6 + 2) piercing damage. If the target is a medium or smaller sized creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
 >
-> ***RANGED ATTACK.*** *Ranged Weapon Attack:* +0 to hit, reach 00/00 ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
+> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 (1d1) bludgeoning damage.
+>
