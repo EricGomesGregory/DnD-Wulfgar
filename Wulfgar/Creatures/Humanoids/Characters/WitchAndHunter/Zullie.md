@@ -35,11 +35,11 @@ ___
 > - **Languages** Common
 > - **Level** 3 Warlock
 > ___
-> ***Spellcasting.*** Zullie is an 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). Zulie has 6 mana and has the following Warlock spells prepared:
+> ***Spellcasting.*** Zullie is an 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). Zulie has 4 mana and has the following Warlock spells prepared:
 > - Cantrips (at will): *friends, magic stone, mage hand*
 > - 1st level: *comprehend languages, illusory script, sleep*
 > - 2nd level: *calm emotions*
-> - 3rd level: *dispell magic, plant growth*
+
 >
 > ***FEATURE.*** DESCRIPTION
 >
