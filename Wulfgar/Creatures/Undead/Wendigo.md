@@ -89,10 +89,12 @@ ___
 > ### Actions
 > ***Multiattack.*** The wendigo makes two claw attacks and a bite attack, alternatively the wendigo makes two attler attacks.
 >
+> ***Winter's Breath (Recharge 5-6).*** The wendigo exhales a breath of freezing mist in a 30-foot cone. Each creature in that line must make a DC 15 Constitution saving throw, taking 30 (5d10 + 3) cold damage on a failed save, or half as much damage on a successful one.
+>
 > ***Anttler.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 14 (2d10 + 3) piercing damage. 
 >
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 10 (2d6 + 3) piercing damage. A humanoid hit by this attack must make a DC 15 Constitution saving throw or be infected with Wendigo Psychosis.
 >
 > ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 8 (1d8 + 4) slashing damage. 
 >
-> ***Devour.*** The wendigo moves towards the closest corpse of a creature that isn't a construct, elemental, or ooze and eats it. For every turn taken eating the corpse, the wendigo heals 12 (2d8 + 3) hit points.
+> ***Devour.*** The wendigo moves towards the closest corpse of a creature that isn't a construct, elemental, or ooze and eats it. For every turn taken eating the corpse, the wendigo heals 12 (2d8 + 3) hit points. 
