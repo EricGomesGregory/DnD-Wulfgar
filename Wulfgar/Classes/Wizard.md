@@ -58,11 +58,11 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
 #### Preparing and Casting Spells
-The Wizard table shows how much mana you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a number of mana equal to the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The Wizard table shows how much mana you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a number of mana equal to the spell’s level or higher. You regain all expended mana when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you are able to cast.
 
-For example, if you’re a 3rd-level wizard, you have 8 mana. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it at 1st-level or at 2nd-level. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 3rd-level wizard, you have 8 mana. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st-level or at 2nd-level. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -83,8 +83,7 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 You can use an arcane focus (see the Adventuring Gear section) as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
-
+The only way to learn new spells is by finding tomes on your adventures and either coping their contents into your spellbook or by adding the tomes pages into your spellbook.
 
 ### Arcane Recovery
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can gain temporary mana equal to half your wizard level (rounded down). This mana can only be used to cast spells of 5th-level or lower. 
