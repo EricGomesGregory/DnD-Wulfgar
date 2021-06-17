@@ -1,5 +1,5 @@
 ## Zullie, the Witch 
-Zullie is a 58 year old 4'7 woman with short dark red hair...
+Zullie is a 58 year old 4'7 woman with short dark red hair, a emaciated physique and slitted emerald green eyes. She dawns a black dress and a dark green hooded cape.
 
 ### Character Trais
 The following are Zullie's Personality, Ideals, Bonds and Flaws:
