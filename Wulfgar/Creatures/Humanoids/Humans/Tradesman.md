@@ -30,6 +30,35 @@ ___
 > ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2 (1d4 + 2) piercing damage. 
 >
 
+
+## Assassin
+
+___
+> ## Assassin
+>*Medium humanoid(human), neutral*
+> ___
+> - **Armor Class** 15 (gambeson)
+> - **Hit Points** 10 (1d8 + 2)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 14 (+2) |  8 (-1) |
+>___
+> - **Saving Throws** Dex +5
+> - **Skills** Perception +4, Stealth +5
+> - **Tool** Poisoner's kit
+> - **Senses** passive Perception 14
+> - **Languages** Common 
+> - **Level** 1
+> ___
+>
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
+>
+> ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, reach 00/00 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. The target must make a DC 11 Constiution saving throw, taking 7 (2d6) poison damage on a failed save or half as much on a successful one.
+
+
 ## Brewer
 
 ___
@@ -377,32 +406,83 @@ ___
 >
 
 
-## NAME
+## Thief
 
 ___
-> ## NAME
+> ## Thief
 >*Medium humanoid(human), neutral*
 > ___
-> - **Armor Class** 00
-> - **Hit Points** 00 (0d0 + 0)
+> - **Armor Class** 15 (gambeson)
+> - **Hit Points** 7 (1d8 - 1)
 > - **Speed** 30ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+>| 12 (+1) | 16 (+3) |  8 (-1) | 14 (+2) | 14 (+2) | 11 (+0) |
 >___
-> - **Saving Throws**
-> - **Skills**
-> - **Tool**
-> - **Senses** passive Perception 00
+> - **Saving Throws** Dex +5
+> - **Skills** Stealth +5, Sleight of Hand +5
+> - **Tool** Thieve's tools
+> - **Senses** passive Perception 12
 > - **Languages** Common 
 > - **Level** 1
 > ___
 >
 > ### Actions
-> ***MELEE ATTACK.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
-> ***RANGED ATTACK.*** *Ranged Weapon Attack:* +0 to hit, reach 00/00 ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
+
+
+## Weaver
+
+___
+> ## Weaver
+>*Medium humanoid(human), neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 8 (1d8)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 10 (+0) | 14 (+2) | 10 (+0) | 15 (+2) | 14 (+2) | 12 (+1) |
+>___
+> - **Skills** History +4, Religion +4, Sleight of Hand +4
+> - **Tool** Weaver's tools
+> - **Senses** passive Perception 12
+> - **Languages** Common 
+> - **Level** 1
+> ___
+>
+> ### Actions
+> ***Needle.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2 piercing damage. 
+>
+
+
+## Woodcarver
+
+___
+> ## Woodcarver
+>*Medium humanoid(human), neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 8 (1d8)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 15 (+2) | 12 (+1) |
+>___
+> - **Skills** History +2, Perception +4, Sleight of Hand +4
+> - **Tool** Woodcarver's tools
+> - **Senses** passive Perception 14
+> - **Languages** Common 
+> - **Level** 1
+> ___
+>
+> ### Actions
+> ***Knife.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 2) slashing damage.
+>
 
 
 ## NAME
