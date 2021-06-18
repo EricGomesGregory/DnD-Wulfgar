@@ -85,6 +85,7 @@ ___
 
 
 ## Blacksmith
+Blacksmiths are aretisans that dedicate themselves to the art of molding metal into tools and objects. Most blacksmiths use their skills to create hammers, nails, saws, axes and other metal objects, but some blacksmiths hone their skills to create weapons and armors.
 
 ___
 > ## Blacksmith
