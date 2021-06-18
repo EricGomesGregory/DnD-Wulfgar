@@ -1,8 +1,6 @@
 # Tradesman
 ___
-The following are frameworks for human tradesmans...
-
-15, 14, 13, 12, 10, 8
+The following are statblock examples for the various tradesmans of the world of Wulfgar.
 
 ## Alchemist
 
@@ -10,8 +8,8 @@ ___
 > ## Alchemist
 >*Medium humanoid(human), neutral*
 > ___
-> - **Armor Class** 00
-> - **Hit Points** 00 (0d0 + 0)
+> - **Armor Class** 13 (leather jerkin)
+> - **Hit Points** 10 (1d8 + 2)
 > - **Speed** 30ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
