@@ -1,10 +1,10 @@
 ## Sulyvhan
 Sulyvhan is a 5'6, 20 year old man with skin as white as the moon, black hair with grey streaks, and bluish grey eyes. He dawns a dark blue gambeson with a white crescent moon under a black hooded cape. He wields
 
-He is a persuasive man with a serpent's tongue
+Sulyvhan is a persuasive man with a serpent's tongue and an ambitious heart.
 
 ### History
-A
+
 
 
 ### Character Trais
