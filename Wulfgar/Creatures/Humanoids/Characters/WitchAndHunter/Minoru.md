@@ -1,19 +1,22 @@
 ## Minoru, the Bear
 Minoru is a 38 year old 6'2 woman with milky white skin, unnaturally blond hair and strange yellow eyes. She dawns a rugged black brigandine, over a old gambason, and a beige cloak. 
 
-Monoru is a silent and cold individual that seeks to fulfill the missions granted by her master, NAME, as quickly as possible and as eficiently as possible. Due to her strange nature she has some dificulty communicating with other humans.
+Minoru is a silent and cold individual that seeks to fulfill the missions granted by her mistress, Zullie, as quickly as possible and as eficiently as possible. Due to her strange nature she has some dificulty communicating with other humans.
+
+### History
+Minoru was born to a poor familly on a village near Brinam, due to their circumstance
 
 ### Character Trais
 The following are Minoru's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
-Minoru is a cold and calculating woman who seeks to fulfill her mission wherever, whenever, and however it should be done. In acordance to her patron, lady NAME.
+Minoru is a cold and calculating woman who seeks to fulfill her mission wherever, whenever, and however it should be done. In acordance to her mistress, Zuillie.
 ___
 **Ideals.**
 
 ___
 **Bonds.**
-Minoru's only attachment is to her master lady NAME 
+Minoru's only attachment is to her mistress Zuillie, the Witch 
 ___
 **Flaws.**
 Minoru, due to her training, is a unfealing woman. 
@@ -31,7 +34,7 @@ ___
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 18 (+4) | 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) |  8 (-1) |
 >___
-> - **Saving Throws** Dex +4, int +3
+> - **Saving Throws** Dex +4, Int +3
 > - **Skills** Athletics +6, Investigation +3
 > - **Senses** passive Perception 10
 > - **Languages** Common

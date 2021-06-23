@@ -1,5 +1,5 @@
 ## Zullie, the Witch 
-Zullie is a 58 year old 4'7 woman with short dark red hair, a emaciated physique and slitted emerald green eyes. She dawns a black dress and a dark green hooded cape.
+Zullie is a 78 year old 4'7 woman with short dark red hair, a emaciated physique and slitted emerald green eyes. She dawns a black dress and a dark green hooded cape.
 
 ### Character Trais
 The following are Zullie's Personality, Ideals, Bonds and Flaws:
@@ -22,7 +22,7 @@ ___
 >*Medium humanoid(human), lawful neutral*
 > ___
 > - **Armor Class** 10
-> - **Hit Points** 14 (3d3 - 3)
+> - **Hit Points** 17 (5d8 - 5)
 > - **Speed** 30ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -33,12 +33,13 @@ ___
 > - **Skills** Arcana +3, Insight +5, Perception +5, Persuasion +6
 > - **Senses** passive Perception 15
 > - **Languages** Common
-> - **Level** 3 Warlock
+> - **Level** 5 Warlock
 > ___
-> ***Spellcasting.*** Zullie is an 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). Zulie has 4 mana and has the following Warlock spells prepared:
+> ***Spellcasting.*** Zullie is an 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). Zulie has 6 mana and has the following Warlock spells prepared:
 > - Cantrips (at will): *friends, magic stone, mage hand*
 > - 1st level: *comprehend languages, illusory script, sleep*
 > - 2nd level: *calm emotions*
+> - 3rd level: *?*
 
 >
 > ***FEATURE.*** DESCRIPTION
