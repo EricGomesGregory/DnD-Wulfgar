@@ -11,7 +11,7 @@ Sulyvhan was born in the Hafexian city of Rattvik, to a lesser noble familly. Fr
 The following are Sulyvhan's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
-
+Sulyvhan is an ambitious man with
 ___
 **Ideals.**
 
