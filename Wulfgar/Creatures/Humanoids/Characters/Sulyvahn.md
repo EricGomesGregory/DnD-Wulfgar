@@ -4,7 +4,7 @@ Sulyvhan is a 5'6, 20 year old man with skin as white as the moon, black hair wi
 Sulyvhan is a persuasive man with a serpent's tongue and an ambitious heart.
 
 ### History
-
+Sulyvhan was born in the Hafexian city of Rattvik, to a lesser noble familly. From an early age Sulyvhan...
 
 
 ### Character Trais
@@ -24,9 +24,9 @@ ___
 
 ___
 > ## Sulyvhan
->*Medium humanoid(elf), chaotic neutral*
+>*Medium humanoid(human), chaotic neutral*
 > ___
-> - **Armor Class** 10 (Gambeson)
+> - **Armor Class** 12 (Gambeson)
 > - **Hit Points** 11 (2d6 + 2)
 > - **Speed** 30ft.
 >___
