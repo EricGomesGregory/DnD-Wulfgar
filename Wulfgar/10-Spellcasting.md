@@ -1,4 +1,7 @@
 ## Casting a Spell
+When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.
+
+Each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
 
 
 ### Casting Time
@@ -19,6 +22,8 @@ When attempting to cast a spell you must make a spellcasting roll, if the spell 
 
 If the spellcasting roll is inferior to the DC the spell is not cast, on a natural 1 on the D20 counts as a critical failure.
 
+```
+```
 
 ### Range
 The target of a spell must be within the spell's range. For a spell like magic missile, the target is a creature. For a spell like fireball, the target is the point in space where the ball of fire erupts.
@@ -28,9 +33,6 @@ Most spells have ranges expressed in feet. Some spells can target only a creatur
 Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you.
 
 Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise.
-
-```
-```
 
 ### Components
 A spell's components are the physical requirements you must meet in order to cast it. Each spell's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell.
