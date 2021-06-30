@@ -1,7 +1,7 @@
 # Vrostian Peaks
 
 
-## Vreosta
+## Vrostia
 
 ### Loretta
 
