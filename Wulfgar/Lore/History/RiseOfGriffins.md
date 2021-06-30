@@ -76,9 +76,9 @@ There they found, within the luxurious room, a servant holding a knife and cover
 To worsone the situation the low morale of the Wolves caused the 3rd and 4th divisions to abbandon the battle as soon as Heindel had died. Heyso was attempting to maintan the remaining warriors united but due to its arrogant nature the Band of the Wolves quckly disbanded in the days after the funeral of Heindel.
 
 ## Rise of the Griffins
-Gwyn, after seeing the state of the Wolves decided this was the time to change his fate and become more then he was. So in the dead of night he organized with members of his squadrons of the 1st division, Aileen and even the traitor of siege Siegward to form a new band of mercenaries.
+Gwyn, after seeing the state of the Wolves decided this was the time to change his fate and become more then he was. So in the dead of night he organized with members of his squadrons of the 1st division, Aileen and even the traitor of the siege Ludwig to form a new band of mercenaries.
 
-So in the crack of dawn Gwyn, Aileen, Siegward and 12 other members of the 1st and 2nd divisions of the wolves quietly marched away from the Wolves camp with a handfull of tradesman and a few carts of equipment and loot from the sige.
+So in the crack of dawn Gwyn, Aileen, Ludwig and 12 other members of the 1st and 2nd divisions of the wolves quietly marched away from the Wolves camp with a handfull of tradesman and a few carts of equipment and loot from the sige.
 
 From that day on they called themselves the Band of the Griffin.
 
