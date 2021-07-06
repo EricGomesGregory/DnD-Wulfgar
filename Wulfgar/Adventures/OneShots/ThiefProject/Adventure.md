@@ -21,25 +21,41 @@ The party is resting in the dinji inn of TAVERN_NAME in the city of Melfia. When
 
 The note reads in thieves' cant: "Join me in the second room of the upper floor, come one by one with a delay of at least a drink between one another. I have a job to discuss."
 ___
-In the room the party will find an 46 year old man with short hair and a well kept beard of geryish brown collor, sturn dark brown eyes and a noble deminner. Dawning a black stained leather jerkin over a darkblue shirt and dark red pants. He sits in a chair smoking a wooden pipe and presents himself as **NAME**.
+In the room the party will find an 46 year old man with short hair and a well kept beard of geryish brown collor, sturn dark brown eyes and a noble deminner. Dawning a black stained leather jerkin over a darkblue shirt and dark red pants. He sits in a chair smoking a wooden pipe and presents himself as **Jager**.
 
-He explains to the party that his master has heard of their exploits and wishes to enlist them on a mission. As a reward thei would recieve 200 gp. As a show of good faith, NAME will award the party 100 gp right away.
+He explains to the party that his master has heard of their exploits and wishes to enlist them on a mission. As a reward thei would recieve 200 gp. As a show of good faith, Jager will award the party 100 gp right away.
 
 ## Part 1: The Test
 The party is tasked with stealthfully invading a mansion in the mountains, stealing a damascus steel longsword from within and taking it to a cabbin in the other side of the city.
 
-NAME gives the party a rough map of the manssion, a description of the sword in question and a note with the directions of the cabbin. All the information is written in thieves' cant.
+Jager gives the party a rough map of the manssion, a description of the sword in question and a note with the directions of the cabbin. All the information is written in thieves' cant.
 
-Finally NAME infroms them that they have until dawn to be in the cabbin, if they do not fulfil their end of the bargin not only won't they recieve the other half of the deal but will also be hunted down by the lords knights.
+Finally Jager infroms them that they have until midnight to be in the cabbin, if they do not fulfil their end of the bargin not only won't they recieve the other half of the deal but will also be hunted down by the lords knights.
 
-With this information given he orders the party to leave his room all at once.
+With this information given he orders the party to leave his room all at once. This gives the party 6 hours to fulfil their mission.
 
 ### Reaching the Manssion
-The party is
+After recieveing their mission from Jager, the party must traverse the city of Melfia and reach the manssion.
+
+##### City Random Encounters
+| d6  | Encounter           |
+|:---:|:--------------------|
+|  1  | Attacked by Bandits |
+| 2-3 | Guard Watch         |
+| 4-5 | Normal Travel       |
+|  6  | Quick Travel        |
 
 ### Within the Manssion
 
 ### Reaching the Cabbin
+
+##### Melfia Random Encounters
+| d6  | City Encounter      | Forest Encounter   |
+|:---:|:--------------------|:-------------------|
+|  1  | Attacked by Bandits | Attacked by Wolves |
+| 2-3 | Guard Watch         | Lost in the woods  |
+| 4-5 | Normal Travel       | Normal Travel      |
+|  6  | Quick Travel        | Quick Travel       |
 
 
 ## Part 2: The Mission
