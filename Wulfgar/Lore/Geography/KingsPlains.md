@@ -40,7 +40,7 @@
 ### Dunwich
 
 ### Melfia
-The city of Melfia, located in the MOUNTAIN_NAME mountains...
+The city of Melfia, located in the MOUNTAIN_NAME mountains is a small walled city ruled by the HAFEXIAN_FAMILY family...
 
 #### Landmarks
 The following are the major landmarks of the city of Melfia
