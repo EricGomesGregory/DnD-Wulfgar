@@ -5,12 +5,12 @@ He is calm, intelligent and magnetic in his personality. He acts as a kindhearte
 
 
 ### History
-Gwyn is the son of an elf whore and a hafexian duque, he grew up poor in the city of Melfia dreaming of being a duke like his father. When he was a child he found a wolf cub nested in a dead wolf in the forest near his house, he took in the cub and trained her, giving her the name Nymeria.
+Gwyn is the son of an elf whore and a hafexian duke, he grew up poor in the city of Melfia dreaming of being a duke like his father. When he was a child he found a wolf cub nested in a dead wolf in the forest near his house, he took in the cub and trained her, giving her the name Nymeria.
 
 From an early age, Gwyn became mercenary and quickly grew as a soldier and then as a commander, with Nymeria always at his side. At 20 Gwyn broke from his former mercenary band and created his own, the Griffins band with the aid of Aileen and Ludwig after a siege.
 
 
-### Character Trais
+### Character Traits
 The following are Gwyn's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
@@ -51,7 +51,7 @@ ___
 > On Gwyn's turn, he can take one additional action.
 >
 > ***Inspiring Leader.***
-> Gwyn can spend 10 minutes inspiring its companions, shoring up their resolve to fight. When he does, he chooses up to six friendly creatures (which can includes himself) within 30 feet of him who can see or hear him and who can understand him. Each creature can gain temporary hit points equal to Gwyn's level + its Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+> Gwyn can spend 10 minutes inspiring its companions, shoring up their resolve to fight. When he does, he chooses up to six friendly creatures (which can includes himself) within 30 feet of him who can see or hear him and who can understand him. Each creature can gain (4) temporary hit points. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 >
 > ### Actions
 > ***Estoc.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 7 (1d8 + 3) piercing damage. 
@@ -59,12 +59,12 @@ ___
 > ***Estoc (two-handed).*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) piercing damage. 
 >
 > ### Reaction
-> ***Parry.*** Gwyn can make a saber attack, whenever a enemy misses a melee weapon attack against him.
+> ***Parry.*** Gwyn can make a estoc attack, whenever a enemy misses a melee weapon attack against him.
 >
 
 
 ## Nymeria
-Nymeria is a white wolf...
+Nymeria is a white wolf with mahogany eyes 
 
 ___
 > ## Nymeria
@@ -79,8 +79,7 @@ ___
 >| 12 (+1) | 15 (+1) | 12 (+1) |  3 (-4) | 12 (+1) |  6 (-2) |
 >___
 > - **Skills** Perception +3, Stealth +4
-> - **Senses** passive Perception 13
-> - **Languages** None
+> - **Senses** passive Perception 15
 > - **Level** 1
 > ___
 > ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -89,4 +88,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone
+>
+> ***Howl.*** The wolf can perform a intimidating howl. Beasts within 120 feet of the howling wolf must succeed on a DC 11 Wisdom saving throw or be frightened.
 >
