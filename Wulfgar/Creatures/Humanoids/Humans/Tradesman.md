@@ -1,9 +1,9 @@
 # Tradesman
 ___
-The following are statblock examples for the various tradesmans of the world of Wulfgar.
+The following are stat block examples for the various tradesman's of the world of Wulfgar.
 
 ## Alchemist
-
+Alchemists are rare in the nations of Wulfgar most are under the service of noble families, some are hermits in search of the truth of the world, and others are deemed heretics and burned at the stake by religious zealots.
 ___
 > ## Alchemist
 >*Medium humanoid(human), neutral*
@@ -54,7 +54,7 @@ ___
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
-> ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, reach 00/00 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. The target must make a DC 11 Constiution saving throw, taking 7 (2d6) poison damage on a failed save or half as much on a successful one.
+> ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, reach 00/00 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. The target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save or half as much on a successful one.
 
 
 ## Brewer
@@ -85,7 +85,7 @@ ___
 
 
 ## Blacksmith
-Blacksmiths are aretisans that dedicate themselves to the art of molding metal into tools and objects. Most blacksmiths use their skills to create hammers, nails, saws, axes and other metal objects, but some blacksmiths hone their skills to create weapons and armors.
+Blacksmiths are artisans that dedicate themselves to the art of molding metal into tools and objects. Most blacksmiths use their skills to create hammers, nails, saws, axes and other metal objects, but some blacksmiths hone their skills to create weapons and armors.
 
 ___
 > ## Blacksmith
@@ -112,10 +112,10 @@ ___
 >
 
 
-## Carpinter
+## Carpenter
 
 ___
-> ## Carpinter
+> ## Carpenter
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 12
@@ -247,10 +247,10 @@ ___
 > ***Shortbow.*** *Ranged Weapon Attack:* +5 to hit, reach 80/320 ft., one target. *Hit* 3 (1d6 + 3) piercing damage. 
 
 
-## Jewler
+## Jeweler
 
 ___
-> ## Jewler
+> ## Jeweler
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 10
@@ -262,7 +262,7 @@ ___
 >| 10 (+0) | 10 (+0) | 10 (+0) | 16 (+3) | 14 (+2) | 16 (+3) |
 >___
 > - **Skills** Investigation +5, Insight +4, Persuasion +5
-> - **Tool** Jewler's tools
+> - **Tool** Jeweler's tools
 > - **Senses** passive Perception 12
 > - **Languages** Common 
 > - **Level** 1

@@ -137,6 +137,31 @@ ___
 > ***Spear.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. *Hit* 7 (1d8 + 3) piercing damage. 
 >
 
+## Astoran Knight
+
+___
+> ## Astoran Knight
+>*Medium humanoid(human), neutral*
+> ___
+> - **Armor Class** 18 (Plate)
+> - **Hit Points** 13 (1d10 + 3)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) |  8 (-1) | 16 (+3) | 12 (+1) | 13 (+1) | 10 (+0) |
+>___
+> - **Saving Throws** +5 Str
+> - **Skills** Athletics +5, Reilgion +3
+> - **Senses** passive Perception 11
+> - **Languages** Common 
+> - **Level** 1
+> ___
+>
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) slashing damage. 
+>
+
 
 ## NAME
 
