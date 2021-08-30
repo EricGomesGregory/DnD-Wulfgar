@@ -27,3 +27,13 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 ___
 ***Languages.***
 You can speak Elvish.
+
+
+### Height and Weight
+You can generate the height and weight of your character using the Random Weight and Height table. The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. The same number multiplied by the dice roll of the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
+
+##### Random Height and Weight
+| Ethnicity | Base Height | Height Modifier | Base Weight | Weight Modifier |
+|:----------|:-----------:|:---------------:|:-----------:|:---------------:|
+| Elf       | 4'8''       | +3d8            | 90 lb.      | x (1d4) lb.     |
+
