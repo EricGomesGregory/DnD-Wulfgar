@@ -2,7 +2,7 @@
 
 ___
 - **Skill Proficiencies:** Insight, Religion
-- **Languages:** Read and Write on your own language, one of your choice.
+- **Languages:** Read and Write on your own language, one other language of your choice.
 - **Equipment:** A holy Symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of Common clothes, and a pouch containing 15 gp.
 
 #### Feature: Shelter of the Faithful
