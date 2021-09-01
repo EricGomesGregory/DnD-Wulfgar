@@ -20,7 +20,7 @@ The Soldiers table shows the name, age, height and type of the common soldiers o
 | Drew      |  23 | 5'4''  | Hafexia  |
 | Diego     |  18 | 5'4''  | Hafexia  |
 | Jaxson    |  17 | 5'3''  | Hafexia  |
-| Jhon      |  17 | 5'3''  | Hafexia  |
+| John      |  17 | 5'3''  | Hafexia  |
 | Ryan      |  19 | 5'5''  | Forossa  |
 | Asher     |  20 | 5'4''  | Hafexia  |
 | Gail      |  26 | 5'7''  | Hafexia  |
@@ -39,258 +39,70 @@ The Soldiers table shows the name, age, height and type of the common soldiers o
 Aria is a blond haired girl, with dark brown eyes, and an athletic physique. She dawns a full set of chainmail armor (haulberk), with a light blue tabard emblazoned with a white griffin, and a astoran bascinet helmet. Aria wields a bastard sword (longsword) and a small bollock dagger.
 
 Out of the battlefield Aria prefers to wear men's clothes, as she finds them more practical. But in rare occasions she dawns a simple red dress made by her sister.
-___
-**Personality.**
-Aria is a very optimistic individual...
-___
-**Goals.**
-Aria seeks to become independent, buying her own home with her own money.
-___
-**Bonds.**
-Aria is very loyal to her comrades of the Band of the Griffin, she has a strong friendship with the knight Siegward.
-___
-**Flaws.**
-Aria is very naive, quickly believing the words of persuasive individuals.
 
 
 ### Asher
-DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
+Asher is a short man with long redwood hair, a messy beard, broad shoulders, and moss-green eyes. He dawns a light blue wool gambeson embroider with a white griffin and a kettle helm. Asher wields a regular spear and a simple dagger into battle.
+
+PERSONAL_ELEMENT.
 
 
 ### Ayan
-DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
+Ayan is a short and slender man with short coal-black hair, pale skin, and dark-brown eyes. He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a walnut longbow and a simple dagger into battle.
+
+Out of the battlefield, Ayan PERSONAL_CHARACTERITICS
 
 
 ### Dante
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Diego
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Drew
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Eden
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Francis
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Gail
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Hugo
-DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-Hugo is a alcoholic
+Hugo is a large man with broad shoulders a square face
 
 
 ### Jaxson
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
-### Jhon
+### John
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Mason
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Otto
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Ryan
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 ### Toby
 DESCRIPTION
-___
-**Personality.**
-PERSONALITY
-___
-**Goals.**
-GOALS
-___
-**Bonds.**
-BONDS
-___
-**Flaws.**
-FLAWS
 
 
 \page
@@ -319,7 +131,7 @@ ___
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
-> ***RANGED.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit* 7 (1d8 + 3) piercing damage. 
+> ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit* 7 (1d8 + 3) piercing damage. 
 
 
 ___
