@@ -1,35 +1,297 @@
 ## The Soldiers
-The soldiers of the Band of the Griffin are commoners of the kingdoms of Hafexia and Forrosa. This man and woman...
+The soldiers of the Band of the Griffin are commoners of the kingdoms of of the Kings Plains. These man and woman fight alongside Gwyn and the other members of the Band of the Griffin.
 
-The Soldiers table shows the name, age, height and type of the comon soldiers of the band. The type determines the characters statblock.
+The Soldiers table shows the name, age, height and type of the common soldiers of the band. The type determines the characters statblock.
 
 <div class='classTable'>
 
 ##### Soldiers
-| Name      | Age | Height |
-|:----------|:---:|:------:|
-|*Archer*   |     |        |
-| Ayan      |  18 | 5'1    |
-| Dante     |  20 | 5'4    |
-| Eden      |  17 | 5'2    |
-| Mason     |  19 | 5'4    |
-| Otto      |  16 | 5'6    |
-|*Berserker*|     |        |
-| Hugo      |  21 | 6'1    |
-|*Spearman* |     |        |
-| Drew      |  23 | 5'4    |
-| Diego     |  18 | 5'4    |
-| Jaxson    |  17 | 5'3    |
-| Jhon      |  17 | 5'3    |
-| Ryan      |  19 | 5'5    |
-| Asher     |  20 | 5'4    |
-| Gail      |  26 | 5'7    |
-|*Swordsman*|     |        |
-| Aria      |  15 | 5'1    |
-| Francis   |  17 | 5'3    |
-| Toby      |  23 | 5'8    |
+| Name      | Age | Height | Origin   |
+|:----------|:---:|:------:|:---------|
+|*Archer*   |     |        |          |
+| Ayan      |  18 | 5'1''  | Hafexia  |
+| Dante     |  20 | 5'4''  | Astora   |
+| Eden      |  17 | 5'2''  | Forossa  |
+| Mason     |  19 | 5'4''  | Hafexia  |
+| Otto      |  16 | 5'6''  | Hafexia  |
+|*Berserker*|     |        |          |
+| Hugo      |  21 | 6'1''  | Vrostian |
+|*Spearman* |     |        |          |
+| Drew      |  23 | 5'4''  | Hafexia  |
+| Diego     |  18 | 5'4''  | Hafexia  |
+| Jaxson    |  17 | 5'3''  | Hafexia  |
+| Jhon      |  17 | 5'3''  | Hafexia  |
+| Ryan      |  19 | 5'5''  | Forossa  |
+| Asher     |  20 | 5'4''  | Hafexia  |
+| Gail      |  26 | 5'7''  | Hafexia  |
+|*Swordsman*|     |        |          |
+| Aria      |  15 | 5'1''  | Astora   |
+| Francis   |  17 | 5'3''  | Forossa  |
+| Toby      |  23 | 5'8''  | Hafexia  |
   
 </div>
+
+
+```
+```
+
+### Aria
+Aria is a blond haired girl, with dark brown eyes, and an athletic physique. She dawns a full set of chainmail armor (haulberk), with a light blue tabard emblazoned with a white griffin, and a astoran bascinet helmet. Aria wields a bastard sword (longsword) and a small bollock dagger.
+
+Out of the battlefield Aria prefers to wear men's clothes, as she finds them more practical. But in rare occasions she dawns a simple red dress made by her sister.
+___
+**Personality.**
+Aria is a very optimistic individual...
+___
+**Goals.**
+Aria seeks to become independent, buying her own home with her own money.
+___
+**Bonds.**
+Aria is very loyal to her comrades of the Band of the Griffin, she has a strong friendship with the knight Siegward.
+___
+**Flaws.**
+Aria is very naive, quickly believing the words of persuasive individuals.
+
+
+### Asher
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Ayan
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Dante
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Diego
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Drew
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Eden
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Francis
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Gail
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Hugo
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+Hugo is a alcoholic
+
+
+### Jaxson
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Jhon
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Mason
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Otto
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Ryan
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
+
+### Toby
+DESCRIPTION
+___
+**Personality.**
+PERSONALITY
+___
+**Goals.**
+GOALS
+___
+**Bonds.**
+BONDS
+___
+**Flaws.**
+FLAWS
+
 
 \page
 
