@@ -29,7 +29,8 @@
 </div>
 
 ## Class Features
-As a Ranger, you gain the following class features |
+As a Ranger, you gain the following class features
+
 #### Hit Points
 ___
 - **Hit Dice:** 1d10 per Ranger level

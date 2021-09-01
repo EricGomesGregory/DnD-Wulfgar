@@ -30,3 +30,13 @@ Golaiths live in figid mountains and harsh tundras as a result you have the foll
 ___
 ***Languages.***
 You can speak Goliath.
+
+
+### Height and Weight
+You can generate the height and weight of your character using the Random Weight and Height table. The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. The same number multiplied by the dice roll of the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
+
+##### Random Height and Weight
+| Ethnicity | Base Height | Height Modifier | Base Weight | Weight Modifier |
+|:----------|:-----------:|:---------------:|:-----------:|:---------------:|
+| Goliath   | 6'0''       | +2d10           | 150 lb.     | x (1d6) lb.     |
+
