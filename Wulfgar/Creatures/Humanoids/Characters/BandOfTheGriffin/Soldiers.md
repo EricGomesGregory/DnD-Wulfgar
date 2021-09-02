@@ -54,7 +54,7 @@ Out of the battlefield, Ayan PERSONAL_CHARACTERITICS
 
 
 ### Dante
-DESCRIPTION
+Dante is a  He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle.
 
 
 ### Diego
