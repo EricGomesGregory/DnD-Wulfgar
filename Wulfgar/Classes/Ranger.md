@@ -82,10 +82,12 @@ In addition, you are skilled at navigating the wilderness. You gain the followin
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 ### Favored Enemy
-Beginning at 2nd level, you have significant experience studying, tracking, hunting, and even talking to a centain type of enemy commonly encountered in the wilds.
+Beginning at 2nd level, you have significant experience studying, tracking, and hunting a centain type of enemy commonly encountered in the wilds.
 
-Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information abaut them.
+Choose a type of favored enemy: Beasts, Humanoids, or Monstrosities. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information abaut them.
 
+```
+```
 
 ### Spellcasting
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See Spells Rules for the general rules of spellcasting and the Spells Listing for the ranger spell list.
@@ -104,10 +106,13 @@ Additionally, when you gain a level in this class, you can choose one of the ran
 
 #### Spellcasting Ability
 Wisdom is your spellcasting ability for your ranger spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
-
+___
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
-
+___
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+
+\page
 
 
 ### Primeval Awareness
@@ -121,7 +126,6 @@ Additionally, you can attune your senses to determine if any of your favored ene
 
 If there are multiple groups of your favored enemies within range, you learn this information for each group.
 
-\page
 
 ### Ranger Conclave
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave: the Beast Conclave, the Hunter Conclave, or the Stalker Conclave, all detailed at the end of the class description. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level.
@@ -138,7 +142,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 
 ### Greater Favored Enemy
-At	6th	level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
+At	6th	level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: Aberrations, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, or Undead. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy. Your bonus to damage rolls against all your favored enemies increases to +4.
 
 Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
 
@@ -146,6 +150,8 @@ Additionally, you have advantage on saving throws against the spells and abiliti
 ### Fleet of Foot
 Beginning at 9th level, you can use the Dash action as a bonus action on your turn.
 
+```
+```
 
 ### Hide In Plain Sight
 Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.
@@ -158,8 +164,6 @@ If	you	are	still hidden on your next turn, you can continue to remain motionless
 ### Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
 
-```
-```
 
 ### Feral Senses
 At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
