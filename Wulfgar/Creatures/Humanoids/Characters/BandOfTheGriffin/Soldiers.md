@@ -54,7 +54,7 @@ Out of the battlefield, Ayan PERSONAL_CHARACTERITICS
 
 
 ### Dante
-Dante is a  He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle.
+Dante is a short man with curly dirty-blond hair He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle.
 
 
 ### Diego
@@ -78,7 +78,7 @@ DESCRIPTION
 
 
 ### Hugo
-Hugo is a large man with broad shoulders a square face
+Hugo is a large man with broad shoulders, a square face, light-grayish skin, a bald head, and dark-green eyes. He dawns a Fur jacket, a dark-blue linen pants, and hide boots. Hugo wields a pair of battleaxes adorned with crude carvings of birds.
 
 
 ### Jaxson
