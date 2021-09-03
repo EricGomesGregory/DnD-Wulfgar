@@ -5,8 +5,8 @@
 ##### Paladin
 | Level | Proficiency Bonus | Features     | Mana | Max Spell Level |
 |:----:|:--:|:-----------------------------|:--:|:---:|
-|  1st | +2 | Divine Sense, Lay on Hands   |  _ |  _  |
-|  2nd | +2 | Fighting Style, Spellcasting |  2 | 1st |
+|  1st | +2 | Divine Sense, Fighting Style |  _ |  _  |
+|  2nd | +2 | Lay on Hands, Spellcasting   |  2 | 1st |
 |  3rd | +2 | Divine Smite, Sacred Oath    |  3 | 1st |
 |  4th | +2 | Ability Score Improvement    |  3 | 1st |
 |  5th | +3 | Extra Attacks                |  8 | 2nd |
