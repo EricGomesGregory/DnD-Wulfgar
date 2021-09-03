@@ -5,8 +5,8 @@
 ##### Ranger
 | Level | Proficiency Bonus | Features | Spells Known | Mana | Max Spell Level |
 |:----:|:--:|:------------------------------------|:--:|:--:|:---:|
-|  1st | +2 | Favored Enemy, Natural Explorer     |  _ |  _ |  _  |
-|  2nd | +2 | Fighting Style, Spellcasting        |  2 |  2 | 1st |
+|  1st | +2 | Fighting Style, Natural Explorer    |  _ |  _ |  _  |
+|  2nd | +2 | Favored Enemy, Spellcasting         |  2 |  2 | 1st |
 |  3rd | +2 | Ranger Conclave, Primeval Awareness |  3 |  3 | 1st |
 |  4th | +2 | Ability Score Improvement           |  3 |  3 | 1st |
 |  5th | +3 | Extra Attack                        |  4 |  8 | 2nd |
@@ -85,8 +85,6 @@ In addition, you are skilled at navigating the wilderness. You gain the followin
 Beginning at 2nd level, you have significant experience studying, tracking, hunting, and even talking to a centain type of enemy commonly encountered in the wilds.
 
 Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information abaut them.
-
-When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.
 
 
 ### Spellcasting
