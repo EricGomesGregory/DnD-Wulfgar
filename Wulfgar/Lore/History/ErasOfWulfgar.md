@@ -16,7 +16,11 @@ At first the dwarves were weak and ineffective, as the fiends lived in the caves
 After the war Kaur had N children, that he ordered to shepherd the dwarves from then on, and as a last act he climbed the tallest mountain the range dying at the summit and from his body the fortress of Kragmeer grew.
 
 ### Human History
-Humans emerged from the clay of the Nhar river at the end of the Age of Myth...
+Humans emerged from the clay of the Nhar river at the end of the Age of Myth, being free from any race more powerful to rule them, humans quickly grew in number and established many villages along the Nhar.
+
+This caught the attention of the monsters that lurked in the hills. The weak humans, devoid of any divinity, suffered from the many attacks of the many monsters that lurked the lands beyond the Nhar banks.
+
+To protect themselves the humans created an order of monster hunters known as MONSTER_HUNTER_FACTION. They were responsible for studying the monsters and killing them. 
 
 ### Goliath History
 During the Age of Myth the goliaths emerged from the mountains of Vrostia as the last and lesser giants, where their brothers and sisters could hurl lightning from their hands, blow howling winds, or lift small castles; the goliaths only were numerous. As a result they were quickly enslaved as punishment for their weakness.
@@ -26,7 +30,7 @@ As the age progressed the goliaths became resentful of their brothers and sister
 At the end of the war all giants were murdered, their blood cursing the land so that very little food could grow. Vrostus for all his bravery died on the battlefield without any heirs. So the remaining goliaths formed clans and fought one another for the few resources that the land had. 
 
 
-## Age of AGE_NAME
+## Age of Empires
 
 
 ## Age of Lords
