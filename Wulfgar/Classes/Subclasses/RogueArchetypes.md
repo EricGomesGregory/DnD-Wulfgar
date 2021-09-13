@@ -16,7 +16,7 @@ When you choose this archetype at 3rd level, you gain proficiency with the perfo
 
 
 #### Jugglers Trick
-Starting at 3rd level, you are naturally skilled with thrown weapons that allows you to perform daring tricks. You gain a pool of juggling points equal to you Dexterity modifier, you can use this points in various features. You start knowing three such features: Bouncing Blade, Double Shot, and Evasive Shot.
+Starting at 3rd level, you are naturally skilled with thrown weapons that allows you to perform daring tricks. You gain a pool of juggling points equal to you Dexterity modifier + your proficiency bonus, you can use this points in various features. You start knowing three such features: Bouncing Blade, Double Shot, and Evasive Shot.
 
 You learn more juggler tricks features as you gain levels in this class. You must finish a short or long rest to regain all spent juggling points.
 ___
