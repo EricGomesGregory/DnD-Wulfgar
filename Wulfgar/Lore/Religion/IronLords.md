@@ -5,5 +5,6 @@ The Iron Lords is the central dwarven religion, that believes that all major his
 ##### Iron Lords Deities
 | Deity     | Alignment | Domains       | Symbol |
 |:-----------------|:--:|:-------------:|:-------|
-| Kaur, the First  | LG | Life, Light   |
-| Arryn, Hawk Eyed | LN | Order, Nature | A black bow and arrow forming a scale | 
+| Kaur, the First  | LG | Life, Light   | ?
+| Arryn, Hawk Eyed | LN | Order, Nature | A black bow and arrow forming a scale |
+| NAME, 

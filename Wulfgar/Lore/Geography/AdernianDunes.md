@@ -7,7 +7,7 @@ The region is mostly inhabited by humans, usually of a darker skin tone, that re
 ## The City States
 
 ### Carthus
-
+The city of Carthus is...
 
 ### Xois
 
