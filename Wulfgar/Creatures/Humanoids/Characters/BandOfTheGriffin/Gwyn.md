@@ -41,7 +41,7 @@ ___
 > - **Saving Throws** Str +5, Cha +4
 > - **Skills** Deception +4, Perception +2, Persuasion +4
 > - **Senses** passive Perception 14
-> - **Languages** Common, Elvish
+> - **Languages** Common (S, R, W), Elvish (S, R, W)
 > - **Level** 2
 > ___
 > ***Mask of the Wild.***
@@ -62,6 +62,7 @@ ___
 > ***Parry.*** Gwyn can make a estoc attack, whenever a enemy misses a melee weapon attack against him.
 >
 
+\page
 
 ## Nymeria
 Nymeria is a white wolf with mahogany eyes 
