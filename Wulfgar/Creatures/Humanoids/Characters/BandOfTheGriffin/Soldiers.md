@@ -9,24 +9,24 @@ The Soldiers table shows the name, age, height and type of the common soldiers o
 | Name      | Age | Height | Origin   |
 |:----------|:---:|:------:|:---------|
 |*Archer*   |     |        |          |
-| Ayan      |  18 | 5'1''  | Hafexia  |
+| Ayan      |  18 | 5'5''  | Hafexia  |
 | Dante     |  20 | 5'4''  | Astora   |
-| Eden      |  17 | 5'2''  | Forossa  |
-| Mason     |  19 | 5'4''  | Hafexia  |
+| Eden      |  17 | 5'4''  | Forossa  |
+| Mason     |  19 | 5'6''  | Hafexia  |
 | Otto      |  16 | 5'6''  | Hafexia  |
 |*Berserker*|     |        |          |
 | Hugo      |  21 | 6'1''  | Vrostian |
 |*Spearman* |     |        |          |
-| Drew      |  23 | 5'4''  | Hafexia  |
-| Diego     |  18 | 5'4''  | Hafexia  |
-| Jaxson    |  17 | 5'3''  | Hafexia  |
-| John      |  17 | 5'3''  | Hafexia  |
-| Ryan      |  19 | 5'5''  | Forossa  |
-| Asher     |  20 | 5'4''  | Hafexia  |
-| Gail      |  26 | 5'7''  | Hafexia  |
+| Drew      |  23 | 5'7''  | Hafexia  |
+| Diego     |  18 | 5'7''  | Hafexia  |
+| Jaxson    |  17 | 5'5''  | Hafexia  |
+| John      |  17 | 5'5''  | Hafexia  |
+| Ryan      |  19 | 5'7''  | Forossa  |
+| Asher     |  20 | 5'5''  | Hafexia  |
+| Gail      |  26 | 5'9''  | Hafexia  |
 |*Swordsman*|     |        |          |
 | Aria      |  15 | 5'1''  | Astora   |
-| Francis   |  17 | 5'3''  | Forossa  |
+| Francis   |  17 | 5'5''  | Forossa  |
 | Toby      |  23 | 5'8''  | Hafexia  |
   
 </div>
@@ -98,24 +98,25 @@ ___
 Ayan is very lustful, spending his money with whores as a coping mechanism for his unattainable love for Aileen.
 
 
-
 ### Dante
-Dante is a short man with curly dirty-blond hair He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle.
+Dante is a short man with curly dirty-blond hair He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle. He and Aileen, occasionally, work as scouts for the griffins.
+
+Dante, in his free time, likes to carve small toys and statues out of wood like his father thought him. He also spends his time out of the battlefield praying to God.
 
 ### Character Traits
-The following are NAME's character traits.
+The following are Dante's character traits.
 ___
 **Personality.**
-
+Dante is a very quiet and religious person...
 ___
-**Goals.**
-
+**Ideals.**
+?
 ___
 **Bonds.**
-
+Dante is a close friend of Aileen, as both enjoy the quiet time of hunting and scouting.
 ___
 **Flaws.**
-
+Dante is a very judgmental person, seeing people from other religions as untrustworthy or as outright heretics.
 
 
 ### Diego
@@ -214,29 +215,31 @@ ___
 
 
 ### Hugo
-Hugo is a large man with broad shoulders, a square face, light-grayish skin, a bald head, and dark-green eyes. He dawns a Fur jacket, a dark-blue linen pants, and hide boots. Hugo wields a pair of battleaxes adorned with crude carvings of birds.
+Hugo is a large man with broad shoulders, a square face, light-grayish skin, a bald head, and dark-green eyes. He dawns a Fur jacket, a dark-blue linen pants, and hide boots. Hugo wields a pair of battleaxes adorned with crude carvings of horses.
+
+In the past Hugo was a horse tamer that accidentally killed a woman he was in love with when teaching her how to ride a horse. Due to this event he had to flee his village and became a drunk and berserker.  
 
 ### Character Traits
-The following are NAME's character traits.
+The following are Hugo's character traits.
 ___
 **Personality.**
-
+Hugo is e extremely sorrowful individual that releases its sadness in the form of rage on the battlefield.
 ___
 **Goals.**
-
+Hugo has no purpose in life beyond survival.
 ___
 **Bonds.**
-
+Hugo has emotionally isolated himself from others, only sharing a friendship with Andre.
 ___
 **Flaws.**
-
+Hugo is a depressed drunk.
 
 
 ### Jaxson
-DESCRIPTION
+Jaxson is a short man with black curly hair, milk-white skin, a hooked nose, and dark blue eyes. He dawns a grayish -blue gambeson with a white griffin painted, and a cattle helmet. He wields a simple spear and a pike dagger like his brother John. 
 
 ### Character Traits
-The following are NAME's character traits.
+The following are Jaxson's character traits.
 ___
 **Personality.**
 
@@ -245,17 +248,17 @@ ___
 
 ___
 **Bonds.**
-
+Jaxson likes to joke around with his brother Jhon, but in times of need he always aids his twin.
 ___
 **Flaws.**
 
 
 
 ### John
-DESCRIPTION
+John is a short man with long black hair, milk-white skin, a square jaw, and dark blue eyes. He dawns a grayish -blue gambeson with a white griffin painted, and a mail coif. He wields a oak spear and a pike dagger like his brother Jaxson.
 
 ### Character Traits
-The following are NAME's character traits.
+The following are John's character traits.
 ___
 **Personality.**
 
@@ -264,7 +267,7 @@ ___
 
 ___
 **Bonds.**
-
+John like to mess with his brother, but in times of need he always aids his twin.
 ___
 **Flaws.**
 
