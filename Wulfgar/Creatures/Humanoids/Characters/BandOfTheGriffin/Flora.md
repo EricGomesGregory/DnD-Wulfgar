@@ -4,7 +4,7 @@
 ### History
 
 
-### Character Trais
+### Character Traits
 
 ___
 **Personality.**

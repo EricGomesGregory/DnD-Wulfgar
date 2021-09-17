@@ -40,69 +40,309 @@ Aria is a blond haired girl, with dark brown eyes, and an athletic physique. She
 
 Out of the battlefield Aria prefers to wear men's clothes, as she finds them more practical. But in rare occasions she dawns a simple red dress made by her sister.
 
+### Character Traits
+The following are Aria's character traits.
+___
+**Personality.**
+Aria is a very optimistic and energetic girl that loves to chat and listen to stories.
+___
+**Ideals.**
+Aria seeks independence, wanting to make a name for herself.
+___
+**Bonds.**
+Aria is close friends with Siegward and Flora, loving to hear their exaggerated stories of days past.
+___
+**Flaws.**
+Aria is very naive.
+
 
 ### Asher
 Asher is a short man with long redwood hair, a messy beard, broad shoulders, and moss-green eyes. He dawns a light blue wool gambeson embroider with a white griffin and a kettle helm. Asher wields a regular spear and a simple dagger into battle.
 
-PERSONAL_ELEMENT.
+He is a very simple man with no major ambitions, only working as a mercenary so he can buy a large house in the city of Dublin and become a inn keeper.
+
+### Character Traits
+The following are Asher's character traits.
+___
+**Personality.**
+Asher is a mostly calm person, only becoming agitated during night watches, as he has a fear of the dark.
+___
+**Goals.**
+Asher seeks to buy a large house in Dublin so he can turn it into an inn.  
+___
+**Bonds.**
+Asher is good friends with Ludwig, bantering with him and sharing crude jokes.
+___
+**Flaws.**
+Asher is a penny-pincher, he will never lend money to anybody.
 
 
 ### Ayan
 Ayan is a short and slender man with short coal-black hair, pale skin, and dark-brown eyes. He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a walnut longbow and a simple dagger into battle.
 
-Out of the battlefield, Ayan PERSONAL_CHARACTERITICS
+Out of the battlefield, Ayan likes to play his lute for Aria and Flora.
+
+### Character Traits
+The following are Ayan's character traits.
+___
+**Personality.**
+Ayan is a reserved individual that occasionally likes to share his music with others.
+___
+**Ideals.**
+Ayan is a free spirit, he only wants to live as a mercenary so he can see the world.
+___
+**Bonds.**
+Ayan is good friends with Flora and Aria, whom he sees as his little sister.
+___
+**Flaws.**
+Ayan is very lustful, spending his money with whores as a coping mechanism for his unattainable love for Aileen.
+
 
 
 ### Dante
 Dante is a short man with curly dirty-blond hair He dawns a light blue wool gambeson embroider with a white griffin and a leather coif. Ayan wields a oak longbow and a simple dagger into battle.
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Diego
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
 
 
 ### Drew
 DESCRIPTION
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Eden
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
 
 
 ### Francis
 DESCRIPTION
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Gail
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
 
 
 ### Hugo
 Hugo is a large man with broad shoulders, a square face, light-grayish skin, a bald head, and dark-green eyes. He dawns a Fur jacket, a dark-blue linen pants, and hide boots. Hugo wields a pair of battleaxes adorned with crude carvings of birds.
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Jaxson
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
 
 
 ### John
 DESCRIPTION
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Mason
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
 
 
 ### Otto
 DESCRIPTION
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Ryan
 DESCRIPTION
 
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
+
+
 
 ### Toby
 DESCRIPTION
+
+### Character Traits
+The following are NAME's character traits.
+___
+**Personality.**
+
+___
+**Goals.**
+
+___
+**Bonds.**
+
+___
+**Flaws.**
 
 
 \page

@@ -12,7 +12,7 @@ ___
 Siegward joined the Griffins band after a duel with Gwyn. Earning glory in battle and friendship with his comrades.
 
 
-### Character Trais
+### Character Traits
 The following are Siegward's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
