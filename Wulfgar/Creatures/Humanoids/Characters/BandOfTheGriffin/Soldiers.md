@@ -107,7 +107,7 @@ Dante, in his free time, likes to carve small toys and statues out of wood like 
 The following are Dante's character traits.
 ___
 **Personality.**
-Dante is a very quiet and religious person...
+Dante is a very quiet and religious person, devout RELIGION,...
 ___
 **Ideals.**
 ?
