@@ -1,7 +1,7 @@
 ## The Soldiers
 The soldiers of the Band of the Griffin are commoners of the kingdoms of of the Kings Plains. These man and woman fight alongside Gwyn and the other members of the Band of the Griffin.
 
-The Soldiers table shows the name, age, height and type of the common soldiers of the band. The type determines the characters statblock.
+The Soldiers table shows the name, age, height, kingdom of origin, and type of the common soldiers of the band. The type determines the characters statblock.
 
 <div class='classTable'>
 
@@ -17,8 +17,8 @@ The Soldiers table shows the name, age, height and type of the common soldiers o
 |*Berserker*|     |        |          |
 | Hugo      |  21 | 6'1''  | Vrostian |
 |*Spearman* |     |        |          |
-| Drew      |  23 | 5'7''  | Hafexia  |
 | Diego     |  18 | 5'7''  | Hafexia  |
+| Drew      |  23 | 5'7''  | Hafexia  |
 | Jaxson    |  17 | 5'5''  | Hafexia  |
 | John      |  17 | 5'5''  | Hafexia  |
 | Ryan      |  19 | 5'7''  | Forossa  |
