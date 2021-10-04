@@ -18,7 +18,8 @@ ___
 > - **Languages** Common
 > - **Level** 2
 > ___
->
+> ***Pavise shield.***
+> The crossbowman 
 >
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 2) piercing damage. 
