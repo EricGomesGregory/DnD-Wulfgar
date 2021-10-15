@@ -19,7 +19,7 @@ ___
 > - **Senses** passive Perception 16
 > - **Level** 5
 > ___
-> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> ***Keen Hearing and Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ### Actions
 > ***Multiattack.*** The bear makes two claw attacks.
@@ -50,7 +50,7 @@ ___
 > - **Senses** passive Perception 13
 > - **Level** 3
 > ___
-> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> ***Keen Hearing and Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ### Actions
 > ***Multiattack.*** The bear makes two claw attacks.
