@@ -1,6 +1,7 @@
 ## Wyvern
 
 
+### Black Wyvern
 
 ___
 > ## Black Wyvern
@@ -33,6 +34,8 @@ ___
 >
 
 
+### Blue Wyvern
+
 ___
 > ## Blue Wyvern
 >*Large dragon, chaotic evil*
@@ -63,6 +66,8 @@ ___
 > ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 0 (3d6 + 3) bludgeoning damage and the target must succed on a DC 14 Strength saving throw or be knocked prone.
 >
 
+
+### Green Wyvern
 
 ___
 > ## Green Wyvern
@@ -95,6 +100,8 @@ ___
 >
 
 
+### Red Wyvern
+
 ___
 > ## Red Wyvern
 >*Large dragon, chaotic evil*
@@ -125,6 +132,8 @@ ___
 > ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 0 (3d6 + 3) bludgeoning damage and the target must succed on a DC 14 Strength saving throw or be knocked prone.
 >
 
+
+### White Wyvern
 
 ___
 > ## White Wyvern
