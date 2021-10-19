@@ -12,6 +12,9 @@ ___
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 10 (+0) | 15 (+2) | 10 (+0) |  8 (-1) |  8 (-1) |  6 (-2) |
 >___
+> - **Damage Immunities** Poison
+> - **Damage Vulnerabilities** Bludgeoning
+> - **Condition Immunities** Exhaustion, Poisoned
 > - **Senses** passive Perception 9
 > - **Level** 1
 > ___
