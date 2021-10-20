@@ -1,3 +1,16 @@
+#### Egg of Rebirth
+*Wondrous item (ring), rare* (Attunement)
+___
+A small light grayish egg shaped stone with shallow cracks.
+
+***Attunement.***
+This item is inherently attuned to a humanoid in the world. It will eventually find its way into the hands of it.
+
+***Ritual of Rebirth.***
+A creature attuned to this item can sacrifice its humanity 
+
+
+
 ## Rings
 
 #### Sage Ring II
