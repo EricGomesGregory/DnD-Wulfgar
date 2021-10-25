@@ -5,7 +5,7 @@
 
 
 ### Character Traits
-
+The following are Flora's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
 

@@ -9,7 +9,7 @@ Ludwig once was a hafexian soldier in a mercenary band. During a battle against 
 Ever since Ludwig joined Gwyn and Aileen to create the Griffins band.
 
 ### Character Traits
-
+The following are Ludwig's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
 
