@@ -1,0 +1,5 @@
+## Shidai
+
+### Locations
+
+### Factions

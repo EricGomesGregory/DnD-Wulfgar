@@ -1,0 +1,5 @@
+## Xois
+
+### Locations
+
+### Factions
