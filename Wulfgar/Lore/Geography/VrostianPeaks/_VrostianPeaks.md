@@ -2,7 +2,3 @@
 
 
 ## Vrostia
-
-### Loretta
-
-### Rostov
