@@ -4,6 +4,10 @@ The first era of the world, the Age of Myth, is a legendary period of the world.
 
 ## Elvish History
 <!-- Race Origin -->
+The elves were created by the ancestral spirits known as the FEY_SPIRITS, as guardians of the Boreal Forest in the war against the Dragons of the north. 
+- BETRAIL...
+
+Allowing the dragons to enslave the elvish population for the majority of the era...
 <!-- Events of the Era -->
 <!-- State at the End of the Era -->
 
