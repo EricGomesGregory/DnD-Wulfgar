@@ -10,7 +10,7 @@ Carthus has the following notable locations.
 ### Blue Palace
 The blue palace is a large walled castle who's walls are covered in tiles of lapis lazuli. Within it reside the carthusian royal family, the various families of the court and a small handful of merchant families.
 
-The Blue palace is located in the center of the city, near the river. It has its own royal port that is guarded by the ROYAL_GUARD_NAME day and night.
+The Blue palace is located in the center of the city, near the river. It has its own royal port that is guarded by the ROYAL_GUARD day and night.
 
 ### Dakin Port
 The Dakin Port is a sprawling docking area that doubles as an open market. Located on the edge of the walled section of the city, on the shores of the Dakin sea, thus the ports name.
@@ -23,7 +23,7 @@ The Alrasif, located on the opposite side of the Blue Palace's port, is a large 
 
 In addition the Alrasif has large warehouses to store the materials needed to construct the ships. As well as a large building made of mud brick, where the Shipwright's guild members and apprentices live and study.
 
-The Alrasif is guarded by ROYAL_GUARD_NAME.
+The Alrasif is guarded by ROYAL_GUARD.
 
 
 ___
@@ -32,13 +32,16 @@ The city of Carthus also has the following lesser known locations.
 ### Catacombs of Carthus
 Underneath the city, among the sands and sandstone, resides a network of abandoned tunnels and mausoleums that are used by criminals, assassins, and other shady individuals to traverse the city undetected. 
 
+#### Tomb of Carthus
+In the deepest chamber of the Catacombs, Carthus the Litch, resides in its current resting place.  
+
 
 
 ## Factions
 Carthus has the following notable factions vying for power.
 
 ### Carthusian Royal Family
-The ROYAL_FAMILY,...
+The ROYAL_FAMILY, rules the city of Carthus since the end of the Age of Empires...
 
 
 ### Shipwright's Guild
@@ -64,5 +67,5 @@ ___
 >- **Government:** Monarchy
 >- **Population:** 125,000
 >- **Resources:**  Boats, Slaves, Fish
->- **Religion:**   ELEMENTAL_KINGS_RELIGION
+>- **Religion:**   Polytheist (ELEMENTAL_KINGS_RELIGION)
 >___
