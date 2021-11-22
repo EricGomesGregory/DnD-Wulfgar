@@ -32,7 +32,7 @@ The following are the most notable factions vying for power in the city of Halls
 #### Noble Families
 The following are the noble families of the Hallstatt, beginning with the ruling family.
 
-##### RULING_FAMILY 
+##### RULING_FAMILY Royal Family
 RULING_FAMILY_DESCRIPTION.
 
 ***IMPORTANT_CHARACTER.***
