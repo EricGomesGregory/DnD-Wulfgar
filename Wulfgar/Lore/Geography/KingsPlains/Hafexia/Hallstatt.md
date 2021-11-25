@@ -1,5 +1,6 @@
 ## Hallstatt
-CITY_DESCRIPTION
+The capital city of Hallstatt, located in the confluence between RIVER_SWAMP and RIVER_MOUNTAIN, is a sprawling city that is home to the ruling class of the kingdom of Hafexia...
+
 
 ___
 > ## Hallstatt
@@ -21,8 +22,11 @@ CITY_HISTORY.
 ### Locations
 The following are the most notable locations of the city of Hallstatt.
 
-#### LOCATION
-LOCATION_DESCRIPTION.
+#### KEEP Keep
+Located in the center of the city, the KEEP keep...
+
+#### University of Hallstatt
+The University of Hallstatt
 
 
 
@@ -42,6 +46,14 @@ IMPORTANT_CHARACTER_DESCRIPTION.
 ##### NOBLE_FAMILY
 NOBLE_FAMILY_DESCRIPTION
 
+
+#### Golden Scholars
+The Golden Scholars are a group of professors and students of the University of Hallstatt that work for the royal family...
+
+The few magically inclined members of the golden scholars are 
+
+***IMPORTANT_CHARACTER.***
+IMPORTANT_CHARACTER_DESCRIPTION.
 
 #### FACTION
 FACTION_DESCRIPTION.

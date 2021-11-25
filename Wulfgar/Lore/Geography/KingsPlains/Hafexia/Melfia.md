@@ -52,7 +52,7 @@ NOBLE_FAMILY_DESCRIPTION
 #### Silver Scholars
 The Silver Scholars are a group of professors and students from the University of Melfia that work in Melfia's Observatory in search of the truths of the universe.
 
-Some of the members of the Silver Scholars are *Wizards* or *Sorcerers*... 
+Some of the members of the Silver Scholars are *Wizards* or *Sorcerers* that seek in the stars to understand the nature of magic and its properties.
 
 ***IMPORTANT_CHARACTER.***
 IMPORTANT_CHARACTER_DESCRIPTION.
