@@ -10,7 +10,7 @@ ___
 > ___
 > - **Armor Class** 13 (leather jerkin)
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -21,23 +21,23 @@ ___
 > - **Tool** Alchemist's supplies
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2 (1d4 + 2) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 2 (1d4 + 2) piercing damage. 
 >
 
 
 ## Assassin
-
+Assassins, especially the professional kind, are rare and 
 ___
 > ## Assassin
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 15 (gambeson)
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -48,11 +48,11 @@ ___
 > - **Tool** Poisoner's kit
 > - **Senses** passive Perception 14
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
 > ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, reach 00/00 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. The target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save or half as much on a successful one.
 
@@ -65,7 +65,7 @@ ___
 > ___
 > - **Armor Class** 10 (leather jerkin)
 > - **Hit Points** 11 (1d8 + 3)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -76,11 +76,11 @@ ___
 > - **Tool** Brewer's supplies
 > - **Senses** passive Perception 11
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Punch.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2 (1d4) bludgeoning damage.
+> ***Punch.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit* 2 (1d4) bludgeoning damage.
 >
 
 
@@ -93,7 +93,7 @@ ___
 > ___
 > - **Armor Class** 12 (leather jerkin)
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -104,11 +104,11 @@ ___
 > - **Tool** Smith's tools
 > - **Senses** passive Perception 11
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Hammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) bludgeoning damage. 
+> ***Hammer.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) bludgeoning damage. 
 >
 
 
@@ -120,7 +120,7 @@ ___
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -131,11 +131,11 @@ ___
 > - **Tool** Carpinter's tools
 > - **Senses** passive Perception 11
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Handaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) slashing damage. 
+> ***Handaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 5 (1d6 + 2) slashing damage. 
 >
 
 
@@ -147,7 +147,7 @@ ___
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -158,11 +158,11 @@ ___
 > - **Tool** Cobbler's tools
 > - **Senses** passive Perception 13
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
 
 
@@ -174,7 +174,7 @@ ___
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 11 (1d8 + 3)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -185,11 +185,11 @@ ___
 > - **Tool** Cook's utensils
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Knife.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 (1d4 + 1) slashing damage. 
+> ***Knife.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 3 (1d4 + 1) slashing damage. 
 >
 
 
@@ -201,7 +201,7 @@ ___
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -211,11 +211,11 @@ ___
 > - **Tool** Herbalism kit
 > - **Senses** passive Perception 13
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 (1d4 + 1) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 3 (1d4 + 1) piercing damage. 
 >
 
 
@@ -227,7 +227,7 @@ ___
 > ___
 > - **Armor Class** 00 (leather jerkin)
 > - **Hit Points** 00 (0d0 + 0)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -238,11 +238,11 @@ ___
 > - **Tool** Leatherworker's tools
 > - **Senses** passive Perception 14
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
 > ***Shortbow.*** *Ranged Weapon Attack:* +5 to hit, reach 80/320 ft., one target. *Hit* 3 (1d6 + 3) piercing damage. 
 
@@ -255,7 +255,7 @@ ___
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -265,11 +265,11 @@ ___
 > - **Tool** Jeweler's tools
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 bludgeoning damage. 
+> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 1 bludgeoning damage. 
 >
 
 
@@ -281,7 +281,7 @@ ___
 > ___
 > - **Armor Class** 11 (leather jerkin)
 > - **Hit Points** 10 (1d8 + 2)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -292,11 +292,11 @@ ___
 > - **Tool** Mason's tools
 > - **Senses** passive Perception 12
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Hammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) bludgeoning damage.
+> ***Hammer.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) bludgeoning damage.
 >
 
 
@@ -308,7 +308,7 @@ ___
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -319,11 +319,11 @@ ___
 > - **Tool** One musical instrument
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 bludgeoning damage. 
+> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 1 bludgeoning damage. 
 >
 
 
@@ -335,7 +335,7 @@ ___
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -346,11 +346,11 @@ ___
 > - **Tool** Navigator's tools
 > - **Senses** passive Perception 14
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 2) piercing damage.
+> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) piercing damage.
 >
 
 
@@ -362,7 +362,7 @@ ___
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -372,11 +372,11 @@ ___
 > - **Tool** Painter's supplies
 > - **Senses** passive Perception 14
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 1 bludgeoning damage. 
+> ***Punch.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 1 bludgeoning damage. 
 >
 
 ## Potter
@@ -387,7 +387,7 @@ ___
 > ___
 > - **Armor Class** 00
 > - **Hit Points** 00 (0d0 + 0)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -397,11 +397,11 @@ ___
 > - **Tool** Potter's tools
 > - **Senses** passive Perception 14
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Hammer.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2 (1d4) bludgeoning damage.
+> ***Hammer.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit* 2 (1d4) bludgeoning damage.
 >
 
 
@@ -413,7 +413,7 @@ ___
 > ___
 > - **Armor Class** 15 (gambeson)
 > - **Hit Points** 7 (1d8 - 1)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -424,11 +424,11 @@ ___
 > - **Tool** Thieve's tools
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) piercing damage. 
 >
 
 
@@ -440,7 +440,7 @@ ___
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -450,11 +450,11 @@ ___
 > - **Tool** Weaver's tools
 > - **Senses** passive Perception 12
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Needle.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 2 piercing damage. 
+> ***Needle.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 2 piercing damage. 
 >
 
 
@@ -466,7 +466,7 @@ ___
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 8 (1d8)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -476,11 +476,11 @@ ___
 > - **Tool** Woodcarver's tools
 > - **Senses** passive Perception 14
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***Knife.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 2) slashing damage.
+> ***Knife.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) slashing damage.
 >
 
 
@@ -492,7 +492,7 @@ ___
 > ___
 > - **Armor Class** 00
 > - **Hit Points** 00 (0d0 + 0)
-> - **Speed** 30ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -503,10 +503,10 @@ ___
 > - **Tool**
 > - **Senses** passive Perception 00
 > - **Languages** Common 
-> - **Level** 1
+> - **Level** 1 **PB** +2
 > ___
 >
 > ### Actions
-> ***MELEE ATTACK.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
+> ***MELEE ATTACK.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
 >
 > ***RANGED ATTACK.*** *Ranged Weapon Attack:* +0 to hit, reach 00/00 ft., one target. *Hit* 0 (0d0 + 0) DAMAGE TYPE 
