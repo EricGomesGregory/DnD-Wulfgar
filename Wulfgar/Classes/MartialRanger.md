@@ -298,8 +298,14 @@ At 3rd level, you gain darkvision out to a range of 60 feet. If you already have
 You are also adept at evading creatures that rely on darkvision. While in darkness, you are hidden to any creature that relies on darkvision to see you in that darkness.
 
 
-#### Iron Mind
-By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You double your proficiency bonus with your Wisdom saving throws.
+#### Stalker's Boon
+At 7th level, you gain one of the following feature of your choice:
+
+***Iron Mind.***
+You have honed your ability to resist the mind-altering powers of your prey. You double your proficiency bonus with your Wisdom saving throws.
+
+***Evasion.***
+You can nimbly dodge out of the way of certain area Effects, such as a red dragon's fiery breath or an Ice Storm spell. When you are subjected to an Effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 
 #### Stalker's Flurry
