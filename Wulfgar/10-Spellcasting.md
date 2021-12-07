@@ -20,7 +20,8 @@ Certain spells (including spells cast as rituals) require more time to cast: min
 ### Spellcasting Roll
 When attempting to cast a spell you must make a spellcasting roll, if the spell requires a spell attack the spell attack counts as the spellcasting roll. The DC for the spellcasting roll is equal to 8 + the spell's level, this includes Cantrips (cantrips equal to 0).
 
-If the spellcasting roll is inferior to the DC the spell is not cast, on a natural 1 on the D20 counts as a critical failure. If the spellcasting roll is 20 the spell is cast without spending the mana.
+If the spellcasting roll is inferior to the DC the spell is not cast, whenever you roll a 1 on a spellcasting check a negative effect, determined by the DM, occurs based on the spell cast.
+
 ```
 ```
 
