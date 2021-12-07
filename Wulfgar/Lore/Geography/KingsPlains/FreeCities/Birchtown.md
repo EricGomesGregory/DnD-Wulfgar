@@ -3,7 +3,7 @@ The town of Birchtown, located in the river RIVER_NAME in the middle of a birch 
 
 ___
 > ## Birchtown
-> *Town, Kings Plains Free City*
+> *Town, Kings Plains*
 >___
 > - **Population** 8,000
 > - **Government** Oligarchy
@@ -26,8 +26,8 @@ Due to the towns origin, Birchtown is has no nobility, instead the town is ruled
 ### Locations
 The following are the most notable locations of the town of Birchtown.
 
-#### LOCATION
-LOCATION_DESCRIPTION.
+#### Hall of Scales
+The Hall of Scales is the largest building of Birchtown, located in the center of the town's burg,...
 
 
 #### Hall of Hands
@@ -41,11 +41,21 @@ The following are the most notable factions vying for power in the town of Birch
 #### Ruling Families
 The following are the ruling families of Birchtown.
 
-##### GUILD_FAMILY
-RULING_FAMILY_DESCRIPTION.
 
-***IMPORTANT_CHARACTER.***
-IMPORTANT_CHARACTER_DESCRIPTION.
+##### Coppereye Family
+The Coppereye family is the wealthiest family of Birchtown, ruling the trader's guild and operating the only bank in the town.
+
+The family is composed of humans from Astora and Forossa that have fled their respective countries.
+
+***Valerian Coppereye.***
+Valerian is a 56 year old man with sparse grey blond hair, a square face, a median statured man with a slender body, a bushy mustache, and deep orange eyes. He wears a red tunic, a black felt jacket with a badger's pelt over his shoulders, a golden necklace, and a pair of black leather pants.
+
+Valerian is a calculating individual, seeing thing in a very materialistic and calculating way. But he is at heart a family man, loving his wife and children.
+
+***Elena Coppereye.***
+Elena is 50 year old woman with long red hair, a hourglass body, small green eyes, and a teardrop shaped face with a upward pointing nose. She usually wears a dark green dress adorned with golden laurels, three rings (two on the left hand and one on the right hand).
+
+Elena, as many other Forossan mothers, is like a bear when it comes to protecting her children. But secretly she has been having an affair with CHARACTER in recent times.
 
 
 ##### Blackhand Family
@@ -62,6 +72,13 @@ Anders personally supervises the forges of the Hall of Hands, the blacksmiths gu
 Freja is a 4'8'' tall, 48 year old dwarf with long curly ocher hair, a plump face, sharp greenish brown eyes, and a voluptuous motherly body. She is keen eyed, charismatic, and motherly.
 
 Freja works as the treasurer and contract maker of the blacksmiths guild.
+
+
+##### GUILD_FAMILY
+RULING_FAMILY_DESCRIPTION.
+
+***IMPORTANT_CHARACTER.***
+IMPORTANT_CHARACTER_DESCRIPTION.
 
 
 ##### GUILD_FAMILY
