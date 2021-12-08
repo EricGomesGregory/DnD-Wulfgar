@@ -14,6 +14,7 @@ this item has up to 9 charges. While attuned to this item you have resistance to
 
 If all charges are consumed, you suffer the effects of the *true polymorph*, transforming you into a cat. The spell can be broken if the ring is destroyed, a *dispel magic* spell is successfully cast (DC 19) or you are killed in the cat form before the 1 hour mark.
 
+
 <div class='descriptive'>
 
 ##### Silvercat Ring
