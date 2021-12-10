@@ -34,8 +34,8 @@ The Hall of Scales is the largest building of Birchtown, located in the center o
 The Hall of Hands is a large ring shaped structure made of stone and wood with a gabled brick roof with various chimneys jutting out of the roof, located within the town's burg, that is seemingly half sunken into the ground. The outside walls of the building are adorned with a black-iron chain, hanging from some of the chains links are iron hands made by the blacksmiths of the guild.
 
 
-#### NAME Inn
-NAME Inn is 
+#### Boarfoot Inn
+The Boarfoot Inn is a large...
 
 
 
