@@ -20,7 +20,7 @@ In the wild Ocelfia's dreams began to manifest a contract and she became a Warlo
 Ocelfia has the following personality traits, ideal, bonds, and flaws.
 ___
 **personality traits.**
-Ocelfia is kind to her followers, taking in outcasts and exiles into her care.
+Ocelfia is kind to her followers, taking in outcasts and exiles into her motherly care.
 ___
 **ideal.**
 She wishes only to work for Mayr as a means to fix her broken self.

@@ -5,7 +5,7 @@ The Cultists table shows the name, age, height, kingdom of origin, and type of t
 
 <div class='classTable'>
 
-##### Soldiers
+##### Cultists
 | Name      | Age | Height | Origin  |
 |:----------|:---:|:------:|:--------|
 |*Commoners*|     |        |         |
@@ -31,6 +31,34 @@ The Cultists table shows the name, age, height, kingdom of origin, and type of t
 
 </div>
 
+
+### Commoners
+The commoners of the cult of Mayr wear dull tunics made of patches of fabric sown together.
+
+***Nareena.***
+Nareena is a square faced woman with dark red hair, brown eyes, and a shallow nose.
+
+***Hugolina.***
+Hugolina is a
+
+***Gunter.***
+
+***Egelina.***
+
+***Denis.***
+
+***Marlein.***
+
+***Frantz.***
+
+
+### Berserker
+The only berserker of the cult of Mayr 
+
+### Guards
+
+
+### Marauders
 
 ___
 > ## Commoners
