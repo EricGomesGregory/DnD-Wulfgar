@@ -5,7 +5,7 @@ ___
 > ## Birchtown
 > *Town, Kings Plains*
 >___
-> - **Population** 8,000
+> - **Population** 1,000
 > - **Government** Oligarchy
 > - **Religion** No official religion
 >
