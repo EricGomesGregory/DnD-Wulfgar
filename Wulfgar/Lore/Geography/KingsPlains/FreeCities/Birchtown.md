@@ -5,7 +5,7 @@ ___
 > ## Birchtown
 > *Town, Kings Plains*
 >___
-> - **Population** 8,000
+> - **Population** 1,000
 > - **Government** Oligarchy
 > - **Religion** No official religion
 >
@@ -34,19 +34,15 @@ The Hall of Scales is the largest building of Birchtown, located in the center o
 The Hall of Hands is a large ring shaped structure made of stone and wood with a gabled brick roof with various chimneys jutting out of the roof, located within the town's burg, that is seemingly half sunken into the ground. The outside walls of the building are adorned with a black-iron chain, hanging from some of the chains links are iron hands made by the blacksmiths of the guild.
 
 
-#### NAME Inn
-NAME Inn is 
+#### Boarfoot Inn
+The Boarfoot Inn is a large...
 
 
 
 ### Factions
 The following are the most notable factions vying for power in the town of Birchtown.
 
-#### Ruling Families
-The following are the ruling families of Birchtown.
-
-
-##### Coppereye Family
+#### Coppereye Family
 The Coppereye family is the wealthiest family of Birchtown, ruling the trader's guild and operating the only bank in the town.
 
 The family is composed of humans from Astora and Forossa that have fled their respective countries.
@@ -62,7 +58,7 @@ Elena is 50 year old woman with long red hair, a hourglass body, small green eye
 Elena, as many other Forossan mothers, is like a bear when it comes to protecting her children. But secretly she has been having an affair with CHARACTER in recent times.
 
 
-##### Blackhand Family
+#### Blackhand Family
 The Blackhand family is a dwarvish clan, originally from Eldunhall, that has established its self as the head of the blacksmiths guild of Birtchtown.
 
 The family is mostly composed of dwarves, directly descendants of Anders, but some family members are humans that were joined into the clan with the approval of Ander and his wife Freja.
@@ -78,14 +74,14 @@ Freja is a 4'8'' tall, 48 year old dwarf with long curly ocher hair, a plump fac
 Freja works as the treasurer and contract maker of the blacksmiths guild.
 
 
-##### GUILD_FAMILY
+#### GUILD_FAMILY
 RULING_FAMILY_DESCRIPTION.
 
 ***IMPORTANT_CHARACTER.***
 IMPORTANT_CHARACTER_DESCRIPTION.
 
 
-##### GUILD_FAMILY
+#### GUILD_FAMILY
 GUILD_FAMILY_DESCRIPTION
 
 ***IMPORTANT_CHARACTER.***
