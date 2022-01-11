@@ -1,5 +1,5 @@
 ## Ubiad
-The Ubiad are large humanoid like creatures with snake heads that live in the...
+The Ubiad are a race of large humanoid creatures with snake heads that lived in the harsh desert of Adernia during the mythical age. 
 
 
 ___
@@ -25,9 +25,11 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The ubiad makes two scimitar attacks.
+> ***Multiattack.*** The ubiad makes two scimitar attacks or two shortbow attacks.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit* 4 (1d4 + 2) piercing damage. The target must make a DC 13 Constitution saving throw, taking 10 (4d4) poison damage on a failed save, or half as much damage on a successful one.
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d6 + 2) slashing damage. 
+>
+> ***Shortbow.*** *Melee Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit* 5 (1d6 + 2) piercing damage. 
 >
