@@ -17,7 +17,7 @@ ___
 > - **Saving Throws** Str +11, Con +10
 > - **Skills** Athletics +11, Perception +6
 > - **Damage Immunities** Fire
-> - **Senses** passive Perception 16
+> - **Senses** Darkvision 60 ft., passive Perception 16
 > - **Languages** Giant
 > - **Level** 10 **PB** +4
 > ___
@@ -46,7 +46,7 @@ ___
 > - **Saving Throws** Str +11, Con +10, Wis +7
 > - **Skills** Athletics +11, Perception +7
 > - **Damage Immunities** Fire
-> - **Senses** passive Perception 17
+> - **Senses** Darkvision 60 ft., passive Perception 17
 > - **Languages** Giant
 > - **Level** 10 **PB** +4
 > ___
@@ -82,7 +82,7 @@ ___
 > - **Saving Throws** Str +11, Con +10
 > - **Skills** Athletics +11, Perception +6
 > - **Damage Immunities** Fire
-> - **Senses** passive Perception 16
+> - **Senses** Darkvision 60 ft., passive Perception 16
 > - **Languages** Giant
 > - **Level** 12 **PB** +4
 > ___
