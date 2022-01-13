@@ -72,7 +72,7 @@ ___
 >*Huge giant, lawful neutral*
 > ___
 > - **Armor Class** 18 (Plate, Tower shield)
-> - **Hit Points** 125 (10d12 + 60)
+> - **Hit Points** 125 (12d12 + 60)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
