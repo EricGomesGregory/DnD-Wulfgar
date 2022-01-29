@@ -37,19 +37,25 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 </div>
 
 ### Major Deities
+The following are the deities followed by the majority of believers of the Old Gods religion.
 
 #### Elyrion
 Elyrion is the father of all elves, he is a tall and muscular elven man with long golden hair and orange eyes. He once was the lover of Silvaris but currently his heart is frozen and he is in a deep slumber within the sun.
 
 Followers of Elyrion perform a ritual known as the *burning gift*, that involves sacrificing a herd animal to a pyre during the longest day of the year.
 
+```
+```
 
 #### Silvaris
 Silvaris is the mother of all elves, she is a slender elven woman with black hair moon white skin and blue eyes. She once was the lover of Eyrion but currently she is responsible for shepherding the souls of elves to her palace in the moon.
 
 Followers of Silvaris perform a ritual known as the *bath of knowledge*, that involves bathing in clear water during the full moon.
 
+\page
+
 ### Minor Deities
+The following are minor
 
 #### Aaine, the Summer Stag
 Aaine is a large stag made of wood and leaves, with branches for its antlers. She is the patron of farmers and peasants, wherever she walks she brings the blessing of summer growth.
@@ -86,6 +92,8 @@ Namire is a small twin tailed silver fox, she is the patron of children, festivi
 
 Followers of Namire perform public shows or tricks in honor of the trickster god, as well as parties during the longest day of the year. 
 
+```
+```
 
 #### Neit, the Frost Pack
 Neit is a pack of dier wolves made of snow and ice that marches during winter to take the lives of the weak. Sometimes a wolf from the pack will split of, transforming into a white wolf with blue eyes, either to warn adventurers of the imminent death that lurks around them or to claim the life in its end.
