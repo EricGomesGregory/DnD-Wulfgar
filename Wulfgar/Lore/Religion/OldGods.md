@@ -21,7 +21,7 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 | Deity      | Alignment | Suggested Domains      | Symbol                                |
 |:-----------|:--:|:------------------------------|:--------------------------------------|
 |*Major gods*|    |                               |                                       |
-| Elyrion    | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun | 
+| Elyrion    | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun |
 | Silvaris   | LG | Death, Forge, Knowledge       | Blue veiled woman over a white circle |
 |*Minor gods*|    |                               |                                       |
 | Aaine      | NG | Life, Nature                  | Green stag with tree antlers          |
