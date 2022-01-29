@@ -87,11 +87,16 @@ Namire is a small twin tailed silver fox, she is the patron of children, festivi
 Followers of Namire perform public shows or tricks in honor of the trickster god, as well as parties during the longest day of the year. 
 
 
-#### Neit, Frost Pack
+#### Neit, the Frost Pack
 Neit is a pack of dier wolves made of snow and ice that marches during winter to take the lives of the weak. Sometimes a wolf from the pack will split of, transforming into a white wolf with blue eyes, either to warn adventurers of the imminent death that lurks around them or to claim the life in its end.
+
+Neit is a deity that is feared by all and worshiped by few. Followers of Neit leave small prey deep in the forest during the longest night of the year.
 
 
 ### New Deities
+The following are newer deities added to the pantheon of the old gods by newer followers.
 
-#### Zoria
+#### Zoria, the Red Archer
 Zoria is large muscular centaur with red fur and hair, he is the patron of forossan warriors, riders, and archers. Zoria draws his powers from heroic warriors that devote themselves to his legion.
+
+Followers of Zoria perform dances while mounted on their horses before and after battle.
