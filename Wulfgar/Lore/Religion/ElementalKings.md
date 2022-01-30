@@ -1,5 +1,14 @@
 ## Elemental Kings
-At first the world was Qmn; formless, void, and cold. Then the elemental kings spawned from the formless Qmn, at first Sakhr the bringer of light emerged with its brother SHADOW. Then Ashar
+At first there was only the formless void Qmn, then four great elementals emerged from the void. First came Sakhr, the Sun Lord that saw a world without distinction and sacrificed his heart to create the sun, light and shadow.
+
+Then came Nuhm, the Pygmy Lord that witnessed space with distinction but no vastness nor form, therefore he tore away his face so that the sun could shine on land. Then came Ashar, the Sylph Queen offered her body so that the land could be touched by wind and change could occur on this vast land of dawn and dusk.
+
+Finally came Qayana, the Nymph Mother; she saw a vast barren land that changed to the rhythm of the wind thus she decided to bleed her royal blood in order to bless the land with water and life. So the world would not be only the land but also the creatures and peoples that inhabit it.
+___
+After creating their shared realm the elemental kings began to work creating their court,
+
+Finally the four lords of the world decided to create those who would inherit their kingdom. So Nuhm created a pair of relatively small bodies with two arms, two legs, and a head each. When he finished the shell Sakhr ignited the bodies giving them power and passion, then Ashar blew on them gifting cunning and desire to their souls and finally Qayana gave the shells her waters of royal life to drink. Bringing man and woman into the world as their last act of creation.
+
 
 <div class='wide'>
 
@@ -7,16 +16,15 @@ At first the world was Qmn; formless, void, and cold. Then the elemental kings s
 | Deity         | Alignment | Suggested Domains      | Symbol                            |
 |:--------------|:--:|:------------------------------|:----------------------------------|
 |*Major deities*|    |                               |                                   |
-| Ashar         | CN | Nature, Trickery              |
-| Nuhm          | LN | Knowledge, Nature             |
-| Sakhr         | CN | Light, Nature                 |
-| Qayana        |  N | Life, Nature                  |
-| Qmn           | NE | ?                             | Three black eyes forming a circle | 
+| Ashar         | CN | Nature, Trickery              | Light-blue firefly                |
+| Nuhm          | LN | Knowledge, Nature             | Four grey arms holding each other |
+| Sakhr         | CN | Light, Nature                 | Red heart on a yellow sun         |
+| Qayana        |  N | Life, Nature                  | Olive and blue waves crashing     |
+| Qmn           | NE |                               | Seven black eyes forming a circle |
 |*Minor deities*|    |                               |                                   |
-| SAND          | CN | Nature, Trickery              |
-| STORM         |    | Nature, Tempest
+| SAND          | CN | Trickery                      |
+| STORM         |    | Tempest
 | SHADOW        |
-| SUN           |
 |*Demigods*     |    |                               |                                   |
 |
 
@@ -24,20 +32,26 @@ At first the world was Qmn; formless, void, and cold. Then the elemental kings s
 
 ### Major Deities
 
-#### Ashar, Sylph Mother
+#### Ashar, the Sylph Queen
+Ashar is a woman with blueish-grey spectral skin, draped in a long flowing tunic, with four light-blue firefly wings. 
 
 
 #### Nuhm, the Pygmy Lord
-Nuhm is a gargantuan humanoid with four long arms, grey clay-like skin, a crown of stone shards protruding from the top of its head, and a featureless head with a black hole in the center. Nuhm has sacrificed his face to create all the worlds landmasses.
+Nuhm is a gargantuan humanoid with four long arms, grey clay-like skin, a crown of stone shards protruding from the top of its head, and a featureless head with a hole for a face.
 
 Followers of Nuhm create statues out of stone and clay in its likeness, competing for who has built the larger statue.
 
 
-#### Sakhr, Sun Lord
+#### Sakhr, the Sun Lord
+Sakhr is a roaring flame in a humanoid shape with a dark skinned face, eyes that emit sunlight, with a void in the flames where the heart would be.
 
 
-#### Qayana, Nymph Queen
+#### Qayana, the Nymph Mother
+Qayana is a voluptuous woman with olive skin, fish scale patches with fins covering her outer thighs and forearms, a long flowing hair made of flowing water, and pearl eyes.
 
 
 #### Qmn, the Void
 Qmn is the primordial deity of the void, it envelops the world as it exists beyond the domain of the elemental kings.
+
+
+### Minor Deities
