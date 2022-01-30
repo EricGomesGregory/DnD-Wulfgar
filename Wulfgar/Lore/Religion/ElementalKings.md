@@ -12,7 +12,7 @@ Finally the four lords of the world decided to create those who would inherit th
 
 <div class='wide'>
 
-##### Old Gods Deities
+##### Elemental Lords Deities
 | Deity         | Alignment | Suggested Domains      | Symbol                            |
 |:--------------|:--:|:------------------------------|:----------------------------------|
 |*Major deities*|    |                               |                                   |
