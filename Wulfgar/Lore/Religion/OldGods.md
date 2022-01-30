@@ -18,21 +18,21 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 <div class='wide'>
 
 ##### Old Gods Deities
-| Deity      | Alignment | Suggested Domains      | Symbol                                |
-|:-----------|:--:|:------------------------------|:--------------------------------------|
-|*Major gods*|    |                               |                                       |
-| Elyrion    | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun |
-| Silvaris   | LG | Death, Forge, Knowledge       | Blue veiled woman over a white circle |
-|*Minor gods*|    |                               |                                       |
-| Aaine      | NG | Life, Nature                  | Green stag with tree antlers          |
-| Aart       | CN | Nature, Tempest               | Gray hawk with blue thunderbolts      |
-| Bjork      | LG | Forge, Light                  | Black head of a ram                   |
-| Ecne       | LN | Knowledge                     | Yellow owl head                       |
-| Kord       | CE | War                           | Red bear                              |
-| Namire     | CG | Trickery                      | Grey twin tailed fox                  |
-| Neit       | NE | Death, Grave                  | Blue wolf head                        |
-|*New gods*  |    |                               |                                       |
-| Zoria      | LN | War                           | Red Centaur                           |
+| Deity         | Alignment | Suggested Domains      | Symbol                                |
+|:--------------|:--:|:------------------------------|:--------------------------------------|
+|*Major deities*|    |                               |                                       |
+| Elyrion       | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun |
+| Silvaris      | LG | Death, Forge, Knowledge       | Blue veiled woman over a white circle |
+|*Minor deities*|    |                               |                                       |
+| Aaine         | NG | Life, Nature                  | Green stag with tree antlers          |
+| Aart          | CN | Nature, Tempest               | Gray hawk with blue thunderbolts      |
+| Bjork         | LG | Forge, Light                  | Black head of a ram                   |
+| Ecne          | LN | Knowledge                     | Yellow owl head                       |
+| Kord          | CE | War                           | Red bear                              |
+| Namire        | CG | Trickery                      | Grey twin tailed fox                  |
+| Neit          | NE | Death, Grave                  | Blue wolf head                        |
+|*New deities*  |    |                               |                                       |
+| Zoria         | LN | War                           | Red Centaur                           |
 
 </div>
 
