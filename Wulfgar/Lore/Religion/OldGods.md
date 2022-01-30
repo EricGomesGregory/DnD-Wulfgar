@@ -28,7 +28,7 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 | Aart          | CN | Nature, Tempest               | Gray hawk with blue thunderbolts      |
 | Bjork         | LG | Forge, Light                  | Black head of a ram                   |
 | Ecne          | LN | Knowledge                     | Yellow owl head                       |
-| Kord          | CE | War                           | Red bear                              |
+| Kord          | CE | War                           | Red bear with a white head            |
 | Namire        | CG | Trickery                      | Grey twin tailed fox                  |
 | Neit          | NE | Death, Grave                  | Blue wolf head                        |
 |*New deities*  |    |                               |                                       |
@@ -84,7 +84,7 @@ Followers of Ecne perform a ritual during the longest night of the year where me
 #### Kord, the Fury Bear
 Kord is a red-furred giant bear with a burning skull for its head, he walks upright and at times carries a massive greataxe into battle. Kord is the patron of warriors and berserkers, drawing his power from the fury of battle, murder, and senseless violence.
 
-Followers of Kord sacrifice captured warriors as offerings for the god of war.
+Followers of Kord sacrifice captured warriors as offerings to the god of war.
 
 
 #### Namire, the Trickster Fox
