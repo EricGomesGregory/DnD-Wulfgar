@@ -54,7 +54,7 @@ ___
 You are proficient in a skill, tool, vehicle, armor, or weapon of your choice.
 ___
 ***Languages.***
-You can speak Common and one extra language of your choice.
+You can  speak, read, and write Common and you can speak one extra language of your choice.
 
 
 ### Height and Weight

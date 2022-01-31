@@ -31,7 +31,7 @@ ___
 You are proficient in a artisan’s tools of your choice. Whenever you make a check with that tool you have advantage.
 ___
 ***Languages.***
-You can speak Dwarvish.
+You can speak, read, and write Dwarvish.
 
 
 ### Height and Weight

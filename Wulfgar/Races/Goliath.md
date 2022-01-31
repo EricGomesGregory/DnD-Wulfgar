@@ -29,7 +29,7 @@ Golaiths live in figid mountains and harsh tundras as a result you have the foll
 - You’re also acclimated to high altitude, including elevations above 20,000 feet.
 ___
 ***Languages.***
-You can speak Goliath.
+You can  speak, read, and write Goliath.
 
 
 ### Height and Weight
