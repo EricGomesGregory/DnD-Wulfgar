@@ -39,6 +39,8 @@ ___
 > If Heks fails a saving throw, it can choose to succeed instead.
 >
 > ### Actions
+> ***Multiattack.*** Heks makes two claw attacks.
+>
 > ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit* 6 (1d6 + 3) slashing damage.
 >
 > ### Legendary Actions
