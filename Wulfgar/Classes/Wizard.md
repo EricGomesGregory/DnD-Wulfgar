@@ -85,6 +85,7 @@ You can use an arcane focus (see the Adventuring Gear section) as a spellcasting
 #### Learning Spells of 1st Level and Higher
 The only way to learn new spells is by finding tomes on your adventures and either coping their contents into your spellbook or by adding the tomes pages into your spellbook.
 
+
 ### Arcane Recovery
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can gain temporary mana equal to half your wizard level (rounded down). This mana can only be used to cast spells of 5th-level or lower. 
 
