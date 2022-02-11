@@ -129,6 +129,7 @@ Starting at 6th level, you are aware of your surroundings at all times, and are 
 
 
 \page
+
 ### Ranger Sight
 At 9th level, your focus on a prey allows you to compare its abilities to yourself. While you have marked a target with your Marked as Prey feature, you can use an action or a attack to learn one information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to one of the following characteristics of your choice:
 
