@@ -7,7 +7,7 @@
 |:----:|:--:|:-------------------------------------------------|:-:|:--:|:---:|
 |  1st | +2 | Spellcasting, Divine Domain                      | 3 |  2 | 1st |
 |  2nd | +2 | Channel Divinity (1/rest), Divine Domain Feature | 3 |  3 | 1st |
-|  3rd | +2 | _                                                | 3 |  8 | 2nd | 
+|  3rd | +2 | _                                                | 3 |  8 | 2nd |
 |  4th | +2 | Ability Score Improvement                        | 4 | 10 | 2nd |
 |  5th | +3 | Destroy Undead (CR 1/2)                          | 4 | 16 | 3rd |
 |  6th | +3 | Channel Divinity (2/rest), Divine Domain Feature | 4 | 19 | 3rd |
