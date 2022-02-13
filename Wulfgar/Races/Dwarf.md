@@ -22,7 +22,7 @@ ___
 Dwarves stand between 4 and 5 feet tall and have bulky builds. Your size is Medium.
 ___
 ***Speed.***
-Your base walking speed is 20 feet. Your speed is not reduced by wearing heavy armor.
+Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 ___
 ***Darkvision.***
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
