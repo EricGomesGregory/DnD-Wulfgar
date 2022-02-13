@@ -57,7 +57,7 @@ A Large or smaller creature hit by a net is Restrained until it is freed. A net 
 | Greatclub              |  2 sp | 1d8  bludgeoning | 10  lb. | Two-handed                                     |
 | Handaxe                |  5 gp | 1d6  slashing    |  2  lb. | Light, thrown(range 20/60)                     |
 | Javelin                |  5 gp | 1d6  piercing    |  2  lb. | Thrown(range 20/60)                            |
-| Light hammer           |  2 gp | 1d4  bludgeoning |  2  lb. | Light, thrown(range 20/60)                     |
+| Light hammer           |  5 gp | 1d6  bludgeoning |  2  lb. | Light, thrown(range 20/60)                     |
 | Mace                   |  5 gp | 1d6  bludgeoning |  4  lb. | Versatile(1d8)                                 |
 | Quarterstaff           |  2 sp | 1d6  bludgeoning |  4  lb. | Versatile(1d8)                                 |
 | Sickle                 |  1 gp | 1d4  slashing    |  2  lb. | Light                                          |
