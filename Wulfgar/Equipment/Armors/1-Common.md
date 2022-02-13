@@ -41,7 +41,7 @@ You can place this shield as a bonus action, creatures behind the shield are con
 |*Shields*       |        |                           |     |        |                        |
 | Buckler        |  10 gp | +1                        | _   |  3 lb. | Parry                  |
 | Heather shield |  20 gp | +2                        | 11  |  6 lb. |                        |
-| Kite shield    |  60 gp | +3                        | 15  | 10 lb. | Cumbersome             |
+| Kite shield    |  60 gp | +3                        | 13  | 10 lb. | Cumbersome             |
 | Tower shield   |  80 gp | +4                        | 15  | 15 lb. | Cumbersome, special    |
 | Pavise shield  |  90 gp | _                         | 15  | 20 lb. | Special, two-handed    |
 
