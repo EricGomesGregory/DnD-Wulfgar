@@ -12,6 +12,8 @@ ___
 ><div style='margin-top:25px'></div>
 >
 > ### Resources
+> The following are Birchtown's resources:
+>
 > ***Skill.***
 > Birchtown is the best place to seek apprenticeship of a master artisan.
 >
@@ -77,7 +79,7 @@ Freja works as the treasurer and contract maker of the blacksmiths guild.
 
 
 
-#### Hillbrew
+#### Hillbrew Family
 The Hillbrew family is a small human family that operates the Borefoot inn, as well as the farm adjacent to it.
 
 The Hillbrew family is commanded by the innkeeper Helga and the farmer Tiron. 
