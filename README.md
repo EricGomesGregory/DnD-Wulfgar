@@ -33,3 +33,17 @@ The following are the races of Wulfgar and their ethnic references:
 
 ### Goliaths
 - **Ethnic Reference:** Slavic
+
+
+### Character Creation
+
+___
+**Player Standard Array:** 17 14 13 10 10 8
+___
+**DMPCs:**       17 14 13 10 10 8
+___
+**Major NPCs:**  15 14 13 10 10 8
+___
+**Minor NPCs:**  14 13 10 10 10 8
+___
+**Simple NPCs:** 13 10 10 10  8 8
