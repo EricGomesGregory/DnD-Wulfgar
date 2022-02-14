@@ -27,7 +27,7 @@ Due to the towns origin, Birchtown is has no nobility, instead the town is ruled
 The following are the most notable locations of the town of Birchtown.
 
 #### Hall of Scales
-The Hall of Scales is the largest building of Birchtown, located in the center of the town's burg,...
+The Hall of Scales is the largest building of Birchtown, located in the center of the town's burg, is a massive U shaped two storry building. The first floor is a large hall with two entrances located at either side of the U, the hall is populated with small shops that rent the space. The second floor is the home and office of the Coppereye merchant family. 
 
 
 #### Hall of Hands
@@ -35,7 +35,7 @@ The Hall of Hands is a large ring shaped structure made of stone and wood with a
 
 
 #### Boarfoot Inn
-The Boarfoot Inn is a large...
+The Boarfoot Inn is a large three story building located on a farm adjacent to the town's walls. The inn has a large dining hall, a stable, and a massive kitchen on the first floor. The second floor is reserved for patron rooms and a study. Finally the third floor is reserved for the Hillbrew family.
 
 
 
@@ -63,10 +63,12 @@ The Blackhand family is a dwarvish clan, originally from Eldunhall, that has est
 
 The family is mostly composed of dwarves, directly descendants of Anders, but some family members are humans that were joined into the clan with the approval of Ander and his wife Freja.
 
+
 ***Anders Blackhand.***
 Anders is a 5'0'' tall, 45 year old dwarf, with fiery red hair and beard, hardened body, a tanned face from the forge, and charred fingertips. He is energetic with a friendly personality despite his always frowning face.
 
 Anders personally supervises the forges of the Hall of Hands, the blacksmiths guild hall.
+
 
 ***Freja Blackhand.***
 Freja is a 4'8'' tall, 48 year old dwarf with long curly ocher hair, a plump face, sharp greenish brown eyes, and a voluptuous motherly body. She is keen eyed, charismatic, and motherly.
@@ -74,11 +76,24 @@ Freja is a 4'8'' tall, 48 year old dwarf with long curly ocher hair, a plump fac
 Freja works as the treasurer and contract maker of the blacksmiths guild.
 
 
-#### GUILD_FAMILY
-RULING_FAMILY_DESCRIPTION.
 
-***IMPORTANT_CHARACTER.***
-IMPORTANT_CHARACTER_DESCRIPTION.
+#### Hillbrew
+The Hillbrew family is a small human family that operates the Borefoot inn, as well as the farm adjacent to it.
+
+The Hillbrew family is commanded by the innkeeper Helga and the farmer Tiron. 
+
+
+***Helga Hillbrew.***
+Helga is a 4'10'' tall, 37 year old woman with short blondish grey hair, joyful blue eyes, and a hardy physique. She is quick witted and very persuasive but she lacks the readiness of her husband Tiron.
+
+Helga works as the innkeeper and cook of the Boarfoot inn.
+
+
+***Tiron Hillbrew.***
+Tiron is a 5'8'' tall, 38 year old man with a shaved head, tanned skin, deep brown eyes, and a sturdy physique. He is a man of action and determination but he lacks his wives quick wits.
+
+Tiron works the inns farm and stables.
+
 
 
 #### GUILD_FAMILY
