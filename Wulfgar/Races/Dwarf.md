@@ -3,7 +3,22 @@ Dwarves are short humanoids with strange eyes, bulky builds, and are usually ver
 
 Dwarven society is structured in a clan based system with a strong emphasis on family lineage, as they believe that their ancestors were demigods tasked with guiding the dwarven race. Occasionally outsiders can become part of a dwarven clan.
 
+### Dwarven Names
+Dwarves are given a name at birth by their parents with the approval of the clan's elders. All dwarves inherit a clan name that they inform as a suffix to their name in the following structure: "Leif of Arrynar".
 
+The following are some of the various dwarven names.
+___
+**Male Names:**
+Arvit, Bjorn, Egil, Eirik, Erling, Espen, Geirik, Haakon, Jorgen, Leif, Nils, Ove, Robert, Svein, Thubrel, Tore, Knut, Sverre, Vidar, Sigurd, Stein, Torbjorn, Oystein, Gunnar, Frederik.
+___
+**Female Names:**
+Astrid, Anna, Anne, Bjorg, Benet, Cecile, Camilla, Helga, Heidi, Eva, Ida, Liv, Mona, Ruth, Torill, Unni, Karen, Signe, Turdi, Inger, Elin, Aslaug, laila, Lisbeth, Wenche.
+___
+**Clan Names:**
+The following are the great clans; Arrynar, Armuren, Karunar, Melmuren, Raghdun, Saldinar, and Sarinar. Then there are the minor clans; Blackhand, Forstbeard, Rambreaker, Stonedrinker, Hammerhand, Ironfist, Hardfeet, Twilightaxe, Warmpike, and Frostforged. Finally there are the traitor clans; Hurbeknar, Ormenar, and Kahrenan. 
+
+```
+```
 
 ### Dwarf Traits
 This are your Dwarf characters traits.
@@ -31,7 +46,6 @@ You are proficient in a artisan's tools of your choice. Whenever you make a chec
 ___
 ***Languages.***
 You can speak, read, and write Dwarvish.
-
 
 ### Height and Weight
 You can generate the height and weight of your character using the Random Weight and Height table. The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. The same number multiplied by the dice roll of the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.

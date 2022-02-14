@@ -4,6 +4,18 @@ Goliaths are tall and bulky humanoids with grayish white skin, blue eyes, and an
 Most goliaths live in nomadic tribes that hunt and forage to survive or in small rural communities, but some reside in the only two cities of the kingdom.
 
 
+### Goliath Names
+When a new goliath is born the members of the tribe vote on the infants name, while the parents veto the names proposed. Goliaths have no use for clan names or surnames as their tribes rarely exceed fifty members. Instead goliath society encourages its members to create permanent body markings in the styles of their tribes.
+
+The following are some of the various gliath names.
+___
+**Male Names:**
+Askan, Aleksan, Blaz, Bogdan, Borovir, Chestmir, Dalibor, Dragomir, Glebu, Kazimir, Kresimir, Iskan, Kyrilu, Milosh, Nikola, Permislav, Ratmir, Rostislav, Ross, Vasil, Velmir, Yaro, Yarognev, Yaromir, Zbignev.
+___
+**Female Names:**
+Anya, Anastasia, Daria, Nadia, Luka, Sveta, Endellion, Feodora, Ondrea, Korva, Lexa, Nagda, Peryn, Ilka, Zivka, Lavera, Ivania, Iskara, Ajla, Zorrah, Evonnia, Kitka, Kalene, 
+
+
 
 ### Goliath Traits
 This are your Goliath characters traits.

@@ -7,7 +7,6 @@ Elves are deeply religious believing in powerful beasts that were created by the
 ### Elvish Ethnicities
 Elves are mostly homogeneous as a race but they are divided into two ethnicities, the Elyrians and Slivarians.
 
-
 #### Elyrians
 Elyrians are slightly tanned elves, with pale blond to golden brown hair, and with brown eyes. Elyrians are famous for being brash and loud with little to no political cohesion between the many cities of the valley, but with a strong brotherhood when it comes to dealing with outsiders.
 
@@ -18,6 +17,19 @@ They are commonly found in the Goldpine Valley of the Boreal Forest.
 Silvarians are paler skinned elves, with dark-brown or black hair, and grey eyes. Silvarians are famous for being reclusive and silver tongued with a strong sense of nationality.
 
 They are commonly found in the Sgaathan Basin of the Boreal Forest.
+
+
+
+### Elf Names
+Elves are given a name at birth by their parental figuers, this name is then used by the community at large. Elves don't have a clan name like the dwarves or a surname like the humans, instead elves refer to one of their parents name and their city of origin as if they were surnames, like in the following structure: "Aiden son of Ainnor of Visby".
+
+The following are some of the various elvish names.
+___
+**Male Names:**
+Aiden, Ailean, Baird, Barry, Bowyn, Cailen, Calum, D'Ary, Dacian, Daryn, Egan, Egon, Erynn, Ewan, Fagen, Finn, Kael, Manus, Mannis, Nolan, Oran, Riley, Roy, Sullivan, Tully.
+___
+**Female Names:**
+Aigneis, Ailie, Barabell, Breandan, Caela, Caila, Calynn, Ceit, Eshne, Erline, Frangag, Kallie, Keely, Leitis, Liusaidh, Mairi, Nuria, Neala, Onora, Raonaid, Seana, Shanley, Silis, Trina, Una.
 
 
 

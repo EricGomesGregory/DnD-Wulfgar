@@ -15,18 +15,20 @@ When Kaur's army was ready he led them into the surface, where they proceed to d
 <div class='wide'>
 
 ##### Iron Lords
-| Deity         | Alignment | Suggested Domains | Symbol                       |
-|:--------------|:--:|:-------------------------|:-----------------------------|
-|*Major Lords*  |    |                          |                              |
-| Kaur          | LG | Life                     | Black dwarf silhouette       |
-| Saldrin       | LN | Forge, Light             | Black forge hammer           |
-| Armura        | LN | Knowledge                | Black open book              |
-| Melmir        | CN | Tempest, War             | Black spear tip              |
-| Arryn         |  N | Nature, Order            | Black scale                  |
-| Ragduhr       | CG | Trickery                 | Black Jester hat             |
-| Sarniss       | LE | Grave                    | Black Hawk                   |
-|*Traitor Lords*|    |                          |                              |
-| Hurbek        | CE | Death, War               | Black skull with white teeth |
+| Deity         | Alignment | Suggested Domains | Symbol                                   |
+|:--------------|:--:|:-------------------------|:-----------------------------------------|
+|*Major Lords*  |    |                          |                                          |
+| Kaur          | LG | Life                     | Black dwarf silhouette                   |
+| Saldrin       | LN | Forge, Light             | Black forge hammer                       |
+| Armura        | LN | Knowledge                | Black open book                          |
+| Melmir        | CN | Tempest, War             | Black spear tip                          |
+| Arryn         |  N | Nature, Order            | Black scale                              |
+| Ragduhr       | CG | Trickery                 | Black Jester hat                         |
+| Sarniss       | LE | Grave                    | Black Hawk                               |
+|*Traitor Lords*|    |                          |                                          |
+| Hurbek        | CE | Death, War               | Black skull with white teeth             |
+| Ormen         | CE | Knowledge, Grave         | Green scroll pierced by black dagger     |
+| Kahre         | CN | Nature, Tempest          | Black dead tree struck by blue lightning |
 
 </div>
 

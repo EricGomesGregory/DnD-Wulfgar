@@ -9,20 +9,24 @@ Humans have a large variety of body types, skin colors, hairs, and eyes. But the
 
 In the continent of Wulfgar, four human ethnic groups are widely recognized, though over a dozen others are found in more localized areas of Wulfgar.
 
+
 #### Adernians
 Slender in build than most other humans, Adernians have dusky brown skin, curly black hair, and oak brown eyes.
 
 They're found primarily in the free cities of the Nhar Banks of the Adernian Dunes.
 
-#### Astorans
+
+### Astorans
 Astorans are tall, tan skinned folk with brunette or golden hair, and oak brown eyes.
 
 They're found primarily in the Highlands of the Kings Plains.
+
 
 #### Forrosans
 Taller and larger than most other humans, Forrosans have ashy white skin, golden or fire red hair, and blue eyes.
 
 Forrosans inhabit the Windlands of the Kings Plains.
+
 
 #### Hafexians
 Shorter and slighter in build than most other humans, Hafexians have moon white skin, raven-black hair, and bluish gray eyes.
