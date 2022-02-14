@@ -42,5 +42,5 @@ You can generate the height and weight of your character using the Random Weight
 ##### Random Height and Weight
 | Ethnicity | Base Height | Height Modifier | Base Weight | Weight Modifier |
 |:----------|:-----------:|:---------------:|:-----------:|:---------------:|
-| Goliath   | 6'0''       | +2d10           | 150 lb.     | x (1d6) lb.     |
+| Goliath   | 5'8''       | +2d10           | 150 lb.     | x (1d6) lb.     |
 
