@@ -1,4 +1,8 @@
 ## Goliath
+Goliaths are tall and bulky humanoids with grayish white skin, blue eyes, and angular faces. They reside in the frigid and mountainous tundras of the Vrostian Peaks.
+
+Most goliaths live in nomadic tribes that hunt and forage to survive or in small rural communities, but some reside in the only two cities of the kingdom.
+
 
 
 ### Goliath Traits

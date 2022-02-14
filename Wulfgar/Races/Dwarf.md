@@ -1,10 +1,9 @@
 ## Dwarf
-Dwarves in the world of Wulfgar are a isolationist race that resides almost exclusively in underground cities in the mountainous region of the Kaur's Range.
+Dwarves are short humanoids with strange eyes, bulky builds, and are usually very harry. They are a isolationist race that resides almost exclusively in cities built into the  mountains of Kaur's Range.
 
-Dwarven society is structured in a clan based system with a strong emphasis on brotherhood and sisterhood above familial bonds.
+Dwarven society is structured in a clan based system with a strong emphasis on family lineage, as they believe that their ancestors were demigods tasked with guiding the dwarven race. Occasionally outsiders can become part of a dwarven clan.
 
-### Dwarven Ethnicity
-Dwarves are ethnically cohesive due to their isolationist culture and strong blood. As a result even dwarves that live outside the kingdoms in the mountains tend to have dwarven children.
+
 
 ### Dwarf Traits
 This are your Dwarf characters traits.
@@ -25,10 +24,10 @@ ___
 Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 ___
 ***Darkvision.***
-Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 ___
 ***Masterful Artisan.***
-You are proficient in a artisan’s tools of your choice. Whenever you make a check with that tool you have advantage.
+You are proficient in a artisan's tools of your choice. Whenever you make a check with that tool you have advantage.
 ___
 ***Languages.***
 You can speak, read, and write Dwarvish.

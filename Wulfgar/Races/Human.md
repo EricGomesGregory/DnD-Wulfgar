@@ -1,5 +1,5 @@
 ## Human
-Humans in the world of Wulfgar are the most common race, residing in vast numbers in cities, towns, and villages from the Nhar banks in the Adernian Dunes to the kingdoms of the Kings Plains.
+Humans are the most common and varied humanoids, residing in vast numbers in cities, towns, and villages from the Nhar banks in the Adernian Dunes to the kingdoms of the Kings Plains.
 
 In addition, some humans live within regions dominated by other races or in succeeded residences outside of any nation or empire. 
 

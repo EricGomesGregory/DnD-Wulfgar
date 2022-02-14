@@ -1,7 +1,7 @@
 ## Elf
 Elves are tall and slender humanoids with light skin tones and slightly pointed ears. They are commonly found in the Boreal Forest region but some reside in other regions, such as the human dominated Kings Plains.
 
-Elves are deeply religious believing in powerful beasts that were created by the twin progenitor elves.
+Elves are deeply religious believing in powerful beasts that were created by the twin progenitor elves as guardians and earthly guides of their race.
 
 
 ### Elvish Ethnicities
