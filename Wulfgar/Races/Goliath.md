@@ -13,7 +13,7 @@ ___
 Askan, Aleksan, Blaz, Bogdan, Borovir, Chestmir, Dalibor, Dragomir, Glebu, Kazimir, Kresimir, Iskan, Kyrilu, Milosh, Nikola, Permislav, Ratmir, Rostislav, Ross, Vasil, Velmir, Yaro, Yarognev, Yaromir, Zbignev.
 ___
 **Female Names:**
-Anya, Anastasia, Daria, Nadia, Luka, Sveta, Endellion, Feodora, Ondrea, Korva, Lexa, Nagda, Peryn, Ilka, Zivka, Lavera, Ivania, Iskara, Ajla, Zorrah, Evonnia, Kitka, Kalene, 
+Anya, Anastasia, Daria, Nadia, Luka, Sveta, Endellion, Feodora, Ondrea, Korva, Lexa, Nagda, Peryn, Ilka, Zivka, Lavera, Ivania, Iskara, Ajla, Zorrah, Evonnia, Kitka, Kalene, Vrushka, Minushka.
 
 
 
