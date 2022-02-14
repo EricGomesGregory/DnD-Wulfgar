@@ -36,7 +36,7 @@ They're found primarily in the Stormlands of the Kings Plains.
 This are your Human characters traits.
 ___
 ***Ability Score Increase.***
-One ability score increases by 2, and two other ability score increases by 1.
+One ability score increases by 2, and two other ability score increases by 1. Alternatively you can increase three different ability score increase by 1.
 ___
 ***Age.***
 Humans reach adulthood in their late teens and live less than a century.
