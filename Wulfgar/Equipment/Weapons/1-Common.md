@@ -88,7 +88,7 @@ A Large or smaller creature hit by a net is Restrained until it is freed. A net 
 | Whip                   |  2 gp | 1d4  slashing    |  3  lb. | Finesse, reach                                 |
 |*Martial Ranged Weapons*|       |                  |         |                                                |
 | Blowgun                | 10 gp | 1    piercing    |  1  lb. | Ammunition(range 20/80), loading, two-handed   |
-| Crossbow, hand         | 75 gp | 1d6  piercing    |  3  lb. | Ammunition(range 30/120), loading, two-handed  |
+| Crossbow, hand         | 75 gp | 1d6  piercing    |  3  lb. | Ammunition(range 30/120), loading              |
 | Crossbow, heavy        | 50 gp | 1d10 piercing    | 18  lb. | Ammunition(range 100/400), loading, two-handed |
 | Longbow                | 50 gp | 1d8  piercing    |  2  lb. | Ammunition(rnage 150/600), two-handed          |
 | Net                    |  1 gp | _                |  3  lb. | Special, thrown(range 20/60)                   |
