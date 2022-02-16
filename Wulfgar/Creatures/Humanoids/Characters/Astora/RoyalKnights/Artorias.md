@@ -7,7 +7,7 @@ On the battlefield he dawns a unique set of polished plate armor adorned with br
 
 
 ### History
-CHARACTER_HISTORY.
+Artorias was born to the ASTORAN_ROYAL_FAMILY, 
 
 
 ### Characteristics
