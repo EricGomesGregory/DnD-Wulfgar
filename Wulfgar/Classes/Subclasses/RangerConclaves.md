@@ -139,7 +139,7 @@ At 18th level, while surrounded by wilderness you can call upon its spirits to c
 \page
 
 ### Night Stalker
-
+Some rangers train to wield the night as a weapon, hunting their prey in the darkness. Rangers of this conclave develop specialized techniques to hunt and fight both in darkness and against creatures that rely on darkvision. 
 
 #### Ambusher
 At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
