@@ -1,5 +1,5 @@
 ## Iron Lords
-In the ancient times the dwarves were a race relegated to the depths of the caverns of the world as the surface was dominated by the fiendish goat-mans that enslaved and subjugated all they could find.
+In the ancient times, the dwarves resided on the deepest caverns of the world, as the surface was dominated by the fiendish goat-mans that enslaved and subjugated all they could find.
 ___
 Among the dwarves that survived in the dark Kaur, a tall muscular dwarf with crimson hair, was exploring a deep hollow when the ground gave way and he fell for what felt like an eternity.
 
