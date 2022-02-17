@@ -1,0 +1,4 @@
+## The Harvest Festival
+The campaign begins in the last week of autumn. The player characters find themselves among the townsfolk of Birtchtown, celebrating the annual harvest in a massive festival funded by the Coppereye family.
+
+The town's square has been transformed from a place of commerce, into a vibrant party; a massive banquet is held on three long tables, a wooden platform was built for a group of bards to perform and while people dance in front of them, a series of games of skill are held with the weapons and tools made in the hall's forges, and finally various shops and street stores occupy the region surrounding the party. 
