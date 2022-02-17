@@ -39,6 +39,23 @@ The Hall of Hands is a large ring shaped structure made of stone and wood with a
 #### Boarfoot Inn
 The Boarfoot Inn is a large three story building located on a farm adjacent to the town's walls. The inn has a large dining hall, a stable, and a massive kitchen on the first floor. The second floor is reserved for patron rooms and a study. Finally the third floor is reserved for the Hillbrew family.
 
+##### Boarfoot Inn Expenses
+| Rooms         | Price/Day | Food and Drinks | Price |
+|:--------------|:---------:|:----------------|:-----:|
+| 1 person room |  5 sp/day | Small meal      |  1 sp |
+| 2 person room |  1 gp/day | Regular meal    |  2 sp |
+| 4 person room |  2 gp/day | Banquet         |  8 sp |
+
+
+#### Tipsy Sparrow Inn
+The Tipsy Sparrow Inn is a large two story building located on the main street within the town's walls. The inn has a large dining hall with a stage, a large kitchen and the Winnam rooms. The second floor is reserved for patron rooms. The inn's cellar is reserved as a wine and ale storage.
+
+##### Tipsy Sparrow Inn Expenses
+| Rooms         | Price/Day | Food and Drinks | Price |
+|:--------------|:---------:|:----------------|:-----:|
+| 1 person room |  8 sp/day | Small meal      |  2 sp |
+| 2 person room |  2 gp/day | Regular meal    |  5 sp |
+| 4 person room |  3 gp/day | Banquet         |  1 gp |
 
 
 ### Factions
@@ -98,7 +115,21 @@ Tiron works the inns farm and stables.
 
 
 
-#### GUILD_FAMILY
+#### Winnam Family
+The Winnam familly is a large and old human family that operates the Tipsy Sparrow inn, as well as the brewers guild of Birtchtown...
+
+***Dennero Winnam.***
+Dennero is a 5'5'' tall, 40 year old man with short curly brown hair, ember eyes, a large physique, and a red nose. He is a clever and persuasive man.
+
+Dennero works as the head of the brewers guild and concealer to the Coppereyes.
+
+***Tulia Winnam.***
+Tulia is a5'8'' tall, 33 year old woman with long red hair, emerald eyes, and a sturdy body. She is a fiery woman with intense opinions of almost everything.
+
+Tulia works as the innkeeper of the Tipsy Sparrow inn.
+
+
+#### GUILD_FAMILY Family
 GUILD_FAMILY_DESCRIPTION
 
 ***IMPORTANT_CHARACTER.***
