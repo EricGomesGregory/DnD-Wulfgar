@@ -75,7 +75,7 @@ You can draw a weapon that has the thrown property as part of the attack you mak
 In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 
 #### Two-Weapon Fighting
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+When you take your first attack action on your turn you can make an additional weapon attack with your offhand weapon as part of the action, adding your ability modifier to the damage of the bonus attack.
 
 
 ### Natural Explorer
