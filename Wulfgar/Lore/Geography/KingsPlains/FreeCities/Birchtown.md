@@ -1,5 +1,5 @@
 ## Birchtown
-The town of Birchtown, located in the river RIVER_NAME in the middle of a birch grove, is a large town composed of a walled burg located in the right bank, a stone bridge that connects both sides of the river, and a sprawling town surrounding the burg and bridge.
+The town of Birchtown, located in the river Arno in the middle of a birch grove, is a large town composed of a walled burg located in the right bank, a stone bridge that connects both sides of the river, and a sprawling town surrounding the burg and bridge.
 
 ___
 > ## Birchtown
