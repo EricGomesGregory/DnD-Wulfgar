@@ -16,7 +16,7 @@ Slender in build than most other humans, Adernians have dusky brown skin, curly 
 They're found primarily in the free cities of the Nhar Banks of the Adernian Dunes.
 
 
-### Astorans
+#### Astorans
 Astorans are tall, tan skinned folk with brunette or golden hair, and oak brown eyes.
 
 They're found primarily in the Highlands of the Kings Plains.
@@ -40,7 +40,7 @@ They're found primarily in the Stormlands of the Kings Plains.
 This are your Human characters traits.
 ___
 ***Ability Score Increase.***
-One ability score increases by 2, and two other ability score increases by 1. Alternatively you can increase three different ability score increase by 1.
+One ability score increases by 2, and two other ability score increases by 1. Alternatively you can increase four different ability score increase by 1.
 ___
 ***Age.***
 Humans reach adulthood in their late teens and live less than a century.
