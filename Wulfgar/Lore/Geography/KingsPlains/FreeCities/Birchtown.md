@@ -42,9 +42,9 @@ The Boarfoot Inn is a large three story building located on a farm adjacent to t
 ##### Boarfoot Inn Expenses
 | Rooms         | Price/Day | Food and Drinks | Price |
 |:--------------|:---------:|:----------------|:-----:|
-| 1 person room |  5 sp/day | Small meal      |  1 sp |
-| 2 person room |  1 gp/day | Regular meal    |  2 sp |
-| 4 person room |  2 gp/day | Banquet         |  8 sp |
+| 1 person room |  5 sp     | Small meal      |  1 sp |
+| 2 person room |  1 gp     | Regular meal    |  2 sp |
+| 4 person room |  2 gp     | Banquet         |  8 sp |
 
 
 #### Tipsy Sparrow Inn
@@ -53,9 +53,9 @@ The Tipsy Sparrow Inn is a large two story building located on the main street w
 ##### Tipsy Sparrow Inn Expenses
 | Rooms         | Price/Day | Food and Drinks | Price |
 |:--------------|:---------:|:----------------|:-----:|
-| 1 person room |  8 sp/day | Small meal      |  2 sp |
-| 2 person room |  2 gp/day | Regular meal    |  5 sp |
-| 4 person room |  3 gp/day | Banquet         |  1 gp |
+| 1 person room |  8 sp     | Small meal      |  2 sp |
+| 2 person room |  2 gp     | Regular meal    |  5 sp |
+| 4 person room |  3 gp     | Banquet         |  1 gp |
 
 
 ### Factions
