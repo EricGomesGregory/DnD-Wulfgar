@@ -21,6 +21,8 @@ ___
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 2) piercing damage. 
 >
+> ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 80/320 ft., one target. *Hit* 0 (1d6 + 2) piercing damage. 
+>
 
 
 ___
@@ -28,20 +30,20 @@ ___
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 16 (haulberk)
-> - **Hit Points** 16 (2d8 + 4)
+> - **Hit Points** 12 (1d10 + 2)
 > - **Speed** 30ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |
+>| 15 (+2) | 16 (+3) | 14 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |
 >___
 > - **Skills** Athletics +3, Intimidation +3
 > - **Senses** passive Perception 10
 > - **Languages** Common 
-> - **Level** 2
+> - **Level** 1
 > ___
 >
 >
 > ### Actions
-> ***Short Sword.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 2) piercing damage. 
+> ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 4 (1d10 + 2) slashing damage. 
 >
