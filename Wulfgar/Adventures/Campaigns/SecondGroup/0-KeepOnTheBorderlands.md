@@ -11,14 +11,21 @@ Within the keep the player character can find the following buildings.
 #### Barracks
 The barracks is a large two story square brick and mortar building that houses all the guards of the keep, a collection of tradesman's, as well as the keep's commander and its family.
 ___
+***Captain COMMANDER_NAME.***
+
+___
 ***FLETCHER_NAME, the Fletcher.***
 FLETCHER_NAME
 ___
 ***COBBLER_NAME, the Cobbler.***
 COBBLER_NAME
 
+
 #### Hill Bull Inn
 The
+___
+***TAVERNKEEPER_NAME.***
+
 
 ##### Hill Bull Inn Expenses
 | Rooms         | Price/Day | Food and Drinks | Price |
@@ -31,7 +38,9 @@ The
 
 #### NAME_FORGE Forge
 
+***SMITH_NAME, the Smith.***
+
 
 #### STORE_NAME Emporium
 
-
+***SHOPKEEP_NAME.***
