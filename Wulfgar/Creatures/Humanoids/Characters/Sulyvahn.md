@@ -40,8 +40,10 @@ ___
 > - **Languages** Common, Elvish
 > - **Level** Sorcerer 2
 > ___
-> ***Spellcasting.*** The Sulyvhan is an 2nd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 00, +0 to hit with spell attacks). The Sulyvhan has 3 mana points and the following Sorcerer spells prepared:
+> ***Spellcasting.*** The Sulyvhan is an 2nd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 00, +0 to hit with spell attacks). Sulyvhan has 3 mana points and the following Sorcerer spells prepared:
+>
 > - Cantrips (at will): *friends, light, mage hand, message*
+>
 > - 1st level: *charm person, comprehand languages, disguise self*
 >
 > ### Actions
