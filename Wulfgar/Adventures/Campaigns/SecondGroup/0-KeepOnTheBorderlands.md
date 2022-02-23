@@ -17,10 +17,10 @@ ___
 ***COBBLER_NAME, the Cobbler.***
 COBBLER_NAME
 
-#### TAVERN_NAME Inn
+#### Hill Bull Inn
+The
 
-
-##### TAVERN_NAME Inn Expenses
+##### Hill Bull Inn Expenses
 | Rooms         | Price/Day | Food and Drinks | Price |
 |:--------------|:---------:|:----------------|:-----:|
 | 1 person room |  1 sp     | Small meal      |  1 sp |
