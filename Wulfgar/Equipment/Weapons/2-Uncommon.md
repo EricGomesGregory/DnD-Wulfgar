@@ -13,7 +13,7 @@ You have disadvantage on attacks with this weapon.
 
 
 ***Ultra.***
-Any subsequent attack, after the first, as part of an attack action is made with disadvantage.
+This weapons attack uses your full action.
 
 
 
