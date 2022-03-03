@@ -37,12 +37,12 @@ ___
 >*Medium humanoid (human), lawful evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 20 (2d8 + 11)
+> - **Hit Points** 17 (2d8 + 8)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->|  8 (-1) | 14 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 19 (+4) |
+>|  8 (-1) | 14 (+2) | 10 (+0) | 14 (+2) | 10 (+0) | 19 (+4) |
 >___
 > - **Saving Throws** Wis +2, Cha +6
 > - **Skills** Arcana +4, Intimidation +6, Religion +4
@@ -105,4 +105,4 @@ ___
 > The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 >
 
-[17, 14, 13, 10, 10, 8]
+[17, 14, 10, 10, 10, 8]
