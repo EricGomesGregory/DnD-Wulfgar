@@ -118,7 +118,7 @@ ___
 > ## Guard
 >*Medium humanoid(human), chaotic neutral*
 > ___
-> - **Armor Class** 00
+> - **Armor Class** 14 (gambeson)
 > - **Hit Points** 10 (1d8 + 2)
 > - **Speed** 30 ft.
 >___
@@ -142,7 +142,7 @@ ___
 > ## Marauder
 >*Medium humanoid(human), neutral evil*
 > ___
-> - **Armor Class** 00
+> - **Armor Class** 15 (brigandine)
 > - **Hit Points** 000 (1d10 + 0)
 > - **Speed** 30 ft.
 >___
