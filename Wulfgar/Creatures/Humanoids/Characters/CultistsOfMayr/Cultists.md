@@ -126,8 +126,8 @@ ___
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 14 (+2) | 14 (+2) | 15 (+2) |  8 (-1) | 12 (+1) | 10 (+0) |
 >___
-> - **Skills** Athletics +0, Perception +0
-> - **Senses** passive Perception 00
+> - **Skills** Athletics +4, Perception +3
+> - **Senses** passive Perception 13
 > - **Languages** Common
 > - **Level** 1
 > ___
@@ -143,7 +143,7 @@ ___
 >*Medium humanoid(human), neutral evil*
 > ___
 > - **Armor Class** 15 (brigandine)
-> - **Hit Points** 000 (1d10 + 0)
+> - **Hit Points** 12 (1d10 + 2)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
