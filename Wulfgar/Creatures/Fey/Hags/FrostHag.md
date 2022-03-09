@@ -34,7 +34,7 @@ ___
 > 1/day each: *ice storm*
 >
 > ***Ice Walk.***
-> The frost hag can move across icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn’t cost it extra moment.
+> The frost hag can move across icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 >
 > ***Illusory Appearance.***
 > The hag covers herself and anything she is wearing or carrying with a magical Illusion that makes her look like another creature of her general size and Humanoid shape. The Illusion ends if the hag takes a Bonus Action to end it or if she dies.
