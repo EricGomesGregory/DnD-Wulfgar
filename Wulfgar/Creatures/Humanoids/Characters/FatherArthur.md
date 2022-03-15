@@ -49,8 +49,8 @@ ___
 > ## Father Arthur
 >*Medium humanoid (human), lawful good*
 > ___
-> - **Armor Class** 8
-> - **Hit Points** 12 (1d8 + 8)
+> - **Armor Class** 9
+> - **Hit Points** 12 (2d8)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
