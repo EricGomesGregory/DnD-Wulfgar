@@ -27,7 +27,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 
 #### Inscrutable
-Starting at 10th level, you are immune to any effect that would sense your emotions. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+Starting at 10th level, you are immune to any effect that would sense your emotions. You also have resistance to Psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you would.
 
 ```
 ```
