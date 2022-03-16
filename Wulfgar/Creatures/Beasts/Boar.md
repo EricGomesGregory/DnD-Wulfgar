@@ -7,7 +7,7 @@ ___
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 11 (Natural armor)
-> - **Hit Points** 000 (2d8 + 14)
+> - **Hit Points** 23 (2d8 + 14)
 > - **Speed** 40 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
