@@ -10,15 +10,18 @@ https://soundcloud.com/jhn-bylss/berserk-soundtrack-behelit-extended-loop
 https://soundcloud.com/erserk/berserk-soundtrack-5-murder
 
 
-### Calm
+### Calm & Emotional
 
 [BERSERK Guts]
 https://soundcloud.com/pallypal/berserk-guts-theme
-[BERSERK Guts - Guitar cover]
+[BERSERK Guts - guitar cover]
 https://soundcloud.com/vitor-daniel-270043568/susumu-hirasawa-guts-theme
 
 [BERSERK Guitar 1123]
 https://soundcloud.com/berserk-golden-age/berserk-golden-age-iii-descent-ost-17-guitare-1123
+
+[DARK SOULS Firelink Shrine]
+https://soundcloud.com/rda3/firelink-shrine-dark-souls-ost
 
 
 ### City and Settlements
@@ -31,6 +34,18 @@ https://soundcloud.com/nargemn/diablo-i-ii-soundtrack-tristram-village
 
 [BERSERK Trio F dur II]
 https://soundcloud.com/berserk-golden-age/berserk-golden-age-iii-descent-ost-03-trio-f-dur-ii
+
+[WITCHER Merchants of Novigrad]
+https://soundcloud.com/rpg_ost/the-witcher-3-ost-merchants-of-novigrad
+
+[WITCHER Novigrad Night Extended]
+https://soundcloud.com/titifreeman/the-witcher-3-wild-hunt-ost-novigrad-city-night-ambience-theme-extended-unofficial-soundtrack
+
+[WITCHER Outskirts of Novigrad]
+https://soundcloud.com/jtanstyla/the-witcher-3-outskirts-of-novigrad
+
+[WITCHER Slums of Novigrad]
+https://soundcloud.com/prsds/the-witcher-3-wild-hunt-ost-unreleased-tracks-the-slums-of-novigrad
 
 
 ### Wilderness
@@ -54,6 +69,18 @@ https://soundcloud.com/john_french/crypt-full
 https://soundcloud.com/john_french/dark-catacombs-main-full
 
 
+### Epic
+
+[DARK SOULS Main Menu]
+https://soundcloud.com/goldielou2/dark-souls-iii-ost-dark-souls-3-main-theme
+
+[DARK SOULS Gwyn]
+https://soundcloud.com/0r0b0r0s/dark-souls-ost-gwyn-lord-of-cinder-extended
+
+[DARK SOULS Taurus Demon]
+https://soundcloud.com/devonaitor/dark-souls-ost-taurus-demon-extended
+
+
 ## Ambiance
 
 ### Wilderness
@@ -61,7 +88,11 @@ https://soundcloud.com/john_french/dark-catacombs-main-full
 [Forest 60:00]
 https://soundcloud.com/nature_sounds_of_scotland/relaxing-forest-sounds-woodland-ambience-nature-sounds-for-sleep-studying
 
+
 ## Playlists
 
 [PAGANIA]
 https://soundcloud.com/odinatlas/sets/jan-janko-mocnik-pagania-i
+
+[WITCHER 3]
+https://soundcloud.com/gus-buddy-676066479/sets/2-the-witcher-3-wild-hunt-extended-soundtrack-2015
