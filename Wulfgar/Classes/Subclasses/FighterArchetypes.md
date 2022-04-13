@@ -8,9 +8,13 @@ A banneret lead through deeds and words. As a banneret spearheads an attack, the
 
 
 #### Rallying Cry
-When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.
+When you choose this archetype at 3rd level, you learn how to inspire your allies. You can perform one of the following cries when you use your Second Wind feature.
 
-When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one gains a number of temporary hit points equal to 1d10 + your fighter level, provided that the creature can see or hear you.
+***Cry of Inspiration.***
+You can choose up to three creatures within 60 feet of you that are allied with you. Each one gains a number of temporary hit points equal to 1d10 + your fighter level, provided that the creature can see or hear you.
+
+***Cry of Perseverance.***
+You can choose one creature within 60 feet of you that is unconscious. It becomes stable and regains a number of hit points equal to 1d10 + your fighter level, provided that the creature can see or hear you.
 
 
 #### Envoy
@@ -20,7 +24,7 @@ At 7th level, your proficiency bonus is doubled for any ability check you make t
 
 
 #### Inspiring Surge
-Starting at 7th level, when you use your Action Surge feature, you can choose one creature within 30 feet of you that is allied with you. That creature can make one melee or ranged weapon attack as part of your action, provided that it can see or hear you.
+Starting at 7th level, when you use your Action Surge feature, you can choose one creature within 30 feet of you that is allied with you. That creature can make one weapon attack or take the dash action as part of your action, provided that it can see or hear you.
 
 Starting at 18th level, you can choose two allies within 30 feet of you, rather than one.
 
