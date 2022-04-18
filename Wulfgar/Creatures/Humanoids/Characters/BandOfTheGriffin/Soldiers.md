@@ -13,7 +13,7 @@ The Soldiers table shows the name, age, height, kingdom of origin, and type of t
 | Dante     |  20 | 5'4''  | Astora   |
 | Eden      |  17 | 5'4''  | Forossa  |
 | Mason     |  19 | 5'6''  | Hafexia  |
-| Otto      |  16 | 5'6''  | Hafexia  |
+| Otto      |  19 | 5'6''  | Hafexia  |
 |*Berserker*|     |        |          |
 | Hugo      |  21 | 6'1''  | Vrostian |
 |*Spearman* |     |        |          |
