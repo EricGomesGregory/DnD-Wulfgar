@@ -51,7 +51,7 @@ Qayana is a voluptuous woman with olive skin, fish scale patches with fins cover
 
 
 #### Qmn, the Void
-Qmn is the primordial deity of the void, it envelops the world as it exists beyond the domain of the elemental kings.
+Qmn is the primordial deity of the void, it envelops the world as it exists beyond the domain of the elemental kings. She is the chill night that encompasses all.
 
 
 ### Minor Deities

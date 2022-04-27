@@ -13,12 +13,15 @@ ___
 Nammu is a distant and almost unknowable creature, focused on her goals above all else.
 ___
 ***Goals.***
-Nammu wishes to bring the union of the astral and real worlds so it can regain its material form.
+Nammu has two goals, she wishes to bring the union of the astral and real worlds so it can regain its material form. But first she seeks to weaken the strength of other creatures before merging the astral and real worlds.
 ___
 ***Bonds.***
+Nammu has a week relation with her warlocks, seeing them as tools to further her goals.
 
+She has a strong connection to the primordial deity of the void Qmn.
 ___
 ***Flaws.***
+Nammu's distance to her warlocks and her self centered nature causes her to neglect the wishes and desires of her servants and leaving them feeling unheard and unanswered.
 
 ___
 ___
