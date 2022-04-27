@@ -20,7 +20,7 @@ ___
 > ___
 > ***Keen Hearing and Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
-> ***Pounce.*** The lion can use its movement to leap towards a creature within 20 ft. The target creature must succeed on a DC 12 Strength saving throw or be knocked prone.
+> ***Pounce.*** The lion can use its movement to leap towards a creature within 20 ft. The target creature must succeed on a DC 15 Strength saving throw or be knocked prone.
 >
 > ### Actions
 > ***Multiattack.*** The lion makes two claw attacks.
