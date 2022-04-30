@@ -47,10 +47,10 @@ Agnes is a 40 year old human that is 5'3'' tall with moon-white skin, long braid
 ##### Hill Bull Inn Expenses
 | Rooms         | Price/Day | Food and Drinks | Price |
 |:--------------|:---------:|:----------------|:-----:|
-| 1 person room |  1 sp     | Small meal      |  1 sp |
-| 2 person room |  5 sp     | Regular meal    |  2 sp |
-| 4 person room |  1 gp     | Banquet         |  1 gp |
-| 8 person room |  2 gp     |                 |       |
+| 1 person room |  2 sp     | Small meal      |  1 sp |
+| 2 person room |  1 sp     | Regular meal    |  2 sp |
+| 4 person room |  5 cp     | Banquet         |  1 gp |
+| 8 person room |  2 cp     |                 |       |
 
 
 
