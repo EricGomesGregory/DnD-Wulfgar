@@ -1,5 +1,31 @@
 ## Rare Rings
 
+#### Life Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A small ring made of aged silver with a ruby in its center. While attuned to this ring you have a reinvigorating sensation.
+
+***Life Blessing.***
+Your hit point maximum increases by 1 for every other level you have.
+
+
+#### Shield Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A large brass ring with a heather shield adorning it.
+
+***Shield Boon.***
+While wearing a shield you have +1 to your AC.
+
+
+#### Sword Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A large brass ring with a sword adorning it.
+
+***Weapon Boon.***
+While wielding a melee weapon you have +1 to attack and damage rolls.
+
 
 #### Silvercat Ring
 *Wondrous item (ring), rare* (Attunement)
