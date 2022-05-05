@@ -19,3 +19,25 @@ A large brass ring with a square STONE stone embossed on it.
 You gain resistance to fire damage.
 
 Whenever you suffer fire damage a scale like growth spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
+
+
+#### Moon Stone Plate Ring
+*Wondrous item (ring), very rare* (Attunement)
+___
+A large brass ring with a square moonstone embossed on it.
+
+***Force Resistance.***
+You gain resistance to force damage.
+
+Whenever you suffer force damage you skin turns light blue spreading from the finger of the ring. Breaking the attunement to this item doesn't remove the blue skin.
+
+
+#### Petrified Wood Plate Ring
+*Wondrous item (ring), very rare* (Attunement)
+___
+A large brass ring with a square petrified wood embossed on it.
+
+***Poison Resistance.***
+You gain resistance to poison damage.
+
+Whenever you suffer poison damage a wood-bark like growth spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
