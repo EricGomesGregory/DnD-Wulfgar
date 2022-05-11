@@ -47,3 +47,14 @@ If all charges are consumed, you suffer the effects of the *true polymorph*, tra
 When awarding this item roll a d10, on a roll of 1 to 9 the ring has this many charges available; on a roll of 0 the party finds the ring besides a cat, the ring has 9 charges now.
 
 </div>
+
+
+#### Petrified Wood Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A simple plain ring made of petrified wood.
+
+***Poison Resistance.***
+You are immune to the Poisoned condition, and you gain resistance to poison damage.
+
+Whenever you suffer poison damage a wood-bark like growth spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
