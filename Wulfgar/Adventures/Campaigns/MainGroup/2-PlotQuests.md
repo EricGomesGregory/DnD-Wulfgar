@@ -5,19 +5,36 @@
 ### Spy Within the Walls
 The Band of the Wolves have sent a spy into the city of Birchtown to sequester the daughter of lord flannegan, Melenia. In addition he is tasked with attempting to murder Gwyn during the festival of the new year.
 
-Gwyn knows that lord Flannegan and the Band of the Wolves probably will attempt to sequester the lord's daughter or will attempt an assassination.
-
-#### Preparations
-Gwyn calls the group and informs them that the 
+Gwyn calls the group and informs them that lord Flannegan and the Band of the Wolves probably will attempt to sequester the lord's daughter or will attempt an assassination against him. So he enlists the group to investigate the people that have arrived in the city for the festival.
 
 
 #### The Willing Hostage
-Valerian Coppereye invites During and Alaor to his estate so they can aid him with a 
+Valerian Coppereye invites During and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing. 
+
 
 ***Melena Fall. or Melenia Flannegan.***
-Melena Fall is a 5'4'' tall, 20 year old woman with deep green eyes, pale skin, crimson hair, and a square face. She wares a simple indigo dress under a beige wool jacket. On her right ring finger she wares a ring made of petrified wood, the finger has a small wood-like growth surrounding it.
+Melena Fall is a 5'4'' tall, 20 year old woman with deep green eyes, pale skin, crimson hair, and a square face. She wares a simple indigo dress under a beige wool jacket. On her right ring finger she wares a ring made of petrified wood, the finger has a small wood-like growth surrounding it. She puts on a distinctive perfume whenever she is summoned.
 
-Melena is wearing a **Petrified Wood Ring** to protect her from the effects of *Swamp Rot*, a degenerative sickness that has afflicted her from a young age. She in addition she puts on a distinctive perfume whenever she is summoned for a special occasion.
+In a conversation with Melena she informs the characters that she has a sickness known as *Swamp Rot*, a degenerative sickness that has afflicted her from a young age and should have lead to her death. But her father sought the aid of a witch known as Zullie to cure Melena's disease and was gifted with the **Petrified Wood Ring** to protect her from the effects of *Swamp Rot*.
+
+Recently she doffed the ring to see if her sickness was cured but quickly became sick so she wore the ring once more and a wood-like growth appeared on her ring finger.
+
+___
+Casting the Identify spell on the ring reveals the following item description.
+
+> #### Petrified Wood Ring
+> *Wondrous item (ring), rare* (Attunement)
+> 
+> A simple plain ring made of petrified wood.
+> 
+> ***Poison Resistance.***
+> You are immune to the Poisoned condition, and you gain resistance to poison damage.
+>
+> Whenever you suffer poison damage a wood-bark like growth spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
+> 
+
+___
+In addition Melena also informs the characters that she was not taken hostage by Gwyn. She was in a trip to visit her cousin in his keep in the countryside, but during the voyage her entourage was killed by a group of mercenaries wearing red but they were saved by Gwyn and his men. Gwyn then invited her to return to Birchtown with him.
 
 
 #### New Year's Festival
