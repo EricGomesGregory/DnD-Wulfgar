@@ -31,7 +31,7 @@ ___
 >*Medium humanoid (elf), chaotic neutral*
 > ___
 > - **Armor Class** 18 (plate)
-> - **Hit Points** 17 (2d10 + 2)
+> - **Hit Points** 23 (3d10 + 3)
 > - **Speed** 30ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -42,7 +42,7 @@ ___
 > - **Skills** Deception +4, Perception +2, Persuasion +4
 > - **Senses** passive Perception 14
 > - **Languages** Common (S, R, W), Elvish (S, R, W)
-> - **Level** 2
+> - **Level** 3 Fighter
 > ___
 > ***Mask of the Wild.***
 > Gwyn can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
