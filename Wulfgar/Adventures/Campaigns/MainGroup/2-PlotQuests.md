@@ -37,6 +37,22 @@ ___
 In addition Melena also informs the characters that she was not taken hostage by Gwyn. She was in a trip to visit her cousin in his keep in the countryside, but during the voyage her entourage was killed by a group of mercenaries wearing red but they were saved by Gwyn and his men. Gwyn then invited her to return to Birchtown with him.
 
 
+#### Wolf in Sheep's Clothing
+
+
+##### Visitors Table
+| Name | Origin | Age | Description |
+|:-----|:------:|:---:|:------------|
+| NAME | Adernia | 38 | 5'6'' man with dark brown skin, brown eyes. He wears a plain white tunic.                       |
+| NAME | Hafexia | 45 | 5'7'' woman with pale skin, black hair and light blue eyes. She wears a simple indigo dress     |
+| NAME | Hafexia | 48 | 5'9'' nam with pale skin, black hair and brown eyes. He wears a simple merchant's clothes       |
+| Dussan (Oran) | Adernia | 23 | 6'0'' man with pale skin, blue eyes. He wears a white tunic and a yellow turban          |
+| Andre         | Astora  | 28 | 5'6'' man with tanned skin, brown eyes and a scar on his left cheek. He wears a gambeson |
+| NAME | Kaur's Range | 35 | 4'2'' dwarvish man with pale skin, brown beard and  
+| NAME |
+| NAME |
+
+
 #### New Year's Festival
 
 

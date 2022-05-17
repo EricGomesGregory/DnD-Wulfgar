@@ -1,5 +1,12 @@
 ## Zullie, the Witch 
-Zullie is a 78 year old 4'7 woman with short dark red hair, a emaciated physique and slitted emerald green eyes. She dawns a black dress and a dark green hooded cape.
+Zullie is a 78 year old 4'7 woman with short dark red hair, a emaciated physique and slitted emerald green eyes. She dawns a black dress, a dark green cape and a large black pointy hat.
+
+She carries a long staff made of ashen wood adorned with arcane glyphs.
+
+
+### History
+Zullie is the daughter of a lesser noble from 
+
 
 ### Character Trais
 The following are Zullie's Personality, Ideals, Bonds and Flaws:
@@ -31,7 +38,7 @@ ___
 >___
 > - **Saving Throws** Wis +5, Cha +6
 > - **Skills** Arcana +3, Insight +5, Perception +5, Persuasion +6
-> - **Senses** passive Perception 15
+> - **Senses** Darkvision 120 ft., passive Perception 15
 > - **Languages** Common
 > - **Level** 5 Warlock
 > ___
