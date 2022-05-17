@@ -5,7 +5,9 @@ She carries a long staff made of ashen wood adorned with arcane glyphs.
 
 
 ### History
-Zullie is the daughter of a lesser noble from 
+Zullie is the daughter of a lesser noble from the once emerging nation of Farron. When she was a child her nation was destroyed in the war of the kings and as a way to protect her from the war her father abandoned her in the care of a wizard known as Logan.
+
+Under his tutelage Zullie grew into a powerful witch
 
 
 ### Character Trais

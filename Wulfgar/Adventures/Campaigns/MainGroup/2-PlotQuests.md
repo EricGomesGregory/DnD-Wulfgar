@@ -41,15 +41,15 @@ In addition Melena also informs the characters that she was not taken hostage by
 
 
 ##### Visitors Table
-| Name | Origin | Age | Description |
-|:-----|:------:|:---:|:------------|
-| NAME | Adernia | 38 | 5'6'' man with dark brown skin, brown eyes. He wears a plain white tunic.                       |
-| NAME | Hafexia | 45 | 5'7'' woman with pale skin, black hair and light blue eyes. She wears a simple indigo dress     |
-| NAME | Hafexia | 48 | 5'9'' nam with pale skin, black hair and brown eyes. He wears a simple merchant's clothes       |
-| Dussan (Oran) | Adernia | 23 | 6'0'' man with pale skin, blue eyes. He wears a white tunic and a yellow turban          |
-| Andre         | Astora  | 28 | 5'6'' man with tanned skin, brown eyes and a scar on his left cheek. He wears a gambeson |
-| NAME | Kaur's Range | 35 | 4'2'' dwarvish man with pale skin, brown beard and  
-| NAME |
+| Name          | Origin  | Age | Description |
+|:--------------|:-------:|:---:|:------------|
+| Al'Hasul      | Adernia | 38  | 5'6'' man with dark brown skin, brown eyes. He wears a plain white tunic.                     |
+| Gertrude      | Hafexia | 45  | 5'7'' woman with pale skin, black hair and light blue eyes. She wears a simple indigo dress   |
+| German        | Hafexia | 48  | 5'9'' nam with pale skin, black hair and brown eyes. He wears a simple merchant's clothes     |
+| Dussan (Oran) | Adernia | 23  | 6'0'' man with pale skin, blue eyes. He wears a white tunic and a yellow turban               |
+| Andre         | Astora  | 28  | 5'6'' man with tanned skin, brown eyes and a scar on his left cheek. He wears a gambeson      |
+| Angenson      | Range   | 35  | 5' dwarvish man with pale skin, brown beard and a crooked nose. He wears traveling clothes    |
+| Fiona         | Range   | 33  | 4'8 dwarvish woman with pale skin, shallow red beard and a uni-brow. She wears a simple dress |
 | NAME |
 
 
