@@ -1,14 +1,14 @@
-## Plot Quests
+# Plot Quests
 
 
 
-### Spy Within the Walls
+## Spy Within the Walls
 The Band of the Wolves have sent a spy into the city of Birchtown to sequester the daughter of lord flannegan, Melenia. In addition he is tasked with attempting to murder Gwyn during the festival of the new year.
 
 Gwyn calls the group and informs them that lord Flannegan and the Band of the Wolves probably will attempt to sequester the lord's daughter or will attempt an assassination against him. So he enlists the group to investigate the people that have arrived in the city for the festival.
 
 
-#### The Willing Hostage
+### The Willing Hostage
 Valerian Coppereye invites During and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing. 
 
 
@@ -37,24 +37,82 @@ ___
 In addition Melena also informs the characters that she was not taken hostage by Gwyn. She was in a trip to visit her cousin in his keep in the countryside, but during the voyage her entourage was killed by a group of mercenaries wearing red but they were saved by Gwyn and his men. Gwyn then invited her to return to Birchtown with him.
 
 
-#### Wolf in Sheep's Clothing
+### Wolf in Sheep's Clothing
+Oran, posing as Dussan, is a member of the Band of the Wolves, has infiltrated the city of Birchtown with two goals. He intends to kill Gwyn during the new year's ball and capture Flannagan's daughter during the commotion.
 
 
 ##### Visitors Table
-| Name          | Origin  | Age | Description |
-|:--------------|:-------:|:---:|:------------|
+| Name          | Origin  | Age | Description                                                                                   |
+|:--------------|:-------:|:---:|:----------------------------------------------------------------------------------------------|
 | Al'Hasul      | Adernia | 38  | 5'6'' man with dark brown skin, brown eyes. He wears a plain white tunic.                     |
 | Gertrude      | Hafexia | 45  | 5'7'' woman with pale skin, black hair and light blue eyes. She wears a simple indigo dress   |
 | German        | Hafexia | 48  | 5'9'' nam with pale skin, black hair and brown eyes. He wears a simple merchant's clothes     |
-| Dussan (Oran) | Adernia | 23  | 6'0'' man with pale skin, blue eyes. He wears a white tunic and a yellow turban               |
+| Dussan (Oran) | Adernia | 23  | 6'0'' man with yellowish skin, blue eyes. He wears a white tunic and a yellow turban          |
 | Andre         | Astora  | 28  | 5'6'' man with tanned skin, brown eyes and a scar on his left cheek. He wears a gambeson      |
 | Angenson      | Range   | 35  | 5' dwarvish man with pale skin, brown beard and a crooked nose. He wears traveling clothes    |
 | Fiona         | Range   | 33  | 4'8 dwarvish woman with pale skin, shallow red beard and a uni-brow. She wears a simple dress |
-| NAME |
+| Derringer     | Forossa | 25  | 5'7'' man with pale skin, short red hair and a brownish red beard. He wears simple clothes    |
+
+If the party suspects Dussan to find any of his hidden weapons or its thieves' tools a character must succeed on a DC 25 Dexterity (Sleight of Hand) check.
 
 
-#### New Year's Festival
+### New Year's Festival
 
+
+#### Games and Gambles
+The player characters can approach the various games held in the festival, partaking in them either as a friendly competition or in a gamble with other characters. Among the games the player characters can find the following characters:
+___
+***Archery.***
+Up to three characters enter a arena with a wooden back wall, fence separators, and a hey target in the center of the wall. Each character is given 5 arrows and they takes turns using a shortbow to hit the target.
+
+##### Archery Success Table
+| Attack  | Description                     | Points |
+|:-------:|:------------------------------------|:--:|
+|    1    | Your shot flies into the night sky. | -1 |
+|   2-10  | Your shot hits the back wall.       |  0 |
+|  11-13  | Your shot hits the outer ring.      | +1 |
+|  14-16  | Your shot hits the middle ring.     | +2 |
+|  17-19  | Your shot hits the central ring.    | +3 |
+|   +20   | You hit the bullseye.               | +5 |
+___
+At the end, sum up the points to declare the winner.
+
+```
+```
+___
+***Axe Throwing.***
+Up to three characters enter a arena with a wooden back wall, fence separators, and a hey target in the center of the wall. Each character is given 3 handaxes and they takes turns using them to hit the target.
+
+##### Axe Throwing Success Table
+| Attack  | Description                     | Points |
+|:-------:|:------------------------------------|:--:|
+|    1    | Your shot flies into the night sky. | -1 |
+|   2-10  | Your shot hits the back wall.       |  0 |
+|  11-13  | Your shot hits the outer ring.      | +1 |
+|  14-16  | Your shot hits the middle ring.     | +2 |
+|  17-19  | Your shot hits the central ring.    | +3 |
+|   +20   | You hit the bullseye.               | +5 |
+___
+At the end, sum up the points to declare the winner.
+
+___
+***Pole Fight.***
+Two characters enter a arena with a long and narrow elevated platform surrounded by hey mattresses, each character begins in either end of the platform and are given a quarterstaff with a hey pillow tip and the goal is to use the quarterstaff to knock the opponent off the platform.
+
+Each character takes turns being the attacker and the defender. The attacker makes a Strength (Melee Weapon Attack) check, the result of the check is used by the defender as the DC for a Dexterity (Acrobatics) check.
+
+
+The game begins with five spaces and a piece in the middle, if the piece reaches either end the character opposite to the piece wins. The piece moves according tho the following rules:
+
+- Whenever a character fails a Dexterity (Acrobatics) check, move the piece one space to the losing side.
+
+- If the attacker rolls a 20 on the d20, the defender must also roll a 20 on the d20.
+
+- If a defender rolls a 20 on the d20, for a non 20 attack, the piece moves one space back.
+
+
+___
+During the festival if Oran is free he will infiltrate Coppereye manner, reach the rooftop and use the vantage point to shoot Gwyn and attempt to capture Flannagan's daughter.
 
 ___
 ***Oran.***
@@ -67,7 +125,7 @@ ___
 >*Medium humanoid (elf), lawful neutral*
 > ___
 > - **Armor Class** 15 (Gambeson)
-> - **Hit Points** 000 (3d8 + 3)
+> - **Hit Points** 23 (3d8 + 3)
 > - **Speed** 30 ft., Climb 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
