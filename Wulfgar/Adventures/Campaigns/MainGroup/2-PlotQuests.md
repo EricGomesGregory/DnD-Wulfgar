@@ -1,16 +1,10 @@
 # Plot Quests
 
-
-
-## Spy Within the Walls
-The Band of the Wolves have sent a spy into the city of Birchtown to sequester the daughter of lord flannegan, Melenia. In addition he is tasked with attempting to murder Gwyn during the festival of the new year.
-
-Gwyn calls the group and informs them that lord Flannegan and the Band of the Wolves probably will attempt to sequester the lord's daughter or will attempt an assassination against him. So he enlists the group to investigate the people that have arrived in the city for the festival.
+## The Witch and the Bear
 
 
 ### The Willing Hostage
-Valerian Coppereye invites During and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing. 
-
+Valerian Coppereye invites During and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing.
 
 ***Melena Fall. or Melenia Flannegan.***
 Melena Fall is a 5'4'' tall, 20 year old woman with deep green eyes, pale skin, crimson hair, and a square face. She wares a simple indigo dress under a beige wool jacket. On her right ring finger she wares a ring made of petrified wood, the finger has a small wood-like growth surrounding it. She puts on a distinctive perfume whenever she is summoned.
@@ -18,10 +12,10 @@ Melena Fall is a 5'4'' tall, 20 year old woman with deep green eyes, pale skin, 
 In a conversation with Melena she informs the characters that she has a sickness known as *Swamp Rot*, a degenerative sickness that has afflicted her from a young age and should have lead to her death. But her father sought the aid of a witch known as Zullie to cure Melena's disease and was gifted with the **Petrified Wood Ring** to protect her from the effects of *Swamp Rot*.
 
 Recently she doffed the ring to see if her sickness was cured but quickly became sick so she wore the ring once more and a wood-like growth appeared on her ring finger.
-
 ___
 Casting the Identify spell on the ring reveals the following item description.
 
+___
 > #### Petrified Wood Ring
 > *Wondrous item (ring), rare* (Attunement)
 > 
@@ -35,6 +29,17 @@ Casting the Identify spell on the ring reveals the following item description.
 
 ___
 In addition Melena also informs the characters that she was not taken hostage by Gwyn. She was in a trip to visit her cousin in his keep in the countryside, but during the voyage her entourage was killed by a group of mercenaries wearing red but they were saved by Gwyn and his men. Gwyn then invited her to return to Birchtown with him.
+
+
+### Bear and the Tavern
+
+
+/page
+
+## Spy Within the Walls
+The Band of the Wolves have sent a spy into the city of Birchtown to sequester the daughter of lord flannegan, Melenia. In addition he is tasked with attempting to murder Gwyn during the festival of the new year.
+
+Gwyn calls the group and informs them that lord Flannegan and the Band of the Wolves probably will attempt to sequester the lord's daughter or will attempt an assassination against him. So he enlists the group to investigate the people that have arrived in the city for the festival.
 
 
 ### Wolf in Sheep's Clothing
@@ -57,6 +62,14 @@ If the party suspects Dussan to find any of his hidden weapons or its thieves' t
 
 
 ### New Year's Festival
+
+#### Night of Dancing
+The player characters can join the festivities by dancing to the music of the bards. If a player character succeeds on a DC 15 Charisma (Performance) check one of the following events can happen. Once an event has happened it can't occur again.
+___
+***The red dress gall.***
+If a male player character succeeds the check, a mysterious young woman with short blond hair, dark brown eyes, a firm grip, and wearing a red summer dress invites the player character to dance.
+
+She will dance with the player character but will deliberately avoid questions such as her name or where she's from. Once the music is over she will kiss them in the cheek and utter a small "thank you" as she disappears into the crowd.
 
 
 #### Games and Gambles
