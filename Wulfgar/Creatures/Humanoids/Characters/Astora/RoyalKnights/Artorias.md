@@ -24,7 +24,7 @@ He believes that he is inherently better that any other person and was chosen by
 In addition he considers those unable or unwilling to fight to be a waste, and those capable of fighting but unable to lead he sees as disposable.
 ___
 ***Bonds.***
-Artorias loves a CLERIC of the MONOTHEISTIC_RELIGION named Virgilia, whom he has an affair with.
+Artorias loves a priestess of the Holy Path named Virgilia, whom he has an affair with.
 
 He also has great respect for the knight Siegward, Lionheart.
 ___
