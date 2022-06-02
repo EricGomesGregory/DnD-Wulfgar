@@ -54,7 +54,7 @@ ___
 >
 > Cantrips (at will). *booming blade, frostbite*
 >
-> 1st level (1 slots). *armor of agathys*
+> 1st level (1 slots). *armor of agathys, thunderwave*
 >
 > ### Actions
 > ***Maul.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 4) bludgeoning damage. 
