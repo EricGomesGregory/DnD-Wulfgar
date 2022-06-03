@@ -45,8 +45,8 @@ After investigating the tavern and the bodies, the party can find a track of lar
 
 
 ##### Tracking Results
-| Roll  | Event |
-|:-----:|:------|
+| Roll  | Event                                                                |
+|:-----:|:---------------------------------------------------------------------|
 |   1   | As the party tracks **Minoru** is nowhere to be found.               |
 |  2-10 | As the party tracks **Minoru** a blizzard begins, but she is close.  |
 | 11-15 | **Minoru** ambushes and grapples a member of the party.              |
