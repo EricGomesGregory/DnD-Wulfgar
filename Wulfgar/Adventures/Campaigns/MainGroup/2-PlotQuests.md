@@ -1,10 +1,11 @@
 # Plot Quests
 
 ## The Witch and the Bear
+A scout sighted a burning building in the outskirts of town, the party is called to investigate the incident.
 
 
 ### The Willing Hostage
-Valerian Coppereye invites During and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing.
+Valerian Coppereye invites Durin and Alaor to his estate so they can aid him with a visitor. He is holding Flannegan's daughter as a guest and "hostage" and is worried about her ring hand, as well as her occasional coughing.
 
 ***Melena Fall. or Melenia Flannegan.***
 Melena Fall is a 5'4'' tall, 20 year old woman with deep green eyes, pale skin, crimson hair, and a square face. She wares a simple indigo dress under a beige wool jacket. On her right ring finger she wares a ring made of petrified wood, the finger has a small wood-like growth surrounding it. She puts on a distinctive perfume whenever she is summoned.
@@ -32,9 +33,72 @@ In addition Melena also informs the characters that she was not taken hostage by
 
 
 ### Bear and the Tavern
+The party reaches a large oval building made of stone and wood with a thatched roof that has its door broken on the ground and various bodies scattered on the ground. If the party investigates the bodies they can discover that all were killed by bludgeoning damage and cold damage.
+___
+***German.***
+German is a 5'8'' tall man with pale skin, short back hair and a mustache, brown eyes, and a hooked nose. He is wearing traveling clothes and has a rapier.
+
+Among the wreckage the party can find a heavy wounded man, named German. He informs the characters that he and his men were attacked by "the Bear" and she stole a chest from his master's cart.
+
+___
+After investigating the tavern and the bodies, the party can find a track of large boots in the snow. A character proficient in Survival skill can attempt to track the attacker.
+
+
+##### Tracking Results
+| Roll  | Event |
+|:-----:|:------|
+|   1   | As the party tracks **Minoru** is nowhere to be found.               |
+|  2-10 | As the party tracks **Minoru** a blizzard begins, but she is close.  |
+| 11-15 | **Minoru** ambushes and grapples a member of the party.              |
+| 16-20 | The party finds **Minoru** in her path, she offers an accord (50gp). |
+|  21+  | The party finds **Minoru** focused on her path trough the snow.      |
+
+___
+***Minoru, the Bear.***
+Minoru is a 38 year old 6'2 woman with milky white skin, unnaturally blond hair and strange yellow eyes. She dawns a rugged black brigandine, over a old gambason, and a beige cloak. 
+
+Minoru is a silent and cold individual that seeks to fulfill the missions granted by her mistress, Zullie, as quickly as possible and as eficiently as possible. Due to her strange nature she has some difficulty communicating with other humans.
+___
+She has been sent by Zuillie to retrieve a MAIGC_ITEM from a group of servants from a noble from Melfia.
+
+___
+> ## Minoru, the Bear
+>*Medium humanoid (human), lawful neutral*
+> ___
+> - **Armor Class** 17 (Brigandine)
+> - **Hit Points** 39 (4d10 + 12)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 18 (+4) | 15 (+2) | 16 (+3) | 14 (+2) | 10 (+0) |  8 (-1) |
+>___
+> - **Saving Throws** Dex +4, Int +3
+> - **Skills** Athletics +6, Investigation +3
+> - **Senses** passive Perception 10
+> - **Languages** Common
+> - **Level** 4 Bloodhunter
+> ___
+> ***Great Weapon Fighting.*** 
+> Whenever Minoru rolls a 1 or 2 on a non-rite damage die for an attack that she makes with a melee weapon that she is wielding with two hands, Minoru can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+>
+> ***Rite of the Frozen.***
+> Minoru can embiew her maul with the essence of winter, losing 1d4 hit points. Until she isn't holding her maul or util Minoru takes a short or long rest she deals an additional 1d4 cold damage on her maul attacks.
+>
+> ***Spellcasting.*** Minoru is an 3rd-level Spellcaster. Its Spellcasting Ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). Minoru has the following Warlock Spells prepared:
+>
+> Cantrips (at will). *booming blade, frostbite, message*
+>
+> 1st level (1 slots). *armor of agathys, thunderwave*
+>
+> ### Actions
+> ***Maul.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 4) bludgeoning damage. 
+>
+> ***Dart.*** *Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit* 4 (1d4 + 2) piercing damage. 
 
 
 /page
+
 
 ## Spy Within the Walls
 The Band of the Wolves have sent a spy into the city of Birchtown to sequester the daughter of lord flannegan, Melenia. In addition he is tasked with attempting to murder Gwyn during the festival of the new year.
@@ -62,9 +126,10 @@ If the party suspects Dussan to find any of his hidden weapons or its thieves' t
 
 
 ### New Year's Festival
+Begging at the afternoon of the last day of the year
 
 #### Night of Dancing
-The player characters can join the festivities by dancing to the music of the bards. If a player character succeeds on a DC 15 Charisma (Performance) check one of the following events can happen. Once an event has happened it can't occur again.
+The player characters can join the festivities by dancing to the music of the bards. If a player character succeeds on a DC 10 Charisma (Performance) check one of the following events can happen. Once an event has happened it can't occur again.
 ___
 ***The red dress gall.***
 If a male player character succeeds the check, a mysterious young woman with short blond hair, dark brown eyes, a firm grip, and wearing a red summer dress invites the player character to dance.

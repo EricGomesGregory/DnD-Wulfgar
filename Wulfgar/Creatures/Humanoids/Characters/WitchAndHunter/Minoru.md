@@ -36,7 +36,7 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 18 (+4) | 15 (+2) | 16 (+3) | 13 (+1) | 10 (+0) |  8 (-1) |
+>| 18 (+4) | 15 (+2) | 16 (+3) | 14 (+2) | 10 (+0) |  8 (-1) |
 >___
 > - **Saving Throws** Dex +4, Int +3
 > - **Skills** Athletics +6, Investigation +3
@@ -52,7 +52,7 @@ ___
 >
 > ***Spellcasting.*** Minoru is an 3rd-level Spellcaster. Its Spellcasting Ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). Minoru has the following Warlock Spells prepared:
 >
-> Cantrips (at will). *booming blade, frostbite*
+> Cantrips (at will). *booming blade, frostbite, message*
 >
 > 1st level (1 slots). *armor of agathys, thunderwave*
 >
