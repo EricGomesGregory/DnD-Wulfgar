@@ -37,3 +37,23 @@ This item has 4 charges. You can spend a charge to transmute your body into that
 - You can use an action to cast the spell *invisiblity* without requiring any components.
 
 If all charges are consumed, you suffer the effects of the *true polymorph*, transforming you into a sylph and the charm is destroyed. The spell can be broken if a *dispel magic* spell is successfully cast (DC 20).
+
+
+#### Salamander Charm
+*Wondrous item (charm), very rare*
+
+A cast iron charm depicting a salamander.
+
+***Attunement.***
+This item requires attunement by a creature with 13 Constitution or more. To attune to this item you must perform a ritual where you must hold the heated up charm for 1 minute.
+
+***Blessing of the Flames.***
+You can activate this item with an action, taking a up to 3 fire damage to cast one of the following spells:
+
+- *1.* You cast the *firebolt* cantrip.
+
+- *2.* You cast the *burning hands* spell.
+
+- *3.* you cast the *scorching ray* spell.
+
+Constitution is your spellcasting ability for these spells.
