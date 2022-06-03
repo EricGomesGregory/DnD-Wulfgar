@@ -43,8 +43,10 @@ Among the wreckage the party can find a heavy wounded man, named German. He info
 ___
 After investigating the tavern and the bodies, the party can find a track of large boots in the snow. A character proficient in Survival skill can attempt to track the attacker.
 
+<div class='wide'>
 
 ##### Tracking Results
+<<<<<<< Updated upstream
 | Roll  | Event                                                                |
 |:-----:|:---------------------------------------------------------------------|
 |   1   | As the party tracks **Minoru** is nowhere to be found.               |
@@ -52,6 +54,17 @@ After investigating the tavern and the bodies, the party can find a track of lar
 | 11-15 | **Minoru** ambushes and grapples a member of the party.              |
 | 16-20 | The party finds **Minoru** in her path, she offers an accord (50gp). |
 |  21+  | The party finds **Minoru** focused on her path trough the snow.      |
+=======
+| Roll  | Event                                                                                    |
+|:-----:|:-----------------------------------------------------------------------------------------|
+|  1-2  | As the party tracks **Minoru** a blizzard begins, and she ambushes a party member.       |
+|  3-4  | **Minoru** ambushes and grapples a member of the party.                                  |
+|  5-15 | As the party tracks **Minoru** a blizzard begins, but she is close. (helps party escape) |
+| 16-20 | The party finds **Minoru** in her path, she offers an accord (50 gp).                    |
+|  21+  | The party finds **Minoru** focused on her path trough the snow.                          |
+
+</div>
+>>>>>>> Stashed changes
 
 ___
 ***Minoru, the Bear.***
@@ -59,7 +72,7 @@ Minoru is a 38 year old 6'2 woman with milky white skin, unnaturally blond hair 
 
 Minoru is a silent and cold individual that seeks to fulfill the missions granted by her mistress, Zullie, as quickly as possible and as eficiently as possible. Due to her strange nature she has some difficulty communicating with other humans.
 ___
-She has been sent by Zuillie to retrieve a MAIGC_ITEM from a group of servants from a noble from Melfia.
+She has been sent by Zuillie to retrieve a MAIGC_ITEM from a group of servants from a noble from Melfia. But she wants to know what the item she has obtained does.
 
 ___
 > ## Minoru, the Bear
@@ -109,6 +122,7 @@ Gwyn calls the group and informs them that lord Flannegan and the Band of the Wo
 ### Wolf in Sheep's Clothing
 Oran, posing as Dussan, is a member of the Band of the Wolves, has infiltrated the city of Birchtown with two goals. He intends to kill Gwyn during the new year's ball and capture Flannagan's daughter during the commotion.
 
+<div class='wide'>
 
 ##### Visitors Table
 | Name          | Origin  | Age | Description                                                                                   |
@@ -121,6 +135,8 @@ Oran, posing as Dussan, is a member of the Band of the Wolves, has infiltrated t
 | Angenson      | Range   | 35  | 5' dwarvish man with pale skin, brown beard and a crooked nose. He wears traveling clothes    |
 | Fiona         | Range   | 33  | 4'8 dwarvish woman with pale skin, shallow red beard and a uni-brow. She wears a simple dress |
 | Derringer     | Forossa | 25  | 5'7'' man with pale skin, short red hair and a brownish red beard. He wears simple clothes    |
+
+</div>
 
 If the party suspects Dussan to find any of his hidden weapons or its thieves' tools a character must succeed on a DC 25 Dexterity (Sleight of Hand) check.
 
