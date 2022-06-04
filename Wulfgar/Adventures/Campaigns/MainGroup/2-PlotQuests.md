@@ -71,18 +71,6 @@ ___
 Minoru is a 38 year old 6'2 woman with milky white skin, unnaturally blond hair and strange yellow eyes. She dawns a rugged black brigandine, over a old gambason, and a beige cloak. 
 
 Minoru is a silent and cold individual that seeks to fulfill the missions granted by her mistress, Zullie, as quickly as possible and as eficiently as possible. Due to her strange nature she has some difficulty communicating with other humans.
-___
-She has been sent by Zuillie to retrieve a **Deepsight Goblet** from a group of servants from a noble from Melfia. But she wants to know what the item she has obtained does.
-
-___
-> #### Deepsight Goblet
-> *Wondrous item (goblet), very rare*
->
-> A plain silver goblet with its insides inlaid with various arcane glyphs. When blood enters in contact with the glyphs
->
-> ***Rite of Divination.***
-> You perform a ritual by sacrificing your blood to call upon the magic within the item. You can sacrifice 5 hit points to cast the spell *divination* without expanding any material components or mana.
-
 
 ___
 > ## Minoru, the Bear
@@ -118,6 +106,18 @@ ___
 > ***Maul.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 4) bludgeoning damage. 
 >
 > ***Dart.*** *Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit* 4 (1d4 + 2) piercing damage. 
+
+___
+She has been sent by Zuillie to retrieve a **Deepsight Goblet** from a group of servants from a noble from Melfia. But she wants to know what the item she has obtained does.
+
+___
+> #### Deepsight Goblet
+> *Wondrous item (goblet), very rare*
+>
+> A plain silver goblet with its insides inlaid with various arcane glyphs in a web-like pattern.
+>
+> ***Rite of Divination.***
+> You perform a ritual by sacrificing your blood to call upon the magic within the item. You can sacrifice 5 hit points to cast the spell *divination* without expanding any components.
 
 
 /page
