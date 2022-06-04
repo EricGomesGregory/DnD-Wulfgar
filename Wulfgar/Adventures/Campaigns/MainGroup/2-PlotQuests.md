@@ -46,15 +46,6 @@ After investigating the tavern and the bodies, the party can find a track of lar
 <div class='wide'>
 
 ##### Tracking Results
-<<<<<<< Updated upstream
-| Roll  | Event                                                                |
-|:-----:|:---------------------------------------------------------------------|
-|   1   | As the party tracks **Minoru** is nowhere to be found.               |
-|  2-10 | As the party tracks **Minoru** a blizzard begins, but she is close.  |
-| 11-15 | **Minoru** ambushes and grapples a member of the party.              |
-| 16-20 | The party finds **Minoru** in her path, she offers an accord (50gp). |
-|  21+  | The party finds **Minoru** focused on her path trough the snow.      |
-=======
 | Roll  | Event                                                                                    |
 |:-----:|:-----------------------------------------------------------------------------------------|
 |  1-2  | As the party tracks **Minoru** a blizzard begins, and she ambushes a party member.       |
@@ -64,7 +55,6 @@ After investigating the tavern and the bodies, the party can find a track of lar
 |  21+  | The party finds **Minoru** focused on her path trough the snow.                          |
 
 </div>
->>>>>>> Stashed changes
 
 ___
 ***Minoru, the Bear.***
