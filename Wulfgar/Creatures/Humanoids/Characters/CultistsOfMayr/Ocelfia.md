@@ -67,7 +67,7 @@ ___
 ## Kyox
 Kyox is an imp, spawn Mayr the Mother of Sin, he is a small humanoid creature with red skin, a slender body, a black feather like hair, a tail tipped with a scorpion stinger, and a teardrop shaped face with a owl like features.
 
-Kyox is a servant of its mother, influencing Ocelfia to perform various rituals... 
+Kyox is a servant of its mother, influencing Ocelfia to perform various rituals in the name of Mayr...
 
 
 ___
