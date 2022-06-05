@@ -9,11 +9,11 @@ Ocelfia was the son of a noble from the Forossan city of Wexford, from a young a
 
 During her maturing years she began a secret relationship with the son of another noble, giving her the first experiences into adulthood, but when the fathers of both families discovered their secret Ocelfia was disowned and exiled from the city.
 ___
-While in exile she met a priest of MONOTHEISTIC_RELIGION in the village of FOROSSAN_VILLAGE, he took her into his temple and gave her a shelter and a purpose. As she worked with the priest they grew closer, until one fateful night when the priest full of lust attacked Ocelfia and scared her mind and body forever.
+While in exile she met a priest of Holy Path in the village of Northon, he took her into his temple and gave her a shelter and a purpose. As she worked with the priest they grew closer, until one fateful night when the priest full of lust attacked Ocelfia and scared her mind and body forever.
 
 As the days passed after the event, Ocelfia's dreams began to manifest a voice that offered her **salvation**, and as the lust of the priest persisted her anger grew. Until one night when she sliced the manhood of the priest and ran into the wild. Exiled once more.
 ___
-In the wild Ocelfia's dreams began to manifest a contract and she became a Warlock of Mayr, that promised her a perfect body in return to her servitude. As the years passed, Ocelfia became a cult lieder that hunts down priests of MONOTHEISTIC_RELIGION to offer as sacrifice to Mayr, the Mother of Sin.
+In the wild Ocelfia's dreams began to manifest a contract and she became a Warlock of Mayr, that promised her a perfect body in return to her servitude. As the years passed, Ocelfia became a cult lieder that hunts down priests of Holy Path to offer as sacrifice to Mayr, the Mother of Sin.
 
 
 ### Ocelfia Characteristics
