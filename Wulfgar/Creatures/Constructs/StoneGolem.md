@@ -1,6 +1,5 @@
 ## Stone Golems
-
-
+Stone Golems are artificial creatures made of stone and magic for a simple purpouse.
 
 ___
 > ## Small Stone Golem
