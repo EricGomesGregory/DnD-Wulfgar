@@ -8,7 +8,7 @@ Whenever you hit a creature after moving at lest 30 ft. you deal an extra damage
 
 
 ***Parry.***
-You can make an attack with a weapon as a reaction, whenever a creature misses a melee weapon attack against you.
+You can make a melee attack with a weapon as a reaction, whenever a creature misses a melee weapon attack against you.
 
 
 ***Inaccurate.***
