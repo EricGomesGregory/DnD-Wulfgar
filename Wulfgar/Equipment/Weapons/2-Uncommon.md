@@ -25,7 +25,7 @@ This weapons attack uses your full action.
 Weapons with special rules are described here.
 
 ***Man Catcher.***
-A Medium or smaller creature hit by a man catcher is Restrained until it is freed. A man catcher has no Effect on creatures that are formless, or creatures that are Large or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the man catcher (AC 10) also frees the creature without harming it, Ending the Effect and destroying the man catcher. When you use an action, Bonus Action, or Reaction to Attack with a man catcher, you can make only one Attack regardless of the number of attacks you can normally make.
+A Medium or smaller creature hit by a man catcher is Restrained until it is freed. A man catcher has no Effect on creatures that are formless, or creatures that are Large or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the man catcher (AC 10) also frees the creature without harming it, Ending the Effect and destroying the man catcher. When you use an Action, or Reaction to Attack with a man catcher, you can make only one Attack regardless of the number of attacks you can normally make.
 
 A creature Restrained by a man catcher takes 1d4 piercing damage at the begging of its turn.
 
