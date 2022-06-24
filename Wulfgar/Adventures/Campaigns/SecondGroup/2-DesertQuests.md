@@ -219,17 +219,17 @@ Jabedhaia informs the party that some of the nobles artifacts, acquired by Salad
 He then informs the party that they should steal back some of the artifacts and re sell them in the black market so they can fund future expeditions.
 
 #### Preparations
-Jabedhaia helps the party by giving them a map of the shipyard and organizing a meeting with a smuggler named SMUGGLER_HEART_GOLD
+Jabedhaia helps the party by giving them a map of the shipyard and organizing a meeting with a smuggler named Kidane
 
 ___
-***SMUGGLER_HEART_GOLD.***
-SMUGGLER_HEART_GOLD is a 5'8'' young man with long black braided hair, a muscular body, dark skin, and brown eyes. He wears a green robe with white birds adorning it.
+***Kidane.***
+Kidane is a 5'8'' young man with long black braided hair, a muscular body, dark skin, and brown eyes. He wears a green robe with white birds adorning it.
 
-He is a simple man working to make ends meet...
+He is a simple man working to make ends meet but he owes Jabedhaia a favor. He is not a fighter but he is a great mariner skilled in navigating through the canals of the various cities along the Nhar river.
 
 
 #### The Moonlit Shipyard
-The shipyard is a sandstone building in the banks of the Nhar river. The building is guarded by N **foot soldier** and a 
+The shipyard is a sandstone building in the banks of the Nhar river. The building is guarded by N **foot soldier** and a **Inquisitor**
 
 ___
 > ## Foot Soldier
@@ -255,6 +255,52 @@ ___
 >
 
 
+___
+> ## Inquisitor Akila
+>*Medium humanoid (human), lawful neutral*
+> ___
+> - **Armor Class** 15 (Gambeson)
+> - **Hit Points** 16 (2d8 + 4)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 16 (+3) | 15 (+2) |  8 (-1) | 10 (+0) | 10 (+0) |
+>___
+> - **Saving Throws** Dex +5
+> - **Skills** Acrobatics +5, Perception +2
+> - **Senses** passive Perception 12
+> - **Languages** Common
+> - **Level** 2 **PB** +2
+> ___
+***Cunning Action.***
+> Akila can take either the Dash, Disengage or Hide as a bonus action.
+>
+>
+> ### Actions
+> ***Whip.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit* 5 (1d4 + 3) slashing damage. 
+>
+> ***Disarming Strike.***
+> Akila strikes against a creature's weapon within 10 feet. The creature must succeed a DC 13 Dexterity saving throw or be disarmed.
+>
+
 Among the artifacts in the shipyard the party can find the following notable items.
 ___
-***
+***Sphinx Statue.***
+A hollow iron statue depicting a black sphinx that rattles when shaken. (75 gp, 5 lb.)
+___
+***Case of Broches.***
+A wooden box with a glass lid containing the following set of brooches:
+- Copper Flower Brooch etched with strange *draconic* runes. (25 gp)
+- Silver Shield Brooch engraved with four armed giants. (100 gp)
+- Gold Shield Brooch engraved with Thorned Vines (350 gp)
+- Pewter Ring Brooch engraved with Arcane *magic circle* Runes. (30 gp)
+___
+***Hero's Vase.***
+A large porcelain vase adorned with faded paintings of epic hero's fighting monsters. (100 gp, 20 lb.)
+___
+***Stone Statue of Nuhm.***
+A huge statue made of a grey stone depicting a four armed humanoid without a face. (1,000 gp, 180 lb.)
+___
+***Steel Mask.***
+Steel Mask inlaid with Silver. (45 gp, 1 lb.)
