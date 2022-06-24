@@ -255,6 +255,9 @@ ___
 >
 
 
+```
+```
+<div style='margin-top:10px'></div>
 ___
 > ## Inquisitor Akila
 >*Medium humanoid (human), lawful neutral*
