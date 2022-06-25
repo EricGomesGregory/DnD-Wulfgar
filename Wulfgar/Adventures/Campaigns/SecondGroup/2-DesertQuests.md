@@ -2,7 +2,7 @@
 
 
 ### Treasure Hunt
-Jabedhaia has acquired a treasure map, that according to his informant, are the ruins of an ancient adernian palace. He explains to the party that the items of the palace can be sold to restructure the SALADIN_FAMILITY_NAME's estate.
+Jabedhaia has acquired a treasure map, that according to his informant, are the ruins of an ancient adernian palace. He explains to the party that the items of the palace can be sold to restructure the Nasir's estate.
 
 A character proficient in **cartographer's tools** can spend 1 hour to determine a path to the ruins.
 
