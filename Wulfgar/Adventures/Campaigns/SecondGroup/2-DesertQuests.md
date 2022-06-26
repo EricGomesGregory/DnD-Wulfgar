@@ -174,9 +174,9 @@ ___
 >
 ><div style='margin-top:20px'></div>
 >
-> | Damage          | Weight | Properties     |
-> |:----------------|:------:|:---------------|
-> | 1d6 bludgeoning |  3 lb. | Parry, special |
+> | Damage          | Weight | Properties              |
+> |:----------------|:------:|:------------------------|
+> | 1d6 bludgeoning |  3 lb. | Finesse, parry, special |
 >
 > ***Special.***
 > While wielding this weapon you can't use the grab or use action, unless you remove this weapon.

@@ -42,6 +42,5 @@ ___
 > ***FEATURE.*** FEATURE DESCRIPTION
 >
 > ### Actions
-> ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage. 
+> ***Cane.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit* 1 (1d4 - 1) bludgeoning damage. 
 >
-> ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage. 
