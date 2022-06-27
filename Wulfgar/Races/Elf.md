@@ -67,4 +67,4 @@ You can generate the height and weight of your character using the Random Weight
 ##### Random Height and Weight
 | Ethnicity | Base Height | Height Modifier | Base Weight | Weight Modifier |
 |:----------|:-----------:|:---------------:|:-----------:|:---------------:|
-| Elf       | 4'8''       | +3d8            | 90 lb.      | x (1d4) lb.     |
+| Elf       | 5'8''       | +3d8            | 90 lb.      | x (1d4) lb.     |
