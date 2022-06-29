@@ -1,11 +1,11 @@
 ## Carthus
-DESCRIPTION.
+Carthus is a 5'8'' tall man, with dark grey skin, yellow cat-like eyes, a wide nose and a short black beard. He wears a purple tunic, a thick leather belt 
 
 ### History
 CHARACTER_HISTORY.
 
 ### Characteristics
-The following are NAME's characteristics such as his personality, ideals, bonds, and flaws.
+The following are Carthus's characteristics such as his personality, ideals, bonds, and flaws.
 ___
 ***Personality.***
 
