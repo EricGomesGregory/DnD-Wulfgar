@@ -49,10 +49,10 @@ You can load up to five crossbow bolts into this weapon. Whenever you take the a
 | Man Catcher            |  25 gp | 1d4  piercing    |  5 lb. | Reach, special, two-handed                                 |
 | Parring Dagger         |  25 gp | 1d4  slashing    |  1 lb. | Light, parry                                               |
 | Partizan               |  10 gp | 1d8  piercing    |  3 lb. | Charge, reach, two-handed                                  |
-| Ultra Greataxe         |  80 gp | 2d12 slashing    | 14 lb. | Heavy, two-handed, ultra                                   |
+| Ultra Greataxe         |  80 gp | 3d6  slashing    | 14 lb. | Heavy, two-handed, ultra                                   |
 | Ultra Greatsword       |  80 gp | 4d6  slashing    | 12 lb. | Heavy, two-handed, ultra                                   |
-| Ultra Maul             |  80 gp | 4d6  bludgeoning | 12 lb. | Heavy, two-handed, ultra                                   |
-| Ultra Warhammer        |  75 gp | 2d10 bludgeoning | 10 lb. | Heavy, two-handed, ultra                                   |
+| Ultra Greatclub        |  80 gp | 3d6  bludgeoning | 10 lb. | Heavy, two-handed, ultra                                   |
+| Ultra Warhammer        |  75 gp | 4d6  bludgeoning | 12 lb. | Heavy, two-handed, ultra                                   |
 |*Martial Ranged Weapons*|        |                  |        |                                                            |
 | Crossbow, repeating    | 100 gp | 1d6  piercing    |  0 lb. | Ammunition(range 30/120), special, two-handed              |
 | Greatbow               |  80 gp | 1d10 piercing    |  4 lb. | Ammunition(rnage 200/800), heavy, two-handed               |
