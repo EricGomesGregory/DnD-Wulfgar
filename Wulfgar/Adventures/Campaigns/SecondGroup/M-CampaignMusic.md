@@ -23,6 +23,23 @@ https://soundcloud.com/berserk-golden-age/berserk-golden-age-iii-descent-ost-17-
 [DARK SOULS Firelink Shrine]
 https://soundcloud.com/rda3/firelink-shrine-dark-souls-ost
 
+[FMA Trisha's Lullaby]
+https://soundcloud.com/frank-yin-2/senju-akira-fmab-trishas?in=atsuura/sets/fullmetal-alchemist
+
+[FMA The Awakening]
+https://soundcloud.com/frank-yin-2/senju-akira-the-awakeningfmab?in=atsuura/sets/fullmetal-alchemist
+
+
+### Tense
+[FMA Philosophorum Omega Remake]
+https://soundcloud.com/blaketothefuture/philophorum_omega?in=atsuura/sets/fullmetal-alchemist
+
+[FMA Laws of Alchemy]
+https://soundcloud.com/blaketothefuture/fullmetal-alchemist?in=atsuura/sets/fullmetal-alchemist
+
+[FMA The Intrepid]
+https://soundcloud.com/frank-yin-2/senju-akira-fullmetal?in=atsuura/sets/fullmetal-alchemist
+
 
 ### City and Settlements
 
@@ -46,6 +63,9 @@ https://soundcloud.com/jtanstyla/the-witcher-3-outskirts-of-novigrad
 
 [WITCHER Slums of Novigrad]
 https://soundcloud.com/prsds/the-witcher-3-wild-hunt-ost-unreleased-tracks-the-slums-of-novigrad
+
+[FMA Land of Ishvala]
+https://soundcloud.com/beatus-ost/the-land-of-ishvala?in=atsuura/sets/fullmetal-alchemist
 
 
 ### Wilderness
