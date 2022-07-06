@@ -13,19 +13,19 @@ Finally the four lords of the world decided to create those who would inherit th
 <div class='wide'>
 
 ##### Elemental Lords Deities
-| Deity         | Alignment | Suggested Domains      | Symbol                            |
-|:--------------|:--:|:------------------------------|:----------------------------------|
-|*Major deities*|    |                               |                                   |
-| Ashar         | CN | Nature, Trickery              | Light-blue firefly                |
-| Nuhm          | LN | Knowledge, Nature             | Four grey arms holding each other |
-| Sakhr         | CN | Light, Nature                 | Red heart on a yellow sun         |
-| Qayana        |  N | Life, Nature                  | Olive and blue waves crashing     |
-| Qmn           | NE |                               | Seven black eyes forming a circle |
-|*Minor deities*|    |                               |                                   |
-| SAND          | CN | Trickery                      |
+| Deity         | Alignment | Suggested Domains      | Symbol                                            |
+|:--------------|:--:|:------------------------------|:--------------------------------------------------|
+|*Major deities*|    |                               |                                                   |
+| Ashar         | CN | Nature, Trickery              | Light-blue firefly                                |
+| Nuhm          | LN | Knowledge, Nature             | Four grey arms holding each other                 |
+| Sakhr         | CN | Light, Nature                 | Red heart on a yellow sun                         |
+| Qayana        |  N | Life, Nature                  | Olive and blue waves crashing                     |
+| Qmn           | NE | Death                         | Seven black eyes forming a circle                 |
+|*Minor deities*|    |                               |                                                   |
+| Reta          | CN | Trickery                      | Four armed sylph
 | STORM         |    | Tempest
-| SHADOW        |
-|*Demigods*     |    |                               |                                   |
+| Skiaa         | CN | Knowledge                     | Black silhouette of a man and woman holding hands |
+|*Demigods*     |    |                               |                                                   |
 |
 
 </div>
