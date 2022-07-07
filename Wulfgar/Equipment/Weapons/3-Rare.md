@@ -1,11 +1,13 @@
 ## Rare 
 
 
-#### SWORD_NAME
+#### Gealach 
 *Martial weapon (longsword), rare*
 ___
-SWORD_NAME_DESCRIPTION.
+The Gealach, or *night edge* in elvish, is an elyrian longsword of ancient construction with a blade white as the moon a small black hilt, a black grip and a black pommel with a ivory crescent moon embossed in it.
 
-___
+***Weapon of the Night.***
+This weapon can only be unsheathed during the night.
+
 ***Magic Weapon.***
-This weapon can only be unsheathed during the night. While wielding this weapon you have a +5 bonus to attack and damage rolls.
+While wielding this weapon you have a +5 bonus to attack and damage rolls. This weapon deals magical damage for the purposes of overcoming resistances and immunities.
