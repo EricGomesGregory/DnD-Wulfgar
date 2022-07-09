@@ -10,6 +10,16 @@
 | Heden     | 8   | 11  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | ?    |
 
 
+##### Healing Potion
+| Character | Uses |
+|:----------|:----:|
+| Bovir     | 2  |
+| Hild      | 0  |
+| Saladin   | 0  |
+| Kaito     | 0  |
+| Heden     | 0  |
+
+
 #### Ability Scores Level 1-3
 | Character | Str | Dex | Con | Int | Wis | Cha |
 |:----------|:---:|:---:|:---:|:---:|:---:|:---:|
