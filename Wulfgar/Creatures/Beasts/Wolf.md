@@ -23,9 +23,9 @@ ___
 > ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 7 (2d4 + 2) piercing damage. If the target is a medium sized creature or smaller, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 7 (2d4 + 2) piercing damage. If the target is a medium sized creature or smaller, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 >
-> ***Howl.*** The wolf can perform a intimidating howl. Beasts within 120 feet of the howling wolf must succeed on a DC 11 Wisdom saving throw or be frightened.
+> ***Howl.*** The wolf can perform a intimidating howl. Beasts and humanoids within 120 feet of the howling wolf must succeed on a DC 11 Wisdom saving throw or be Frightened until the beginning of the wolf's next turn.
 >
 
 
@@ -55,7 +55,7 @@ ___
 > ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 7 (2d4 + 2) piercing damage. If the target is a medium sized creature or smaller, it must succeed on a DC 12 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 7 (2d4 + 2) piercing damage. If the target is a medium sized creature or smaller, it must succeed on a DC 12 Strength saving throw or be knocked prone.
 >
-> ***Howl.*** The wolf can perform a intimidating howl. Beasts within 120 feet of the howling wolf must succeed on a DC 12 Wisdom saving throw or be frightened.
+> ***Howl.*** The wolf can perform a intimidating howl. Beasts within 120 feet of the howling wolf must succeed on a DC 12 Wisdom saving throw or be Frightened until the beginning of the wolf's next turn.
 >
