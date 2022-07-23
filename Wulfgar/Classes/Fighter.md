@@ -61,7 +61,9 @@ ___
 #### Protection
 
 #### Two-Weapon Fighting
+On your turn, the first time you take the attack action you can make an aditional attack as part of the action, adding your ability modifier to the damage of the bonus attack. 
 
+To use this feature you must be wielding two weapons, one on each hand, and each weapon must have the light property.
 
 ### Second Wind
 
