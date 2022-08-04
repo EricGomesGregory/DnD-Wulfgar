@@ -33,21 +33,23 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 16 (+3) | 11 (+0) | 18 (+4) | 12 (+1) | 10 (+0) |  8 (-1) |
+>| 18 (+4) | 11 (+0) | 18 (+4) | 12 (+1) | 10 (+0) |  8 (-1) |
 >___
-> - **Saving Throws** Str +5, Con +6
-> - **Skills** Athletics +5, Intimidation +5
+> - **Saving Throws** Str +7, Con +7
+> - **Skills** Athletics +7, Intimidation +7
 > - **Senses** passive Perception 10
 > - **Languages** Common
-> - **Level** 2
+> - **Level** 5 **PB** +3
 > ___
 > ***Action Surge (1/day).***
 > On Heyso's turn, he can take one additional action.
 >
 > ***Second Wind (1/day).***
-> Heyso regains 7 (1d10 + 2) hit points.
+> Heyso regains 7 (1d10 + 5) hit points.
 >
 > ### Actions
-> ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) bludgeoning damage. 
+> ***Multiattack.*** Heyso makes two warhammer attacks.
+>
+> ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) Bludgeoning damage. 
 >
 > ***Dart.*** *Ranged Weapon Attack:* +2 to hit, range 20/60 ft., one target. *Hit* 2 (1d4) piercing damage. 

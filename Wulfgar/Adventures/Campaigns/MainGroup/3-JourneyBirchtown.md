@@ -104,10 +104,179 @@ ___
 > ***Howl.*** The wolf can perform a intimidating howl. Beasts and humanoids within 120 feet of the howling wolf must succeed on a DC 11 Wisdom saving throw or be Frightened until the beginning of the wolf's next turn.
 > 
 
+\page
 
+### Encounter With a Wolf
+The wolf member (Reinhard) has been granted by the Lord Flannagan of Wexford
+
+
+### Stone Face Sin
+The crew of dwarves known as the Stone Faced, that previously had attacked a keep from Wexford, are continuing their brutal and nihilistic campaign through the Kings Plains. Currently they have grown their group and have started to raid villages in the borderlands of Wexford.
+
+
+#### Introduction
+As the party is continuing their journey to Birchtown they spot a column of smoke that seems to be originating from behind a hill 5 miles away, with a successful Intelligence (Investigation) or Cartographer's tools check the party can determine that the smoke is coming from a village in the borderlands between Wexford and Birchtown.
+
+As the party approaches the village they can spot corpses tied to 3 feet poles in very uncomfortable positions, with a successful Wisdom (Medicine) check the party can determine that the men died in the last two days from battle wounds.
+
+
+#### The Village
+The ravaged village has five smoldering buildings that originate the smoke and only three buildings that remain, the church that seems to have been sacked, a small house, and the tavern.
+
+***Church.***
+Within the church the party can find the dead bodies of the priest and two acolytes on the ground, on the wall behind the lectern has a black skull with white teeth (symbol of Hurkek) painted on the wall, on the lectern a bloodied banner envelops a dead lamb. The banner is dark grey with a light grey face on it.
+
+***Tavern.***
+When the party enters the tavern their nostrils are attacked by a discomforting smell. The tavern is full of broken tables, discarded mugs, bottles of ale and wine, and animal bones. A single long table remains intact with a dwarvish text carved into it "Kjellbru was here". Within a room of the tavern three tied and gagged women in rags cry together, unspeakable horrors have happened in this room.
+
+***Small House.***
+Within the small house the party can find a pile of dwarf corpses with a text in dwarvish carved in the walls "A fate fitting the fools that pretend to be men".
+
+___
+After exiting the village the party can spot a small column of white smoke coming from a grove 8 miles away, with a successful Intelligence (Investigation) or Cartographer's tools check the party can determine that the smoke is coming from an encampment within the grove.
+
+
+#### Stone Face Encampment
+If the party decides to approach the camp they can approach openly or attempt to sneak close to it, to do so the party must succeed on a DC 16 Dexterity (Stealth) check.
+
+If the party approaches openly they will be confronted by a crossbowmen (Falki) and must convince him to let them in to the camp. The same event will happen to all the characters that have failed their Dexterity (Stealth) checks.
+
+___
+The encampment, located in a clearing within the grove, is composed of three tents surrounding a campfire with dark grey banners depicting a light grey face staked to the ground near the entrance of the camp.
+
+
+##### Stoneface Band
+The Stoneface Band is mercenary group formed by exiled dwarves that now torment the small villages of the Kings Plains. The leader named Kjell is a notorious bandit from Jomfort.
+
+The band is composed of Kjell, the man-slayer, his brother Kjellbru, two pikeman, and three other crossbowman.
+___
+**Kjell, the man-slayer.**
+He is a 5'1'' tall dwarven man with fair skin, short black hair, a crooked nose, dark green eyes, and a long black beard that is braided in three sections that end in iron chimes.
+
+He wears a steel cuirass over a red shirt, leather pants covered in plate, grieves with the insignia of Wexford, and a sallet helmet. Kjell wields a dwarvish halberd that he stole.
+
+___
+> ## Kjell, the man-slayer
+>*Medium humanoid (dwarf), neutral evil*
+> ___
+> - **Armor Class** 16 (Cuirass)
+> - **Hit Points** 21 (2d10 + 3)
+> - **Speed** 25 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) | 10 (+0) | 17 (+3) | 11 (+0) | 13 (+1) | 10 (+0) |
+>___
+> - **Saving Throws** Str +5, Con +5
+> - **Skills** Athletics +5, Intimidation +5
+> - **Senses** Darkvision 60 ft., passive Perception 11
+> - **Languages** Dwarvish
+> - **Level** 2 Fighter **PB** +2
+> ___
+> ***Great Weapon Fighting.***
+> When Kjell rolls a 1 or 2 on a damage die for an attack he makes with a melee weapon that he is wielding with two hands, he can re-roll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+>
+> ***Second Wind (1/day).***
+> Kjell can use a bonus action to regain a 7 (1d10 + 2) hit points.
+>
+> ***Action Surge (1/day).***
+> Kjell can take an additional action.
+>
+>
+> ### Actions
+> ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit* 8 (1d10 + 3) Slashing damage. 
+>
+
+***Kjellbru, the berserker.***
+Kjellbru is a 5'3'' dwarvish man with pale skin, bloodshot-eyes, a scared nose, a shaved head, and a loose black beard.
+
+He wears a beige gambeson adorned with bone chimes, fur pants and plated leather boots. Kjellbru carries a pair of simple steel batlleaxes.
+
+___
+> ## Kjellbru, the berserker
+>*Medium humanoid (dwarf), neutral evil*
+> ___
+> - **Armor Class** 12 (Gambeson)
+> - **Hit Points** 13 (1d10 + 3)
+> - **Speed** 25 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) | 10 (+0) | 17 (+3) | 11 (+0) | 13 (+1) | 10 (+0) |
+>___
+> - **Saving Throws** Str +5, Con +5
+> - **Skills** Athletics +5, Intimidation +5
+> - **Senses** Darkvision 60 ft., passive Perception 11
+> - **Languages** Dwarvish
+> - **Level** 1 **PB** +2
+> ___
+>
+>
+> ### Actions
+> ***Multiattack.*** Kjellbru makes two battleaxe attacks.
+>
+> ***Battleaxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 7 (1d8 + 3) Slashing damage. 
+>
+
+___
+Three dwarf pikeman, accompany the two brothers as part of the band. They wear simple haulberks, with cattle helms on their heads, and simple pants and boots. They carry pikes and daggers into battle.
+
+___
+> ## Dwarf Pikeman
+>*Medium humanoid (dwarf), neutral evil*
+> ___
+> - **Armor Class** 15 (Haulberk)
+> - **Hit Points** 12 (1d10 + 2)
+> - **Speed** 25 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |
+>___
+> - **Saving Throws** Dex +4
+> - **Skills** Perception +3, Survival +3
+> - **Senses** Darkvision 60 ft., passive Perception 13
+> - **Languages** Dwarvish
+> - **Level** 1 **PB** +2
+>
+>
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 3 (1d4 + 1) Piercing damage. 
+>
+> ***Pike.*** *Ranged Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit* 7 (1d10 + 2) Piercing damage.
+
+___
+Three dwarf crossbowmen, accompany the two brothers as part of the band. They wear simple beige gambesons, with cattle helms on their heads, and simple pants and boots. They carry heavy crossbows and daggers into battle.
+
+___
+> ## Dwarf Crossbowman
+>*Medium humanoid (dwarf), neutral evil*
+> ___
+> - **Armor Class** 14 (Gambeson)
+> - **Hit Points** 10 (1d8 + 2)
+> - **Speed** 25 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 10 (+0) | 15 (+2) | 14 (+2) | 10 (+0) | 13 (+1) |  8 (-1) |
+>___
+> - **Saving Throws** Dex +4
+> - **Skills** Perception +3, Survival +3
+> - **Senses** Darkvision 60 ft., passive Perception 13
+> - **Languages** Dwarvish
+> - **Level** 1 **PB** +2
+>
+>
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) Piercing damage. 
+>
+> ***Heavy Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 100/400 ft., one target. *Hit* 7 (1d10 + 2) Piercing damage.
+
+\page
 
 ### Fate's Nudge
-As the party is traveling through a road, a small crew of desperate and bloodied bandits attack the party. Roll **Initiative!**
+As the party is traveling through a road, a small crew of desperate and bloodied bandits charge from a cave and attack the party. Roll **Initiative!**
+
 
 #### Bandit Crew
 The bandits are composed of the following members:
@@ -188,3 +357,31 @@ ___
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit* 6 (1d4 + 4) Piercing damage. 
 >
+
+
+Within the cave that the bandits were hiding, the party can find two dead horses that have a broken leg each and their bellies have been cut open, with a successful Wisdom (Medicine) check the party can discover that the horses had their legs broken due to impact prior to being killed.
+
+Deeper in the cave the party can find a improvised shelter made with a cart, within it they can find a chest with a strange lock.
+
+
+#### Strange Chest
+The chest is a small ornate metal box, adorned with two red cockatrices on either side of the lock. The lock it self has no keyhole, instead it has a circular metal plate with an arcane glyph in its center, with a successful Intelligence (Arcana) check the party can discover that the lock requires magic to be opened and that it contains a curse within it.
+
+A character can attempt a spell roll to open the lock (open DC 15), on a 1 on the d20 the lock curses the creature attempting to open it with Blindness. The creature affected by the curse can remove it with a *remove curse* spell.
+
+Upon opening the chest the party can find a small white egg shaped stone with various dark blue cracks. The item is the **egg of rebirth** also known as the egg of wants, stone of desire, and SYNONIMUS_NAME.
+
+
+#### Egg of Rebirth
+*Wondrous item, legendary*
+
+The Egg of Rebirth is a egg-shaped stone, with various crack filled by a dark blue material. When exposed to moonlight it reacts with a faint blue glow.
+
+***Inscrutable magic.***
+This item's magic seems to originate from the deepest layer of the Astral World. Its effects can't be identified through magical means.
+
+
+***Astral Rebirth.***
+While in possession of this item a you can initiate a ritual, by uttering the phrase "I sacrifice", that involves sacrificing the lives of other humanoids, the number determining the strength of the ritual.
+
+During this ritual the smallest range that encompasses the sacrifices is transported to the deepest layer of the Astral World, where monsters will attempt to devour them. During this time you are transformed into an astral creature, granting you powers but sacrificing your humanity in the process.
