@@ -131,7 +131,7 @@ ___
 > ___
 > - **Armor Class** 13 (Gambeson)
 > - **Hit Points** 12 (1d10 + 2)
-> - **Speed** 0 ft.
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -152,3 +152,81 @@ ___
 
 ### Royal Job
 Jabedhaia and Robin have found a way to increase the party's reputation within the blue palace, one of the sons of the king is a charitable men that visits the outside of the blue palace on a regular basis and the king is worried that the price will be kidnapped or killed so the party is requested to escort him during one of his daily routines.
+
+#### Introduction
+Jabedhaia informs the party that he has found a contact within the Blue Palace that is offering a small quest. Robin informs the party that the contact is her uncle (Dragan), a advisor to the king, that wishes to meet the party as soon as possible.
+
+***Dragan.***
+Dragan is an average man with light brown skin, dark brown eyes, and short black hair. He wears a ornate white tunic with various blue ribbons and brass medals.
+
+He is a slithery man with a silver tongue, he is always looking for opportunities to advance his carrier and aid his family.
+
+___
+Dragan informs the party that the prince PRINCE_NAME is a devout follower of the Holy Path and a very generous and charitable men. Due to this characteristics the king Dimitar Kitinov, the III has requested  that the prince be escorted by a crew of bodyguards that seem to be "from the people".
+
+The advisor then informs the party that the king wishes to reward the party with 1,000 gp for their services during the following week. The prince would be under the party's protection from dawn to dusk.
+
+#### Escorting the Prince
+While escorting the prince the following events can occur, one per day of work.
+
+##### Escort Random Events
+Roll 2d6 to determine the event of the day.
+___
+***2.***
+As the prince walks through the streets, a bag of coins loosely attached to his belt swings with the walking. As they walk a player can detect a slender man following the prince with a successful Wisdom (Perception) check. Then a thief passes behind the prince and takes a bag of coin.
+
+If a party member inhibits the act the prince informs the character that the thief is performing a ritual for the Saint of the Forsaken and shows that he is displeased with the party member.
+
+___
+***3-5.***
+A drunken men shouts with the prince while he is walking, causing him to be frightened. If a party member acts the prince will reward them with 2d4 gp.
+
+___
+***6-8.***
+As the prince sits in a bench on a small square, a group of 2d4 **beggars** flocks to the prince begging for money or food.
+
+If a party member interferes with the prince's interaction with the beggars he will show his displeasure with the party member.
+
+___
+***9-11.***
+The prince visits the church that the party protected, praying, talking with the church members and visitors, and giving the head priest a coin purse.
+
+___
+***12.***
+The prince bumps into one of his brothers or sisters, engaging on a vain an meaningless conversation that lasts for an hour, a character can determine that the prince is uncomfortable with the interaction with a successful Wisdom (Perception) check.
+
+If the party doesn't intrudes on the conversation the prince will indicate his displeasure.
+
+___
+After completing their week with the prince they are rewarded with the resources by the advisor.
+
+
+#### Unexpected Invitation
+After the week of work the advisor invites the party to a small palace, outside of the city, for a special reward. On the palace the party will find a large dining table full of food and drinks, on the sides of the room various half naked servants await orders.
+
+After a few minutes a golden palanquin is hauled in by servants, within it is the king Dimitar Kitinov.
+
+***King Dimitar Kitinov, the III.***
+Dimitar Kitinov is a large man with light brown skin, a long black beard, a bushy unibrow, and a large nose. He wears a extremely ornate purple tunic with white ribbons and a blue turban.
+
+He is a joyful man with a loud and thunderous voice...
+
+___
+During the feast the king will ask the party the following questions:
+- What is their opinion about his son, the prince.
+- How was the task posed by Dragan.
+- Are they willing to work for the king.
+
+If the party responds positively to the final question, the servants remove the remaining food and exit the room, then the advisor enters the room and the king poses the following task.
+
+*"Kill my son with this weapon of his faith*, giving the party a dagger of the Holy Path, *so this blasphemous religion may remain beyond the walls of Carthus?"*
+___
+Then the advisor speaks.
+
+*"His highness will reward you with anything you desire and to prove his word you may ask for one gift and he will grant it."*
+
+
+
+
+
+
