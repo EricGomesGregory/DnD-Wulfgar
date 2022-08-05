@@ -9,7 +9,7 @@ ___
 The guardians can collectively reward the party with 80 gp if they are capable of finding the children and reuniting them with their parents and mentors.
 
 
-<div class='classTable wide'>
+<div class='wide'>
 
 ##### Guardians Table
 |  d8 | Guardian Name | Relation | Children    | Hypothesis                                                |
@@ -23,11 +23,33 @@ The guardians can collectively reward the party with 80 gp if they are capable o
 
 </div>
 
+<div style='margin-top:10px'></div>
 #### Investigation
-The party can investigate the various locations where each of the children were last seen, finding various clues.
+The party can investigate the various locations where each of the children were last seen, finding various clues. The main clues that leads the party to the pirates are:
+- Haka was kidnapped by a very agile woman, according to a neighbor of Sitra.
+- Anoop was seen running through the slaves market, according to a merchant.
+- Talia was taken by elven pirates, according to Talia's friends.
+___
+After successfully determining the cause of the children's disappearance the party can spot a tall man with short blond hair wearing a dark blue gambeson with a black dragon on its back, Hild identifies the symbol.
 
+If the party decides to capture the viking they must succeed a DC 17 Dexterity (Stealth) check to reach him while distracted.
 
+```
+```
+<div style='margin-top:40px'></div>
+***Follow.***
+If the party decides to sneak around and follow the viking the party must make two Dexterity (Stealth) checks, DC 13 then DC 15. If two or more party members fail their checks a chase begins.
 
+***Chase.***
+If the party fails to follow or capture him this causes a chase skill challenge. The party must accumulate three successes in three rounds of chase:
+- **1st Round** The viking sprints at the top of its speed through the market. The DC for the round is 13.
+- **2nd Round** The viking begins to alter his path and throw objects on the ground. The DC for the round is 15.
+- **3rd Round** The viking exits the city and begins to lose speed. The DC for the round is 10. 
+
+___
+After confronting the viking the party can discover that the viking are hiding on an inlet north of Carthus.
+
+\page
 
 #### Confrontation
 On a dock located on an inlet north of Carthus, the party can find a crew of elves preparing a longship for departure. Within it the ship three unarmed elves handle the chained children and setup the sails, while Lyneth, Rhun, and two other vikings inspect some crates.
@@ -41,16 +63,16 @@ ___
 > ## Lyneth
 >*Medium humanoid (elf), neutral evil*
 > ___
-> - **Armor Class** 16 (Gambeson)
+> - **Armor Class** 17 (Gambeson)
 > - **Hit Points** 27 (3d10 + 6)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 16 (+3) | 18 (+4) | 15 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |
+>| 16 (+3) | 20 (+5) | 15 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |
 >___
-> - **Saving Throws** Dex +6
-> - **Skills** Acrobatics +6, Athletics +5
+> - **Saving Throws** Dex +7
+> - **Skills** Acrobatics +7, Athletics +5
 > - **Senses** passive Perception 10
 > - **Languages** Elvish
 > - **Level** 3 **PB** +2
@@ -69,6 +91,9 @@ ___
 ***Rhun, the Pyromancer.***
 Rhun is a 5'6'' tall old elven men with a wrinkled face covered in red tattoos, long and dirty white hair, and a short white beard. He wears a beige tunic with burnt sleeve tips. 
 
+```
+```
+<div style='margin-top:10px'></div>
 ___
 > ## Rhun
 >*Medium humanoid (elf), neutral evil*
@@ -81,15 +106,12 @@ ___
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >|  8 (-1) | 10 (+0) | 11 (+0) | 15 (+2) | 18 (+4) | 10 (+0) |
 >___
-> - **Saving Throws** NONE
-> - **Skills** Arcana +0
-> - **Senses** passive Perception 00
+> - **Skills** Arcana +4
+> - **Senses** passive Perception 14
 > - **Languages** Elvish, Common
 > - **Level** 2 **PB** +2
 > ___
-> ***Innate Spellcasting.*** The NAME's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
->
-> At will: *fire bolt*
+> ***Innate Spellcasting.*** The Rhun's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
 >
 > 1/day each: *burning hands*
 >
@@ -125,3 +147,8 @@ ___
 > ### Actions
 > ***Greataxe.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 8 (1d12 + 2) Slashing damage. 
 >
+
+\page
+
+### QUEST
+SYNOPSIS.
