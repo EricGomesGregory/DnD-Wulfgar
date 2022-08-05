@@ -107,7 +107,7 @@ ___
 \page
 
 ### Encounter With a Wolf
-The wolf member (Reinhard) has been granted by the Lord Flannagan of Wexford
+The wolf member (Reinhard) has been granted by the Lord Flannagan of Wexford a small party of knights to patrol the territory in search of a killer of women known as the Night Cloak. Due to a coincidence Reinhard and his knights are patrolling 
 
 
 ### Stone Face Sin
