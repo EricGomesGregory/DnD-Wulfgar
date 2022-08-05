@@ -150,5 +150,5 @@ ___
 
 \page
 
-### QUEST
-SYNOPSIS.
+### Royal Job
+Jabedhaia and Robin have found a way to increase the party's reputation within the blue palace, one of the sons of the king is a charitable men that visits the outside of the blue palace on a regular basis and the king is worried that the price will be kidnapped or killed so the party is requested to escort him during one of his daily routines.
