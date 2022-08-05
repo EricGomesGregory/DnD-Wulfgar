@@ -24,6 +24,9 @@ This weapons attack uses your full action.
 #### Special Weapons
 Weapons with special rules are described here.
 
+***Hooked Sword.***
+When you make an opportunity attack you can force a creature to make a Dexterity saving throw or be knocked prone. The DC for the saving throw is equal to 8 + your Proficiency Bonus + your Strength or Dexterity score.
+
 ***Man Catcher.***
 A Medium or smaller creature hit by a man catcher is Restrained until it is freed. A man catcher has no Effect on creatures that are formless, or creatures that are Large or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the man catcher (AC 10) also frees the creature without harming it, Ending the Effect and destroying the man catcher. When you use an Action, or Reaction to Attack with a man catcher, you can make only one Attack regardless of the number of attacks you can normally make.
 
@@ -46,6 +49,7 @@ You can load up to five crossbow bolts into this weapon. Whenever you take the a
 | Cross Spear            |  10 gp | 1d8  piercing    |  5 lb. | Parry, reach, two-handed                                   |
 | Estoc                  |  30 gp | 1d8  piercing    |  3 lb. | Versatile(1d10)                                            |
 | Greatmace              |  15 gp | 1d10 bludgeoning |  8 lb. | Two-handed                                                 |
+| Hooked Sword           |  00 gp | 1d6  slashing    |  3 lb. | Finesse, light, special                                    |
 | Man Catcher            |  25 gp | 1d4  piercing    |  5 lb. | Reach, special, two-handed                                 |
 | Parring Dagger         |  25 gp | 1d4  slashing    |  1 lb. | Light, parry                                               |
 | Partizan               |  10 gp | 1d8  piercing    |  3 lb. | Charge, reach, two-handed                                  |
