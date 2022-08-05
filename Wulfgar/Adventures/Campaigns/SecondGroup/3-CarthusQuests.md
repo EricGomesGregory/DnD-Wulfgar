@@ -30,8 +30,7 @@ The party can investigate the various locations where each of the children were 
 
 
 #### Confrontation
-On a dock located on an inlet north of Carthus, the party can find a crew of elves preparing a longship for departure...
-
+On a dock located on an inlet north of Carthus, the party can find a crew of elves preparing a longship for departure. Within it the ship three unarmed elves handle the chained children and setup the sails, while Lyneth, Rhun, and two other vikings inspect some crates.
 ___
 The crew of elves are composed by two vikings, Lyneth, and Rhun.
 
