@@ -14,7 +14,7 @@
 | Character | Uses |
 |:----------|:----:|
 | Bovir     | 2  |
-| Hild      | 0  |
+| Hild      | 1  |
 | Saladin   | 0  |
 | Kaito     | 0  |
 | Heden     | 0  |
