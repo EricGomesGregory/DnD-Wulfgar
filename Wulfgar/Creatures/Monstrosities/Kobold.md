@@ -28,5 +28,5 @@ ___
 > ### Actions
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) Slashing damage.
 >
-> ***Cobalt Breath (2/day).*** The Kobold FLUFF on a 15-foot cone. Each creature in the area must make a DC 12 Constitution saving throw, taking 7 (2d4 + 2) Poison damage and be Poisoned on a failed save, or half as much on a successful save.
+> ***Cobalt Breath (2/day).*** The Kobold spews a poisonous grey cloud on a 15-foot cone. Each creature in the area must make a DC 12 Constitution saving throw, taking 7 (2d4 + 2) Poison damage and being Poisoned on a failed save, or half as much damage on a successful save.
 >
