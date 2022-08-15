@@ -63,7 +63,7 @@ You can load up to five crossbow bolts into this weapon. Whenever you take the a
 | Stonebow               |  75 gp | 1d10 bludgeoning | 18 lb. | Ammunition(range 100/400), loading, two-handed             |
 |*Firearms*              |        |                  |        |                                                            |
 | Arquebus               | 200 gp | 1d12 piercing    | 15 lb. | Ammunition(range 200/800), inaccurate, loading, two-handed |
-| Hand cannon            | 150 gp | 2d8  piercing    | 12 lb. | Ammunition(range 30/120), inaccurate, loading, two-handed  |
+| Hand cannon            | 150 gp | 3d6  piercing    | 12 lb. | Ammunition(range 30/120), inaccurate, loading, two-handed  |
 
 </div>
 
