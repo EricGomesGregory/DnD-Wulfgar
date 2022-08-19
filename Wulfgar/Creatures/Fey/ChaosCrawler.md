@@ -1,6 +1,7 @@
 ## Chaos Crawler
+The chaos crawler is a large humanoid with wrinkled grey skin, slender long limbs, six small black beads for eyes, a floppy belly and two pair lips. After engaging with the creature it will open one of its "mouths" to reveal a orb of swirling stars that spews a lilac light in a 60 foot cone.
 
-
+The chaos crawler is a few creature born from the fears related to darkness and magic.
 
 ___
 > ## Chaos Crawler
