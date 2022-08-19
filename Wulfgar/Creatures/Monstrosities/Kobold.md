@@ -1,10 +1,11 @@
 ## Kobold
-The kobold is a small humanoid creature with a grayish blue skin composed of lizard-like scales, sunken eyes that glow yellow, metallic blue fangs and claws that allows it to climb the rocks of the deep caves, and a breath that spews poisonous grey cloud.
+The kobold is a small humanoid with the head of a dragon, a grayish blue skin composed of lizard-like scales, sunken eyes that glow yellow, metallic blue fangs and claws that allows it to climb the rocks of the deep caves, and a breath that spews poisonous grey cloud.
+
 
 
 ___
 > ## Kobold
->*Small monstrosity, neutral evil*
+>*Small humanoid, neutral evil*
 > ___
 > - **Armor Class** 15 (Natural Armor)
 > - **Hit Points** 8 (1d6 + 2)
