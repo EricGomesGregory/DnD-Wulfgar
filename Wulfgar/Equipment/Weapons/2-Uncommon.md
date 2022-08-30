@@ -57,6 +57,7 @@ You can load up to five crossbow bolts into this weapon. Whenever you take the a
 | Ultra Greatsword       |  80 gp | 4d6  slashing    | 12 lb. | Heavy, two-handed, ultra                                   |
 | Ultra Greatclub        |  80 gp | 3d6  bludgeoning | 10 lb. | Heavy, two-handed, ultra                                   |
 | Ultra Warhammer        |  75 gp | 4d6  bludgeoning | 12 lb. | Heavy, two-handed, ultra                                   |
+| Great Warpick          |  00 gp | 1d12 piercig     | 00 lb. | Heavy, two-handed                                          |
 |*Martial Ranged Weapons*|        |                  |        |                                                            |
 | Crossbow, repeating    | 100 gp | 1d6  piercing    |  0 lb. | Ammunition(range 30/120), special, two-handed              |
 | Greatbow               |  80 gp | 1d10 piercing    |  4 lb. | Ammunition(rnage 200/800), heavy, two-handed               |
