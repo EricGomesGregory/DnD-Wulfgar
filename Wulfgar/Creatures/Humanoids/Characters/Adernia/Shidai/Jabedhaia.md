@@ -39,7 +39,9 @@ ___
 > - **Languages** Common, Thieves Cant
 > - **Level** 1 **PB** +2
 > ___
-> ***FEATURE.*** FEATURE DESCRIPTION
+> ***Acute Ears.***
+> Jabedhaia has advantage on Wisdom (Insight) and Wisdom (Perception) checks that rely on hearing.
+>
 >
 > ### Actions
 > ***Cane.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit* 1 (1d4 - 1) bludgeoning damage. 
