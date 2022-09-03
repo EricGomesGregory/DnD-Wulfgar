@@ -18,6 +18,7 @@
 | Saladin   | 0  |
 | Kaito     | 0  |
 | Heden     | 0  |
+| Jabedhaia | 1  |
 
 
 #### Ability Scores Level 1-3
