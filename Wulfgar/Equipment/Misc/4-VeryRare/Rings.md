@@ -13,7 +13,7 @@ When you are reduced to 0 Hit Points or killed outright, you can drop to 1 hit p
 #### Flame Stone Plate Ring
 *Wondrous item (ring), very rare* (Attunement)
 ___
-A large brass ring with a square STONE stone embossed on it.
+A large brass ring with a square red garnet stone embossed on it.
 
 ***Fire Resistance.***
 You gain resistance to fire damage.
