@@ -19,7 +19,7 @@ ___
 ***Flaws.***
 
 ### Equipment
-In addition to his clothing and normal equipment, NAME has the following notable pieces of equipment.
+In addition to her clothing and normal equipment, NAME has the following notable pieces of equipment.
 
 ___
 > ## NAME

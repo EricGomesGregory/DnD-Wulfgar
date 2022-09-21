@@ -24,7 +24,7 @@ Anette is a naive and idealistic.
 
 
 ### Equipment
-In addition to his clothing and normal equipment, Anette has the following notable pieces of equipment.
+In addition to her clothing and normal equipment, Anette has the following notable pieces of equipment.
 
 #### Amulet of Kaur
 A small stone amulet depicting the allfather Kaur.
