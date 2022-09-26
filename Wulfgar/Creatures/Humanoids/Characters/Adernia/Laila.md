@@ -1,11 +1,11 @@
-## NAME
+## Laila
 DESCRIPTION.
 
 ### History
 CHARACTER_HISTORY.
 
 ### Characteristics
-The following are NAME's characteristics such as his personality, ideals, bonds, and flaws.
+The following are Laila's characteristics such as his personality, ideals, bonds, and flaws.
 ___
 ***Personality.***
 
@@ -18,29 +18,26 @@ ___
 ___
 ***Flaws.***
 
+
 ### Equipment
-In addition to her clothing and normal equipment, NAME has the following notable pieces of equipment.
+In addition to her clothing and normal equipment, Laila has the following notable pieces of equipment.
 
 ___
-> ## NAME
->*SIZE humanoid(RACE), ALIGNMENT*
+> ## Laila
+>*Medium humanoid (humanoid), lawful good*
 > ___
-> - **Armor Class** 00
-> - **Hit Points** 000 (0d0 + 0)
-> - **Speed** 0 ft.
+> - **Armor Class** 11
+> - **Hit Points** 8 (1d8)
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+>| 10 (+0) | 13 (+1) | 10 (+0) | 10 (+0) | 14 (+2) |  8 (+0) |
 >___
-> - **Saving Throws** NONE
-> - **Skills** NONE
-> - **Damage Immunities** NONE
-> - **Damage Resistances** NONE
-> - **Condition Immunities** NONE
-> - **Senses** passive Perception 00
-> - **Languages** LANGUAGE
-> - **Challenge** 00 (0 XP)
+> - **Skills** *Medicine* +6, Perception +4
+> - **Senses** passive Perception 14
+> - **Languages** Common
+> - **Level** 1 **PB** +2
 > ___
 > ***FEATURE.*** FEATURE DESCRIPTION
 >
