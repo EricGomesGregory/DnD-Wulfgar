@@ -39,7 +39,9 @@ ___
 > - **Languages** Common
 > - **Level** 1 **PB** +2
 > ___
-> ***FEATURE.*** FEATURE DESCRIPTION
+> ***Healer's Hands.***
+> Laila can use an action to make a DC 10 Medicine check to restore 1d4 hit points.
+>
 >
 > ### Actions
 > ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage. 
