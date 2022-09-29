@@ -18,21 +18,23 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 <div class='wide'>
 
 ##### Old Gods Deities
-| Deity         | Alignment | Suggested Domains      | Symbol                                |
-|:--------------|:--:|:------------------------------|:--------------------------------------|
-|*Major deities*|    |                               |                                       |
-| Elyrion       | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun |
-| Silvaris      | LG | Death, Forge, Knowledge       | Blue veiled woman over a white circle |
-|*Minor deities*|    |                               |                                       |
-| Aaine         | NG | Life, Nature                  | Green stag with tree antlers          |
-| Aart          | CN | Nature, Tempest               | Gray hawk with blue thunderbolts      |
-| Bjork         | LG | Forge, Light                  | Black head of a ram                   |
-| Ecne          | LN | Knowledge                     | Yellow owl head                       |
-| Kord          | CE | War                           | Red bear with a white head            |
-| Namire        | CG | Trickery                      | Grey twin tailed fox                  |
-| Neit          | NE | Death, Grave                  | Blue wolf head                        |
-|*New deities*  |    |                               |                                       |
-| Zoria         | LN | War                           | Red Centaur                           |
+| Deity           | Alignment | Suggested Domains      | Symbol                                |
+|:----------------|:--:|:------------------------------|:--------------------------------------|
+|*Major deities*  |    |                               |                                       |
+| Elyrion         | CG | Life, Light, Trickery, Nature | Silhouette of man inside a yellow sun |
+| Silvaris        | LG | Death, Forge, Knowledge       | Blue veiled woman over a white circle |
+|*Minor deities*  |    |                               |                                       |
+| Aaine           | NG | Life, Nature                  | Green stag with tree antlers          |
+| Aart            | CN | Nature, Tempest               | Gray hawk with blue thunderbolts      |
+| Bjork           | LG | Forge, Light                  | Black head of a ram                   |
+| Ecne            | LN | Knowledge                     | Yellow owl head                       |
+| Kord            | CE | War                           | Red bear with a white head            |
+| Namire          | CG | Trickery                      | Grey twin tailed fox                  |
+| Neit            | NE | Death, Grave                  | Blue wolf head                        |
+|*New deities*    |    |                               |                                       |
+| Zoria           | LN | War                           | Red Centaur                           |
+|*Vinheim deities*|    |                               |                                       |
+| Innur           | CN | Trickery, War                 | White dragon                          |
 
 </div>
 
@@ -108,3 +110,14 @@ The following are newer deities added to the pantheon of the old gods by newer f
 Zoria is large muscular centaur with red fur and hair, he is the patron of forossan warriors, riders, and archers. Zoria draws his powers from heroic warriors that devote themselves to his legion.
 
 Followers of Zoria perform dances while mounted on their horses before and after battle.
+
+
+### Vinheim Deities
+The following are deities that are particular to the isolationist city of Vinheim.
+
+#### Innur, the Betrayer
+Innur is a gargantuan white dragon that is blind of both eyes, he is the patron of liars, thieves, pirates and mercenaries. Innur draws his powers from all lies, thefts, and killings made in his name.
+
+Followers of Innur stake their life's path on promises of bloodshed, lies, and or thievery.
+
+
