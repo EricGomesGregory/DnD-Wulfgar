@@ -58,3 +58,14 @@ A simple plain ring made of petrified wood.
 You are immune to the Poisoned condition, and you gain resistance to poison damage.
 
 Whenever you suffer poison damage a wood-bark like growth spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
+
+
+#### Sapphire Silver Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A ornate silver ring with a sapphire ball in its center.
+
+***Cold Resistance.***
+You gain resistance to Cold damage.
+
+Whenever you suffer poison damage a white furr spreads from the finger of the ring. Breaking the attunement to this item doesn't remove the growth.
