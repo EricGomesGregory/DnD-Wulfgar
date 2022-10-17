@@ -128,6 +128,7 @@ ___
 ```
 
 <div style='margin-top:35px'></div>
+
 ***Zealot.***
 The zealots of the Holy Path are men and woman with shaved heads that wear lamellar armor and carry a pair of bronze or iron jars as weapons. Zealots are always accompanied by an inquisitor that commands them.
 
@@ -135,7 +136,7 @@ ___
 > ## Zealot
 >*Medium humanoid (human), neutral evil*
 > ___
-> - **Armor Class** 15 (Lamellar)
+> - **Armor Class** 16 (Haulberk)
 > - **Hit Points** 9 (1d8 + 1)
 > - **Speed** 30 ft.
 >___
