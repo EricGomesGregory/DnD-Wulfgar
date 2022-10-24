@@ -1,14 +1,14 @@
 ## Aileen, the Shadow
-Aileen is a 20 year old, 5 feet tall slender woman with milk white skin, short fire red hair and grass green eyes. She wears a dark brown gambeson, with a bandolier of throwing knives over it, warn leather pants and a green cloack.
+Aileen is a 20 year old, 5 feet tall slender woman with milk white skin, short fire red hair and grass green eyes. She wears a dark brown gambeson, with a bandolier of throwing knives over it, warn leather pants and a green cloak.
 
 
 ### History
-Aileen once was a servant of a cruel forrosan nobleman that abused her and the other servants. Until one faithful day, when Gwyn invaded the nobleman's keep, and Aileen killed the nobleman with a knife to the back.
+Aileen once was a servant of a cruel forossan nobleman that abused her and the other servants. Until one faithful day, when Gwyn invaded the nobleman's keep, and Aileen killed the nobleman with a knife to the back.
 
 When Gwyn found her in shock of what she had done, he asked her to join his newly formed band. Ever since Aileen has followed Gwyn, as if she was his shadow. Training with him and becoming his faithful scout and at times ruthless assassin.
 
 
-### Character Trais
+### Character Traits
 The following are Aileen's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
