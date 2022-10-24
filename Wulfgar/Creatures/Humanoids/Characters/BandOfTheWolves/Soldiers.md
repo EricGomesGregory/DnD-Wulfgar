@@ -70,7 +70,7 @@ ___
 > The Halberdier can recover 7 (1d10 + 2) hit points.
 >
 > ### Actions
-> ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 3) slashing damage. 
+> ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. *Hit* 8 (1d10 + 3) slashing damage. 
 >
 
 

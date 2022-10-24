@@ -1,9 +1,9 @@
-## Forrosan Soldiers
+## Forossan Soldiers
 
 14 13 10 10 10 8
 
 ___
-> ## Forrosan Horsemen
+> ## Forossan Horsemen
 >*Medium humanoid (human), lawful neutral*
 > ___
 > - **Armor Class** 17 (haulberk, kite shield)
