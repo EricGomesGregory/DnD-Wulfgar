@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "Adernian",
         "Astora",
         "astoran",
         "Birchtown",
@@ -9,7 +10,7 @@
         "elven",
         "forossan",
         "forossans",
-        "Goldpine",
+        "Grimkel's",
         "Hafexia",
         "hafexian",
         "haulberk",
@@ -18,6 +19,7 @@
         "metamagic",
         "Multiattack",
         "Oolacile",
+        "Reithasg",
         "Sgaathan",
         "shortsword",
         "shortswords",
@@ -25,5 +27,8 @@
         "Spellcaster",
         "Spellcasting",
         "Vinhime"
-    ]
+    ],
+    
+    "homebrewery.enabled": true
+    
 }
