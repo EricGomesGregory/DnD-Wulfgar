@@ -65,7 +65,7 @@ A Large or smaller creature hit by a net is Restrained until it is freed. A net 
 |*Simple Ranged Weapons* |       |                  |         |                                                |
 | Crossbow, light        | 25 gp | 1d8  piercing    |  5  lb. | Ammunition(range 80/320), loading, two-handed  |
 | Dart                   |  1 sp | 1d4  piercing    | 1/4 lb. | Finesse, light, thrown(range 20/60)            |
-| Shortbow               | 25 gp | 1d6  piercing    |  2  lb. | Ammunition(rnage 80/320), two-handed           |
+| Shortbow               | 25 gp | 1d6  piercing    |  2  lb. | Ammunition(range 80/320), two-handed           |
 | Sling                  |  1 sp | 1d4  bludgeoning |  _      | Ammunition(range 30/120)                       |
 |*Martial Melee Weapons* |       |                  |         |                                                |
 | Battleaxe              | 10 gp | 1d8  slashing    |  4  lb. | Versatile(1d10)                                |

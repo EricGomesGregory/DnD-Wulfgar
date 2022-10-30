@@ -32,7 +32,7 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 10 (+0) | 13 (+1) | 10 (+0) | 10 (+0) | 14 (+2) |  8 (+0) |
+>|  8 (-1) | 13 (+1) | 10 (+0) | 10 (+0) | 14 (+2) | 10 (+0) |
 >___
 > - **Skills** *Medicine* +6, Perception +4
 > - **Senses** passive Perception 14
@@ -44,6 +44,6 @@ ___
 >
 >
 > ### Actions
-> ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage. 
+> ***Handaxe.*** *Melee Weapon Attack:* -1 to hit, reach 5 ft., one target. *Hit* 2 (1d6 - 1) Slashing damage. 
 >
 > ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage. 
