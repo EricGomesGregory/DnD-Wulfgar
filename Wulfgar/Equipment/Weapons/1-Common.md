@@ -45,6 +45,7 @@ You have disadvantage when you use a lance to Attack a target within 5 feet of y
 ***Net.***
 A Large or smaller creature hit by a net is Restrained until it is freed. A net has no Effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, Ending the Effect and destroying the net. When you use an action, Bonus Action, or Reaction to Attack with a net, you can make only one Attack regardless of the number of attacks you can normally make.
 
+\page
 
 <div class='classTable wide'>
 
