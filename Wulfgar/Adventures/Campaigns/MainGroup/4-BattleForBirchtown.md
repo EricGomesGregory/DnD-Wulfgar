@@ -3,7 +3,7 @@
 
 
 ### Wolves and Forossans
-The invading army is composed of **Heyso** and **NAME Flannegan** as the commanders and 10 **Heavy Cavalry**, 20 **Crossbowmen**, 20 **Spearmen**, and 50 **soldiers**. As well as 4 **siege towers** and 2 **trebuchet**
+The invading army is composed of **Heyso** and **NAME Flannegan** as the commanders and 10 **Heavy Cavalry**, 20 **Crossbowmen**, 50 **Spearmen**. As well as 4 **siege towers** and 2 **trebuchet**
 
 ***Heyso, Black Wolf.***
 DESCRIPTION.
@@ -45,10 +45,10 @@ The heavy cavalry is composed of five heavily armored knights riding in warhorse
 
 ___
 > ## Heavy Cavalry
->*Huge swarm horse riders (humans), lawful neutral*
+>*Huge swarm of horse riders (humans), lawful neutral*
 > ___
 > - **Armor Class** 18 / 16
-> - **Hit Points** 52 (5d10 + 20)
+> - **Hit Points** 60 (5d12 + 20)
 > - **Speed** 60 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -65,7 +65,7 @@ ___
 > If the heavy cavalry hits a creature after moving at least 40 feet it deals an additional 1d10 Slashing damage.
 >
 > ### Actions
-> ***Multiattack.*** The heavy cavalry unit makes five halberd attacks; -1 attack per 10 damage taken.
+> ***Multiattack.*** The heavy cavalry unit makes five halberd attacks; -1 attack per 12 damage taken.
 >
 > ***Halberd.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit* 8 (1d10 + 3) Slashing damage. 
 >
@@ -73,10 +73,62 @@ ___
 ***Crossbowmen.***
 
 
+___
+> ## Crossbowmen
+>*Large swarm of humanoids (human), lawful neutral*
+> ___
+> - **Armor Class** 15 (Gambeson)
+> - **Hit Points** 40 (5d10 + 10)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 10 (+0) | 16 (+3) | 15 (+2) |  8 (-1) | 10 (+0) | 10 (+0) |
+>___
+> - **Saving Throws** Dex +6
+> - **Skills** Athletics +3
+> - **Senses** passive Perception 10
+> - **Languages** Common
+> - **Level** 5 **PB** +3
+> ___
+>
+>
+> ### Actions
+> ***Multiattack.*** The crossbowmen unit makes four heavy crossbow attacks; -1 attack per 10 damage taken.
+>
+> ***Heavy Crossbow.*** *Ranged Weapon Attack:* +6 to hit, range 100/400 ft., one target. *Hit* 8 (1d10 + 3) Piercing damage. 
+>
+
+
 ***Spearmen.***
 
 
-***soldiers.***
+___
+> ## Spearmen
+>*Large swarm of humanoids (human), lawful neutral*
+> ___
+> - **Armor Class** 19 (Haulberk + Kite shield)
+> - **Hit Points** 40 (5d10 + 10)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 15 (+2) | 15 (+2) | 15 (+2) |  8 (-1) | 10 (+0) | 10 (+0) |
+>___
+> - **Saving Throws** Str +5
+> - **Skills** Athletics +5
+> - **Senses** passive Perception 10
+> - **Languages** Common
+> - **Level** 5 **PB** +3
+> ___
+>
+>
+> ### Actions
+> ***Multiattack.*** The soldiers unit makes four spear attacks; -1 attack per 10 damage taken.
+>
+> ***Spear.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit* 5 (1d6 + 2) Piercing damage. 
+>
+
 
 ___
 The invading army has...
