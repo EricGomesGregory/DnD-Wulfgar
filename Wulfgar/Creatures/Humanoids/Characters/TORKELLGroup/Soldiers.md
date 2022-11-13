@@ -4,15 +4,15 @@
 
 ___
 > ## Berserker
->*Medium humanoid (elf), lawful neutral*
+>*Medium humanoid (elf), chaotic neutral*
 > ___
-> - **Armor Class** 13 (Natural Armor)
+> - **Armor Class** 14 (Natural Armor)
 > - **Hit Points** 22 (2d12 + 4)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 16 (+3) | 12 (+1) | 14 (+2) |  8 (-1) | 10 (+0) | 10 (+0) |
+>| 16 (+3) | 14 (+2) | 14 (+2) |  6 (-2) | 10 (+0) | 10 (+0) |
 >___
 > - **Saving Throws** Str +5
 > - **Skills** Athletics +5, Intimidation +5
@@ -31,35 +31,34 @@ ___
 >
 >
 > ### Actions
-> ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage. 
+> ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 9 (1d12 + 3) Slashing damage. 
 >
-> ***Javelin.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. 
+> ***Javelin.*** *Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit* 6 (1d6 + 3) Piercing damage. 
 
 
 ___
-> ## NAME
->*SIZE humanoid(RACE), ALIGNMENT*
+> ## Archer
+>*Medium humanoid (elf), chaotic neutral*
 > ___
-> - **Armor Class** 00
-> - **Hit Points** 000 (0d0 + 0)
-> - **Speed** 0 ft.
+> - **Armor Class** 15 (Gambeson)
+> - **Hit Points** 14 (2d8 + 2)
+> - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+>| 10 (+0) | 16 (+3) | 13 (+1) | 10 (+0) | 15 (+2) |  8 (-1) |
 >___
-> - **Saving Throws** NONE
-> - **Skills** NONE
-> - **Damage Immunities** NONE
-> - **Damage Resistances** NONE
-> - **Condition Immunities** NONE
-> - **Senses** passive Perception 00
-> - **Languages** LANGUAGE
-> - **Challenge** 00 (0 XP)
+> - **Saving Throws** Dex +5
+> - **Skills** Perception +4
+> - **Senses** passive Perception 14
+> - **Languages** Elvish
+> - **Level** 2 **PB** +2
 > ___
-> ***FEATURE.*** FEATURE DESCRIPTION
+> ***Mask of the Wild.***
+> The berserker can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. 
+>
 >
 > ### Actions
-> ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage. 
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) Piercing damage. 
 >
-> ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage. 
+> ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit* 7 (1d8 + 3) Piercing damage. 
