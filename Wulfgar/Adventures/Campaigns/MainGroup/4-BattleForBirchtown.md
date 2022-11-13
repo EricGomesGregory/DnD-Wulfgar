@@ -3,10 +3,10 @@
 
 
 ### Wolves and Forossans
-The invading army is composed of **Heyso** and **NAME Flannegan** as the commanders and 10 **Heavy Cavalry**, 20 **Crossbowmen**, 50 **Spearmen**. As well as 4 **siege towers** and 2 **trebuchet**
-
+The invading army is composed of **Heyso** and **Lord Flannegan** as the commanders and 10 **Heavy Cavalry**, 20 **Crossbowmen**, 50 **Spearmen**. As well as 4 **siege towers** and 2 **trebuchet**
+___
 ***Heyso, Black Wolf.***
-DESCRIPTION.
+Heyso is a 21 year old hafexian man, with a 6 foot stature, broad shoulders, black hair and beard, with warm white skin, light brown eyes and a eye patch on his left eye. He dawns a well kept set of plate armor with a blue tabard emblazoned with a black wolf, and a belt of darts on his chest. He wields a warhammer with a wolf head
 
 ___
 > ## Heyso, Black Wolf
@@ -39,6 +39,8 @@ ___
 >
 > ***Dart.*** *Ranged Weapon Attack:* +2 to hit, range 20/60 ft., one target. *Hit* 2 (1d4) piercing damage.
 
+```
+```
 
 **Heavy Cavalry**
 The heavy cavalry is composed of five heavily armored knights riding in warhorses. This knights are members of the Band of the Wolf, as well as knights of Wexford.
@@ -70,14 +72,16 @@ ___
 > ***Halberd.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit* 8 (1d10 + 3) Slashing damage. 
 >
 
-***Crossbowmen.***
+\page
 
+***Crossbowmen.***
+The crossbowmen are men and women from the city of wexford that wear haulberks and wield heavy crossbows. 
 
 ___
 > ## Crossbowmen
 >*Large swarm of humanoids (human), lawful neutral*
 > ___
-> - **Armor Class** 15 (Gambeson)
+> - **Armor Class** 16 (Haulberk)
 > - **Hit Points** 40 (5d10 + 10)
 > - **Speed** 30 ft.
 >___
@@ -99,9 +103,11 @@ ___
 > ***Heavy Crossbow.*** *Ranged Weapon Attack:* +6 to hit, range 100/400 ft., one target. *Hit* 8 (1d10 + 3) Piercing damage. 
 >
 
+```
+```
 
 ***Spearmen.***
-
+The spearmen are men and women of the Wolves and of Wexford that dawn haulberks and wield spears and kite shields.
 
 ___
 > ## Spearmen
@@ -129,11 +135,12 @@ ___
 > ***Spear.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit* 5 (1d6 + 2) Piercing damage. 
 >
 
+\page
 
-___
-The invading army has...
+The invading army has access to two forms of siege weaponry, 4 siege towers that move towards the walls in order to create a opening for the army to enter the city.
 
 ***Siege Tower.***
+The siege tower is a 30 foot high, 20 foot wide, 20 foot deep wooden tower on wheels that is pushed by people within the tower.
 
 ___
 > ## Siege Tower
@@ -152,9 +159,11 @@ ___
 > - **Condition Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Stunned, Unconscious
 > ___
 
+```
+```
 
 ***Trebuchet.***
-DESCRIPTION.
+The trebuchet is massive wooden structure .
 
 ___
 > ## Trebuchet
@@ -175,4 +184,4 @@ ___
 >
 >
 > ### Actions
-> ***Rock.*** The trebuchet launches a rock towards a point within 500 feet, each creature or object within a 10-foot-radius sphere of the chosen point must make a DC 10 Dexterity saving throw, taking 21 (6d6) Bludgeoning damage and being knocked prone on a failed save or half as much on a successful one.
+> ***Rock.*** The trebuchet launches a rock towards a point within 500 feet (can't hit targets within 60 feet of it), each creature or object within a 10-foot-radius sphere of the chosen point must make a DC 10 Dexterity saving throw, taking 21 (8d6) Bludgeoning damage and being knocked prone on a failed save or half as much on a successful one.
