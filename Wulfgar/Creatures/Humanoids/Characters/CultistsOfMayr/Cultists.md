@@ -6,28 +6,29 @@ The Cultists table shows the name, age, height, kingdom of origin, and type of t
 <div class='classTable'>
 
 ##### Cultists
-| Name      | Age | Height | Origin  |
-|:----------|:---:|:------:|:--------|
-|*Commoners*|     |        |         |
-| Nareena   |  22 | 4'12'' | Forossa |
-| Hugolina  |  12 | 5' 5'' | Astora  |
-| Gunter    |  13 | 5' 2'' | Forossa |
-| Egelina   |  14 | 5' 6'' | Forossa |
-| Denis     |  18 | 5' 3'' | Astora  |
-| Marlein   |  15 | 5' 7'' | Hafexia |
-| Frantz    |  21 | 5' 6'' | Hafexia |
-|*Berserker*|     |        |         |
-| Ratimir   |  25 | 7' 1'' | Vrostia |
-|*Guards*   |     |        |         |
-| Hugh      |  16 | 5' 2'' | Astora  |
-| Mary      |  21 | 5' 5'' | Astora  |
-| Enid      |  24 | 5' 2'' | Forossa |
-| Leigh     |  21 | 5' 1'' | Hafexia |
-| Katerina  |  23 | 5' 5'' | Hafexia |
-|*Marauders*|     |        |         |
-| Frederich |  27 | 5' 4'' | Forossa |
-| Henry     |  24 | 5' 7'' | Astora  |
-| Brenna    |  28 | 5'10'' | Vrostia |
+| Name      | Age | Height | Origin    | State    |
+|:----------|:---:|:------:|:----------|:--------:|
+|*Commoners*|     |        |           |          |
+| Nareena   |  22 | 4'12'' | Forossa   | Alive    |
+| Hugolina  |  12 | 5' 5'' | Astora    | Alive    |
+| Gunter    |  13 | 5' 2'' | Forossa   | Alive    |
+| Egelina   |  14 | 5' 6'' | Forossa   | Alive    |
+| Denis     |  18 | 5' 3'' | Astora    | Alive    |
+| Marlein   |  15 | 5' 7'' | Hafexia   | Alive    |
+| Frantz    |  21 | 5' 6'' | Hafexia   | Alive    |
+|*Berserker*|     |        |           |          |
+| Ratimir   |  25 | 7' 1'' | Vrostia   | Dead     |
+| Braknar   |  30 | 6'10'' | Silvarian | Alive    |
+|*Guards*   |     |        |           |          |
+| Hugh      |  18 | 5' 2'' | Astora    | Fugitive |
+| Mary      |  21 | 5' 5'' | Astora    | Alive    |
+| Enid      |  24 | 5' 2'' | Forossa   | Alive    |
+| Leigh     |  21 | 5' 1'' | Hafexia   | Alive    |
+| Katerina  |  23 | 5' 5'' | Hafexia   | Alive    |
+|*Marauders*|     |        |           |          |
+| Frederich |  27 | 5' 4'' | Forossa   | Alive    |
+| Henry     |  24 | 5' 7'' | Astora    | Alive    |
+| Brenna    |  28 | 5'10'' | Vrostia   | Alive    |
 
 </div>
 
@@ -86,19 +87,19 @@ ___
 > ## Berserker
 >*Medium humanoid(goliath), neutral evil*
 > ___
-> - **Armor Class** 15
-> - **Hit Points** 24 (2d12 + 6)
+> - **Armor Class** 16
+> - **Hit Points** 39 (4d12 + 8)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 18 (+4) | 15 (+2) | 16 (+3) |  8 (-1) | 10 (+0) |  8 (-1) |
+>| 18 (+4) | 15 (+2) | 18 (+4) |  8 (-1) | 10 (+0) |  8 (-1) |
 >___
-> - **Saving Throws** Str +5, Con +5
+> - **Saving Throws** Str +6, Con +6
 > - **Skills** Athletics +5, Intimidation +5 Perception +2
 > - **Senses** passive Perception 12
-> - **Languages** Goliath, *Common*
-> - **Level** 2 (Barbarian)
+> - **Languages** Elvish, *Common*
+> - **Level** 4 (Barbarian) **PB** +2
 > ___
 > ***Rage (1/day).*** 
 > The berserker can use a bonus action to gain the following benefirs, for up to 1 minute:
@@ -110,7 +111,9 @@ ___
 > At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 >
 > ### Actions
-> ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (1d12 + 4) slashing damage. 
+> ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (1d12 + 4) Slashing damage.
+>
+> ***Greataxe (Raging).*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 12 (1d12 + 6) Slashing damage.
 >
 
 
@@ -133,9 +136,9 @@ ___
 > ___
 >
 > ### Actions
-> ***Handaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) slashing damage. 
+> ***Handaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) Slashing damage. 
 >
-> ***Light Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit* 6 (1d8 + 2) piercing damage. 
+> ***Light Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit* 6 (1d8 + 2) Piercing damage. 
 
 
 ___

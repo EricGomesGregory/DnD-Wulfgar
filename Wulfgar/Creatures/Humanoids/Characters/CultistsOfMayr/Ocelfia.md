@@ -31,7 +31,6 @@ ___
 ***flaws.***
 She is a zealot, blindly following the orders of Mayr believing that through her patron she can become the woman she wishes to be.
 
-
 ___
 > ## Ocelfia
 >*Medium humanoid (human), lawful evil*
@@ -42,53 +41,60 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->|  8 (-1) | 14 (+2) | 10 (+0) | 14 (+2) | 10 (+0) | 19 (+4) |
+>|  8 (-1) | 14 (+2) | 10 (+0) | 14 (+2) | 10 (+0) | 20 (+5) |
 >___
 > - **Saving Throws** Wis +2, Cha +6
-> - **Skills** Arcana +4, Intimidation +6, Religion +4
+> - **Skills** Arcana +5, Deception +8, Intimidation +6,*Persuasion* +11, Religion +4
 > - **Senses** passive Perception 10
 > - **Languages** Common
-> - **Level** 3 Warlock **PB** +2
+> - **Level** 5 Warlock **PB** +3
 > ___
-> ***Spellcasting.*** Ocelfia is an 3th-level Spellcaster. Her Spellcasting Ability is Charisma (spell save DC 14, +6 to hit with spell attacks). Ocelfia has the following Warlock Spells prepared:
+> ***Spellcasting.*** Ocelfia is an 3th-level Spellcaster. Her Spellcasting Ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Ocelfia has the following Warlock spells prepared:
 >
-> Cantrips (at will). *poison spray, prestidigitation*
+> Cantrips (at will). *poison spray, prestidigitation, infestation*
 >
-> 2nd Level (3 slots). *charm person, comprehend languages, hellish rebuke (fire), suggestion*
+> 2nd Level (2 slots). *charm person, comprehend languages, hellish rebuke (fire), shatter, suggestion*
 >
 > ***Pact of the Chain.***
 > Ocelfia can cast the spell *find familiar* as a ritual to conjure Kyox.
 >
+> ***Investment of the Chain Master.***
+> Ocelfia has gained increased abilities with her command over her familiar:
+> - She can command Kyox to make a Sting or Claw attack.
+> - Kyox sting save is equal to her spell save DC instead.
+> - She can use a reaction to grant Kyox resistance to the damage of one attack.
+>
+>
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) slashing damage.
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) Slashing damage.
 >
 
 
 ## Kyox
-Kyox is an imp, spawn Mayr the Mother of Sin, he is a small humanoid creature with red skin, a slender body, a black feather like hair, a tail tipped with a scorpion stinger, and a teardrop shaped face with a owl like features.
+Kyox is an imp, spawn Mayr the Mother of Sin, he is a small humanoid creature with red skin, a slender body, a black feather like hair, a tail tipped with a scorpion stinger, and a white teardrop shaped face with owl like features.
 
-Kyox is a servant of its mother, influencing Ocelfia to perform various rituals in the name of Mayr...
+Kyox is a servant of its mother, influencing Ocelfia to perform various rituals in the name of Mayr in order to strengthen its mother so it may rise from its sunken city and create a world full of hellish children. 
 
 
 ___
 > ## Kyox
 >*Small fiend, lawful evil*
 > ___
-> - **Armor Class** 13
-> - **Hit Points** 9 (2d6 + 2)
+> - **Armor Class** 14
+> - **Hit Points** 9 (4d6 + 8)
 > - **Speed** 20 ft., fly 40 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->|  6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+>|  6 (-2) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 >___
 > - **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5 
 > - **Damage Immunities** Fire, Poison
-> - **Damage Resistances** Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
+> - **Damage Resistances** Bludgeoning, Piercing, and Slashing from non-magical Attacks.
 > - **Condition Immunities** Poisoned
 > - **Senses** Darkvision 120 ft., passive Perception 11
 > - **Languages** Common, Infernal
-> - **Level** 2 **PB** +2
+> - **Level** 4 **PB** +2
 > ___
 > ***Devil's Sight.***
 > Magical darkness doesn't impede the imp's darkvision.
@@ -97,9 +103,9 @@ ___
 > The imp has advantage on saving throws against spells and other magical effects.
 >
 > ### Actions
-> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) slashing damage. 
+> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) Slashing damage. 
 >
-> ***Sting.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+> ***Sting.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) Piercing damage, and the target must make a DC 16 Constitution saving throw, taking 10 (3d6) Poison damage on a failed save, or half as much damage on a successful one. 
 >
 > ***Invisibility.***
 > The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
