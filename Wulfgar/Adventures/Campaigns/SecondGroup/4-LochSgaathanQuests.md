@@ -10,7 +10,7 @@ If the party awakens the men he will attempt to flee by scaling the walls but wi
 ***Rishu.***
 is a short man with light brown skin, narrow brown eyes, a shaved head and a long and narrow nose. He wears a strange plain green tunic with baggy beige pants that are wrapped at the shins. He carries a small leather bag, a quarterstaff, and a strange bottle of alcohol.
 
-Rishu is a prince of the kingdom of EASTERN_KINGDOM_NAME and a pen pal of an elvish sorcerer known as Sulyvhan of Irithyll. He has journeyed to the Boreal Forest in search of meeting his friend. 
+Rishu is a prince of the kingdom of Dulaan and a pen pal of an elvish sorcerer known as Sulyvhan of Irithyll. He has journeyed to the Boreal Forest in search of meeting his friend. 
 
 ___
 > ## Rishu
