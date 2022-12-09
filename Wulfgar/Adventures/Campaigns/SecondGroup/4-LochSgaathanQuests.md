@@ -238,6 +238,9 @@ After returning from the combat Seora opens the package to reveal a book on sorc
 
 \page
 
+## Canebri Quest
+After causing a disaster in the city's docks the city has increased the number of guards in the streets. The party has a rest day, after the previous events, but this rest comes to an end quickly after...
+
 ### Rest Day
 After the previous events the next day is a small resting point allowing the party to buy and sell items.
 
@@ -251,9 +254,9 @@ If a character decides to venture through the city he/she can find a brightly co
 | Item                                                            | Price  |
 |:----------------------------------------------------------------|:------:|
 | A teal cloak adorned with white thread birds mid flight.        | 600 gp |
-| A crudely made charm made of wale bone depicting a mermaid.     | 500 gp |
+| A crudely made charm made of wale bone depicting a mermaid.     |  50 gp |
 | A large silver ring with a oval red agate stone embossed on it. | 800 gp |
-|
+| A silver key with a small mirror on its base.                   | 150 gp |
 
 </div>
 
@@ -294,12 +297,17 @@ If all charges are consumed, you suffer the effects of the *true polymorph*, tra
 
 #### Ring of Sacrifice
 *Wondrous item (ring), very rare*
-___
+
 A large silver ring with a oval red agate stone embossed on it.
 
 ***Sacrificial Stone.***
 When you are reduced to 0 Hit Points or killed outright, you can drop to 1 hit point instead. The stone of the ring shatters. You can't use this item's feature again until you replace the rings stone with a new one.
 
+
+#### Mirror Key
+*Wondrous item (ring), common*
+
+A silver key with a small mirror on its base. A character proficient in History or a human from Hafexia can make a DC 15 Intelligence (Hisotry) check can discern that the key originated from Melfia.
 
 \page
 
