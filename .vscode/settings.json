@@ -10,8 +10,12 @@
         "counterspell",
         "Darkvision",
         "Dubhan",
+        "Durin",
+        "dwarven",
         "Eldunhall",
         "elven",
+        "Farron",
+        "Forossa",
         "forossan",
         "forossans",
         "Greataxe",
@@ -29,7 +33,9 @@
         "Longsword",
         "longswords",
         "metamagic",
+        "Minoru",
         "Multiattack",
+        "Ocelfia",
         "Oolacile",
         "Polymorpher",
         "Reithasg",
@@ -44,7 +50,8 @@
         "Sulyvhan",
         "Truesight",
         "Vinhime",
-        "Warhammer"
+        "Warhammer",
+        "Zullie"
     ],
     
     "homebrewery.enabled": true

@@ -5,7 +5,7 @@ Minoru is a silent and cold individual that seeks to fulfill the missions grante
 
 
 ### History
-Minoru was born to a poor familly on a village near Brinam. When she was a young adult Minoru fought in a skirmish near Farron keep and was mortally wounded and left for dead in the swamp.
+Minoru was born to a poor family on a village near Brinam. When she was a young adult Minoru fought in a skirmish near Farron keep and was mortally wounded and left for dead in the swamp.
 
 When all hope was lost she was found by a middle aged witch named Zullie that performed a ritual on Minoru to save her life. The ritual involved performing a surgery with frost troll flesh that caused her to become a powerful warrior with innate frost abilities but a cold and unfeeling heart.
 
@@ -14,7 +14,7 @@ When all hope was lost she was found by a middle aged witch named Zullie that pe
 The following are Minoru's Personality, Ideals, Bonds and Flaws:
 ___
 **Personality.**
-Minoru is a cold and calculating woman who seeks to fulfill her mission wherever, whenever, and however it should be done. In accordance to her mistress, Zuillie.
+Minoru is a cold and calculating woman who seeks to fulfill her mission wherever, whenever, and however it should be done. In accordance to her mistress, Zullie.
 ___
 **Ideals.**
 Minoru has sworn an oath to protect and serve Zullie.
