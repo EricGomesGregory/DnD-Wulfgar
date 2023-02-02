@@ -88,7 +88,7 @@ ___
 >*Medium humanoid(goliath), neutral evil*
 > ___
 > - **Armor Class** 16
-> - **Hit Points** 39 (4d12 + 8)
+> - **Hit Points** 49 (5d12 + 12)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -99,10 +99,10 @@ ___
 > - **Skills** Athletics +5, Intimidation +5 Perception +2
 > - **Senses** passive Perception 12
 > - **Languages** Elvish, *Common*
-> - **Level** 4 (Barbarian) **PB** +2
+> - **Level** 5 (Barbarian) **PB** +5
 > ___
 > ***Rage (1/day).*** 
-> The berserker can use a bonus action to gain the following benefirs, for up to 1 minute:
+> The berserker can use a bonus action to gain the following benefits, for up to 1 minute:
 > - The berserker has advantage on Strength checks and saving throws.
 > - When the berserker makes a Strength weapon attack it gains +2 to damage rolls.
 > - The berserker gains resistance to Bludgeoning, Piercing, and Slashing damage.
@@ -111,6 +111,8 @@ ___
 > At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 >
 > ### Actions
+> ***Multiattack.*** The Berserker makes two greataxe attacks.
+>
 > ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (1d12 + 4) Slashing damage.
 >
 > ***Greataxe (Raging).*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 12 (1d12 + 6) Slashing damage.
@@ -122,7 +124,7 @@ ___
 >*Medium humanoid(human), chaotic neutral*
 > ___
 > - **Armor Class** 14 (gambeson)
-> - **Hit Points** 10 (1d8 + 2)
+> - **Hit Points** 16 (2d8 + 4)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -132,7 +134,7 @@ ___
 > - **Skills** Athletics +4, Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 2
 > ___
 >
 > ### Actions
@@ -146,7 +148,7 @@ ___
 >*Medium humanoid(human), neutral evil*
 > ___
 > - **Armor Class** 15 (brigandine)
-> - **Hit Points** 12 (1d10 + 2)
+> - **Hit Points** 19 (2d10 + 4)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -157,7 +159,7 @@ ___
 > - **Skills** Athletics +5, Intimidation +5
 > - **Senses** passive Perception 10
 > - **Languages** Common
-> - **Level** 1
+> - **Level** 2
 > ___
 >
 > ### Actions

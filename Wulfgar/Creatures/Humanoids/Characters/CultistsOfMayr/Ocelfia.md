@@ -53,7 +53,7 @@ ___
 >
 > Cantrips (at will). *poison spray, prestidigitation, infestation*
 >
-> 2nd Level (2 slots). *charm person, comprehend languages, hellish rebuke (fire), shatter, suggestion*
+> 3nd Level (2 slots). *charm person, comprehend languages, hellish rebuke (fire), fireball, suggestion*
 >
 > ***Pact of the Chain.***
 > Ocelfia can cast the spell *find familiar* as a ritual to conjure Kyox.
@@ -69,6 +69,7 @@ ___
 > ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 4 (1d4 + 2) Slashing damage.
 >
 
+\page
 
 ## Kyox
 Kyox is an imp, spawn Mayr the Mother of Sin, he is a small humanoid creature with red skin, a slender body, a black feather like hair, a tail tipped with a scorpion stinger, and a white teardrop shaped face with owl like features.
