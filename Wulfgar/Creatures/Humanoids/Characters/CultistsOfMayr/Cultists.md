@@ -32,6 +32,8 @@ The Cultists table shows the name, age, height, kingdom of origin, and type of t
 
 </div>
 
+```
+```
 
 ### Commoners
 The commoners of the cult of Mayr wear dull tunics made of patches of fabric sown together.
@@ -54,13 +56,14 @@ Hugolina is a
 
 
 ### Berserker
-The only berserker of the cult of Mayr 
+The two berserkers of the cult of Mayr are a pair of goliaths 
 
 ### Guards
 
 
 ### Marauders
 
+\page
 ___
 > ## Commoners
 >*Medium humanoid(human), chaotic neutral*
@@ -78,11 +81,43 @@ ___
 > - **Languages** Common
 > - **Level** 1
 > ___
+> <br><br>
 >
 > ### Actions
-> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 (1d4 + 1) piercing damage. 
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +1 to hit, reach 5ft., one target. *Hit* 1 Bludgeoning damage.
+>
+> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 (1d4 + 1) piercing damage.
 
+```
+```
 
+___
+> ## Crowd of Commoners
+>*Large swarm of medium humanoid(human), chaotic neutral*
+> ___
+> - **Armor Class** 11
+> - **Hit Points** 24 (3d8)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 13 (+1) | 13 (+1) | 10 (+0) |  8 (-1) | 13 (+1) | 10 (+0) |
+>___
+> - **Skills** Survival +3
+> - **Senses** passive Perception 11
+> - **Languages** Common
+> - **Level** 1
+> ___
+> <br><br>
+>
+> ### Actions
+> ***Multiattack.*** The crowd of commoners make three attacks. Whenever the crowd looses 8 hit points it looses one attack. 
+>
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +1 to hit, reach 5ft., one target. *Hit* 1 Bludgeoning damage.
+>
+> ***Dagger.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 (1d4 + 1) Piercing damage.
+
+\page
 ___
 > ## Berserker
 >*Medium humanoid(goliath), neutral evil*
@@ -118,6 +153,8 @@ ___
 > ***Greataxe (Raging).*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 12 (1d12 + 6) Slashing damage.
 >
 
+```
+```
 
 ___
 > ## Guard
