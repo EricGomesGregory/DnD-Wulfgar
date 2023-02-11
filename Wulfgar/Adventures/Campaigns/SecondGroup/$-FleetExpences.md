@@ -1,12 +1,15 @@
 
 
 ##### Crew Cost
-| Member       | Now | After |
-|:-------------|:---:|:-----:|
-| Hywel        | 150 | 150   |
-| Dewi         | 200 | 200   |
-| Siani        | 500 | ?     |
-| Donovan      |     | ?     |
+| Member       | Now | After | Status   |
+|:-------------|:---:|:-----:|:--------:|
+| Hywel        | 150 | 150   |          |
+| Dewi         | 200 | 200   | Betrayer |
+| Siani        | 500 | ?     |          |
+| Donovan      |     | ?     |          |
+| Seora        |     |       |
+| Laila        |     |       |
+| Jabedhaia    |     |       |
 |*Total*       | 850 | ?     |
 
 \page

@@ -28,6 +28,8 @@ Carthus has the following flaws:
 - *Stake to the Heart.* If a piercing weapon made of wood is driven into Carthus's heart while Carthus is incapacitated in its resting place, Carthus is paralyzed until the stake is removed.
 - *Sunlight Hypersensitivity.* Carthus takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
+\page
+
 ___
 ___
 > ## Carthus

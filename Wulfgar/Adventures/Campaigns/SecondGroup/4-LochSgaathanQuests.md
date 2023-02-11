@@ -248,8 +248,6 @@ After the previous events the next day is a small resting point allowing the par
 #### Strange Store
 If a character decides to venture through the city he/she can find a brightly colored store with a wand and a hat for a sign. Within the character can find a well dressed men behind a wooden table with various items on it. He presents himself as Astor and asks the character what he desires.
 
-<div class='wide'>
-
 ##### Astor's Inventory
 | Item                                                            | Price  |
 |:----------------------------------------------------------------|:------:|
@@ -257,8 +255,6 @@ If a character decides to venture through the city he/she can find a brightly co
 | A crudely made charm made of wale bone depicting a mermaid.     |  50 gp |
 | A large silver ring with a oval red agate stone embossed on it. | 800 gp |
 | A silver key with a small mirror on its base.                   | 150 gp |
-
-</div>
 
 #### Sylph Cloak
 *Wondrous item (cloak), rare* (Attunement)
@@ -271,7 +267,8 @@ To attune to this item you must have at least 13 Dexterity and you can't wear an
 ***Sylph's Aid.***
 While you are falling you can use a reaction to slow your falling speed to 60 feet per round until the start of your next turn. If you land before the end of your turn, you taken no falling damage and can land on your feet, and the effect ends early.
 
-
+```
+```
 
 #### Mermaid Charm
 *Wondrous item (charm), very rare*
@@ -291,9 +288,6 @@ This item has 7 charges. Whenever you are underwater you can spend a charge to t
 - You can perform a enthralling song for up to 1 minute. Each creature in a 60 foot range that can hear the song must succeed on a Charisma saving throw or be Charmed by you. This feature DC = 8 + your Proficiency Bonus + your Charisma modifier.
 
 If all charges are consumed, you suffer the effects of the *true polymorph*, transforming you into a merfolk and the charm is destroyed. The spell can be broken if a *dispel magic* spell is successfully cast (DC 20).
-
-```
-```
 
 #### Ring of Sacrifice
 *Wondrous item (ring), very rare*
