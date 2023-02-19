@@ -9,10 +9,20 @@ On the main square of Dublin a man is shouting news regarding the city. Among th
 If the party talks to the herald he will direct them to the bank of BANK_NAME. There 
 
 
-#### THIEF_NAME
+#### THIEF
+THIEF is a averagely tall woman with short reddish-brown hair...
+
+When she was a child she used to be very boyish and would play mostly with Evor...
+
+- She and her family abandoned her village in order to escape her fathers debt.
+- During the trip her family was attacked near Dublin
+- She escaped to the city and became a street kid.
+- As she grew she became a skilled but poor thief, stealing to survive.
+- Recently she discoverd her has stolen a ring that has given her the power to have cat like agility.
+
 
 ___
-> ## THIEF_NAME
+> ## THIEF
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 13
