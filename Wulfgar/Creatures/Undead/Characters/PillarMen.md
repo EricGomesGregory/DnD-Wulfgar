@@ -45,6 +45,7 @@ ___
 >
 > ***Unarmed Strike.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 0 (1d8 + 5) magical Bludgeoning damage.
 >
+> ***Three Point Strike (Recharge 5-6).*** The PILLAR_MEN_MONK makes three unarmed strikes if 
 >
 
 \page

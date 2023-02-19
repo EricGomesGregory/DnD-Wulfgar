@@ -1,0 +1,56 @@
+# Dublin Quests
+___
+The following are the quest available in Dublin and its surrounding area.
+
+
+## Cat Like Thief
+On the main square of Dublin a man is shouting news regarding the city. Among the random news one catches the attention of the party: "The merchant's guild as well as the brewer's guild and the banker's guild offer a bounty of 300 gp to whom can capture alive the midnight thief!"
+
+If the party talks to the herald he will direct them to the bank of BANK_NAME. There 
+
+
+#### THIEF_NAME
+
+___
+> ## THIEF_NAME
+>*Medium humanoid(human), neutral*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 13 (3d8)
+> - **Speed** 30ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) | 11 (+0) |
+>___
+> - **Skills** *Athletics* +3, *Acrobatics* +7, *Stealth* +7, *Slight of Hand* +7
+> - **Senses** passive Perception 10
+> - **Languages** Common 
+> - **Level** 3 **PB** +2
+> ___
+>
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 2 (1d4) piercing damage.
+>
+
+
+#### Silvercat Ring
+*Wondrous item (ring), rare* (Attunement)
+___
+A small silver ring shaped like a cat circling the wearers finger, with a pair of moonstones for eyes.
+
+***Attunement Ritual.***
+To attune to this item you must put on the ring while under moonlight.
+
+***Nine Lives.***
+This item has up to 9 charges. While attuned to this item you have resistance to falling damage. If you take falling damage that would reduce your hit points to 0 or outright kill you, you instead you are reduced to 1 hit point and a charge is consumed.
+
+If all charges are consumed, you suffer the effects of the *true polymorph*, transforming you into a cat. The spell can be broken if the ring is destroyed, a *dispel magic* spell is successfully cast (DC 15) or you are killed in the cat form before the 1 hour mark.
+
+
+<div class='descriptive'>
+
+##### Silvercat Ring
+When awarding this item roll a d10, on a roll of 1 to 9 the ring has this many charges available; on a roll of 0 the party finds the ring besides a cat, the ring has 9 charges now.
+
+</div>
