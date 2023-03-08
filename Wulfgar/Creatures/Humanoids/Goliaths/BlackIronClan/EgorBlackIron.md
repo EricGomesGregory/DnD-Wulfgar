@@ -53,18 +53,18 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 17 (+3) | 10 (+0) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) |
+>| 20 (+5) | 10 (+0) | 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0) |
 >___
-> - **Saving Throws** Str +6, Con +6
-> - **Skills** Athletics +6, Perception +4, Intimidation +6, *Persuasion* +6
+> - **Saving Throws** Str +8, Con +7
+> - **Skills** Athletics +8, Perception +4, Intimidation +6, *Persuasion* +6
 > - **Senses** passive Perception 14
 > - **Languages** Common, Goliath
 > - **Level** 5 Fighter **PB** +3
 > ___
-> ***Action Surge.***
+> ***Action Surge (1/Rest).***
 > Egor makes an additional action.
 >
-> ***Second Wind.***
+> ***Second Wind (1/Rest).***
 > As a bonus action Egor regains 10 (1d10 + 5) hit points.
 >
 >
@@ -85,7 +85,7 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 20 (+5) | 20 (+5) | 16 (+3) | 10 (+0) | 12 (+1) | 10 (+0) |
+>| 20 (+5) | 20 (+5) | 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0) |
 >___
 > - **Saving Throws** Str +8, Dex +8, Con +6
 > - **Skills** Athletics +8, Perception +4, Intimidation +8, *Persuasion* +6

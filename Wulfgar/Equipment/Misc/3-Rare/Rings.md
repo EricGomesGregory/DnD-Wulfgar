@@ -32,13 +32,10 @@ While wielding a melee weapon you have +1 to attack and damage rolls.
 ___
 A small silver ring shaped like a cat circling the wearers finger, with a pair of moonstones for eyes.
 
-***Attunement Ritual.***
-To attune to this item you must put on the ring while under moonlight.
-
 ***Nine Lives.***
-This item has up to 9 charges. While attuned to this item you have resistance to falling damage. If you take falling damage that would reduce your hit points to 0 or outright kill you, you instead you are reduced to 1 hit point and a charge is consumed.
+This item has up to 9 charges. While attuned to this item you have resistance to falling damage. If you take damage that would reduce your hit points to 0 or outright kill you, you instead you are reduced to 1 hit point and a charge is consumed.
 
-If all charges are consumed, you suffer the effects of the *true polymorph*, transforming you into a cat. The spell can be broken if the ring is destroyed, a *dispel magic* spell is successfully cast (DC 15) or you are killed in the cat form before the 1 hour mark.
+If all charges are consumed, you are cursed into becoming a house cat but you maintain your Intelligence, Wisdom, and Charisma scores. The curse can only be broken with a *greater restoration* spell.
 
 
 <div class='descriptive'>
