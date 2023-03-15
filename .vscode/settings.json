@@ -18,6 +18,7 @@
         "dwarven",
         "Eldunhall",
         "elven",
+        "Ewan",
         "Farron",
         "Forossa",
         "forossan",
@@ -60,10 +61,13 @@
         "Tullich",
         "Vinhime",
         "Warhammer",
+        "Wlofcrown",
         "Zander",
         "Zullie"
     ],
     
-    "homebrewery.enabled": true
-    
+    "homebrewery.enabled": true,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.markEditorSelection": false
 }

@@ -3,12 +3,74 @@ ___
 The following are the quest available in Dublin and its surrounding area.
 
 
-## Cat-Like Thief
-On the main square of Dublin a man is shouting news regarding the city. Among the random news one catches the attention of the party: "The merchant's guild as well as the brewer's guild and the banker's guild offer a bounty of 300 gp to whom can capture alive the midnight thief!"
+## Life in Dublin
+The city of Dublin is a massive sprawling maze of cobblestone streets and stucco buildings. During the day the streets are full of merchants, travelers, workmen, and thieves, but from dusk til nightfall the taverns and inns are full of people drinking, feasting, and whoring their problems away.
 
-If the party talks to the herald he will direct them to the Bank of the Five Fingers, where they will be informed.
+### A Place to Live
+At first the party must find a inn to stay as a temporary solution, choosing between the cheeper but more dangerous eastern side inns or the pricier and safer western side inns.
+
+##### Inns by Region
+| Western     | Cost per Day | Eastern         | Cost per Day |
+|:------------|:------------:|:----------------|:------------:|
+| Pig's Foot  |  1sp -  1 gp | Twisted Jester  |   1gp - 10gp |
+| Horn Pipe   |  2sp -  5 sp | Laughing Dancer |   2gp - 13gp |
+| Crimson Fox |  5sp -  8 gp | Smoking Sage    |   5gp - 20gp |
+| Black Sheep |  7sp -  3 gp | Wolfcrown       |  16gp - 80gp |
+| Lone Tower  |  1gp -  3 gp |                 |              |
 
 
+#### Pig's Foot
+The Pig's Foot inn is a small house deep within the western side of the city, within it the party can find a narrow room with a small bar and a staircase at the end. Going up, to the second floor, the party can find a corridor with five doors for the inn's rooms.
+
+The inn is manned by an old couple known as Mr (Drew) and Ms (Annie) Mcmillan, the couple are simple people that don't offer much beyond a basic bed and a simple supe.
+
+#### Horn Pipe
+The Horn Pipe tavern is a one story building with a large main hall full of tables and a small stage on the end of the room, through a door the party can enter the communal bedroom of the tavern.
+
+The Horn Pipe is manned by the FAMILY_NAME...
+
+
+#### Crimson Fox
+The Crimson Fox is a large house located in the red-light district of the western side of Dublin. The establishment in reality is much more of a whorehouse then a proper inn.
+
+
+#### Black Sheep
+The Black Sheep is a underground inn located under a barber's shop and herbalist house, it is a favorite place for mercenaries and bandits laying low.
+
+The inn is manned by NAME, a healer turned barman that patches wounded patrons for a price.
+
+
+#### Lone Tower
+The Lone Tower is a small tower located outside Dublin, one hour from the west gate. It is a lonely stone tower with a crooked stable haphazardly attached to the tower.
+
+Within it the party can find a very simple round table with eight chairs and a kitchen in the back as well as a staircase that leads to the various rooms on the tower floors. Each room can accommodate around 3 people, except for the top two that can only accommodate 2 people.
+
+The owner, a madmen named MADMEN_NAME, insists that the Lone Tower is the best inn in all of Dublin.
+
+
+#### Twisted Jester
+The Twisted Jester is the most visited inn in the eastern side of Dublin, within it the party can find people from almost all levels of Forossan society, it is one of the few inns with a dedicated crew of bards playing every night.
+
+The Twisted Jester is manned by a crew of seven, including its owner Elan SURNAME a bard...
+
+
+#### Laughing Dancer
+The Laughing Dancer, located in the red-light district of the eastern side of Dublin, is a luxury whorehouse that doubles as a inn for more adventurous guests.
+
+The whorehouse is owned by the mysterious Mistress Prospera and is manned by her girls and thugs...
+
+
+#### Smoking Sage
+The Smking Sage is a large tavern...
+
+#### Wolfcrown
+The wolfcrown inn is a small walled palace in the outskirts of the eastern side of Dublin with a gated entrance that is constantly guarded by two lightly armored guards. Characters can enter the inn if they are wearing fine clothes.
+
+Within the walls the party can find a well kept garden with a small manor at its center, within it the party can find a lavish hall and a large staircase that leads to the guestrooms in the second floor.
+
+The inn is manned by a dozen men and women, that do all from cooking and cleaning and even "entertaining" guests, in addition the host of the inn is a man that calls himself Ewan Wlofcrown.
+
+\page
 
 ## Game of Cat and Mouse
 This is a parallel adventure to Cat-Like Thief dedicated to the character of Evor. In which a childhood friend of Evor, Regan, has sighted him in the city and attempts to contact him using thieve's cant. She then starts a chain of clues that eventually will lead him to her hiding place.
@@ -27,12 +89,13 @@ She has two charges remaining but she is unaware of the number of charges she ha
 
 
 ### First Contact
-As the party is walking on the streets of Dublin Evor hears a strange whistling that reminds him of home, as he searches for the origin of the whistling he catches the green eyes of a woman with short red hair that leaves him uncomfortable, she disappears into a crowd. Any attempt to find her will fail but if he searches for her will grant him the first clue, a joker card with "after dusk" written on it.
+As the party is walking on the streets of Dublin Evor hears a strange whistling that reminds him of home, as he searches for the origin of the whistling he catches the green eyes of a person that made him uncomfortable, the eyes then disappears into a crowd. Any attempt to find it will fail but the search will grant him the first clue, a joker card with "after dusk" written on it.
 
 The clue indicates him to go to the Twisted Jester tavern after dusk.
 
 
 ### Tavern of Temptation
+The Twisted Jester is a large tavern
 
 
 ___
