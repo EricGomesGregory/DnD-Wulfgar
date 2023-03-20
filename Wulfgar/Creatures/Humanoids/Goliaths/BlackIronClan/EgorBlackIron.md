@@ -1,5 +1,5 @@
 ## Egor, Black Iron
-DESCRIPTION. Korshunov
+DESCRIPTION. Korsh
 
 ### History
 Egor began his life as a slave child, taken from his family in Vrostia, and sent to Melfia to do hard physical work for a noble family. With a small 
