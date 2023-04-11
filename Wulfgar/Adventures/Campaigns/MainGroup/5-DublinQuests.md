@@ -274,7 +274,7 @@ ___
 >*Medium humanoid(human), neutral*
 > ___
 > - **Armor Class** 15
-> - **Hit Points** 13 (3d8)
+> - **Hit Points** 13 (5d8)
 > - **Speed** 30ft., Climb 20 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
