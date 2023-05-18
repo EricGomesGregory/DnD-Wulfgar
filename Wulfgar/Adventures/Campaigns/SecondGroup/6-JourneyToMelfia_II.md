@@ -6,7 +6,9 @@ The capital city of Forossa, located in the crossing between the Esk and Fridhor
 The Inner City, located on a island on the crossing between the two rivers, is a walled section of the city mostly inhabited by the cities nobles and wealthier merchants, as a result the Inner City is unaccessible to the majority of the population.
 
 #### Stirling Keep
-At the center of the island resides the Stirling keep, DESCRIPTION.
+At the center of the island resides the Stirling keep, a stone brick castle with seven towers.
+
+
 
 \page
 
@@ -29,13 +31,15 @@ The Outer City is split into three areas with varying levels of wealth. The Esk 
 #### House of Tyr
 The House of Tyr is a three story brick building that occupies an entire block. The first floor has a saloon and bar as well as the staff quarters and the owner's home, while the two floors above are dedicated to a common bedroom on the second floor and individual rooms for the third floor.
 
-The inn is operated by the Tyr family and its servants...
+The inn is operated by the Tyr family and its servants:
 
-***Joseph Tyr.*** is a 6' tall muscular man in his early 60's...
+***Joseph Tyr.*** is a 6' tall muscular man in his early 60's, he wears simple but well kept clothes.
+
+***Anabel Tyr.*** is a 5'4'' woman in her late 50's that is married to Joseph since her early 20's.
 
 
 #### Ugly Horse
-The Leaping Horse is a DESCRIPTION.
+DESCRIPTION.
 
 The inn is operated by the...
 
@@ -47,9 +51,9 @@ The inn is operated by the...
 
 
 #### Leaping Horse
-DESCRIPTION.
+The Leaping Horse is a small but well built two story brick building near the Esk river. The first floor has a small saloon with a bar and a common sleeping quarter, while on the second floor are couples rooms.
 
-The inn is operated by the...
+The inn is operated by the FAMILY_NAME
 
 
 #### Red Gal
@@ -130,11 +134,14 @@ ___
 ***FOROSSAN_KNIGHT.*** DESCRIPTION.
 
 ___
-***FOROSSAN_ARCHER.*** DESCRIPTION.
+***FOROSSAN_ARCHER.*** is a 5'10'' man with short brown hair, dark green eyes and a scar on his forehead. He wears a dark green gambeson, leather pants and a kettle helmet, he wields longbow.
+
+He is a reserved man...
 
 ___
-***FOROSSAN_SPEARMEN.*** DESCRIPTION. (WOMAN)
+***FOROSSAN_SPEARMEN.*** is a 5'5'' woman with short red hair and a brown left eye and a green brown eye. But this face is a rare sight as she mostly maintians herself under a set of half plate, she wields a large pike.
 
+She is a simple woman with not many goals...
 
 ___
 ***ASTORAN_MERCENARY.*** DESCRIPTION.
@@ -227,9 +234,25 @@ The voyage through the forossan windlands is the riskiest part as the party guid
 As the terrain switches from the windy plains to the mountains of the Stormlands the party must now climb the mountain range. Depending on check the party will have a negative or neutral encounter.
 
 ##### Stormlands Encounters
-| 1d6 | Negative Encounter                     | Neutral Encounters       |
-|:---:|:---------------------------------------|:-------------------------|
-|  1  | Heavy rain (DC 15 Con save 1 Exhaustion) |  |
-| 2-3 | ? |  |
-| 4-5 | ? |  |
-|  6  | ? |  |
+| 1d8 | Encounter                                   |                
+|:---:|:--------------------------------------------|
+|  1  | Rock Slide (DC 15 Dex save 2d6 Bludgeoning) |
+| 2-3 | A damp cave full of bats                    |
+| 4-5 | Heavy rain (DC 15 Con save 1 Exhaustion)    |
+| 6-7 | 1d4 **goats**                               |
+|  8  |  A broken and toppled wagon                 |
+
+___
+The party finally reaches the outskirts of the city of Melfia...
+
+\page
+
+## Melfia
+The city of Melfia, located atop the HAFEXIA_MOUNTAIN_RANGE mountain, is a small walled city composed of two sections. The inner city, where the 
+
+### Inner City
+DESCRIPTION.
+
+#### NAME Academy of Astronomy
+DESCRIPTION.
+
