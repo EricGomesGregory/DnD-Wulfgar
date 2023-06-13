@@ -41,7 +41,7 @@ The inn is operated by the Tyr family and its servants:
 #### Ugly Horse
 DESCRIPTION.
 
-The inn is operated by the...
+The inn is operated by **Edson**, son of Edsen.
 
 
 #### Green Goose
@@ -110,49 +110,49 @@ The Martial Quarters are a walled AREA in the middle of the North Freedhorn side
 The outskirts of Ramsgate is a small but growing slum on the outside of the city walls. Beyond the slums, Ramsgate is surrounded by various farms on the shores of the Esk and Freedhorn rivers.
 
 #### NAME Army Camp
-The NAME Army Camp is a large camp surrounded by temporary wooden walls, one mile from the east gate of Ramsgate, where all members of the NAME Army are congregating before the march to TOWN_NAME.
+The NAME Army Camp is a large camp surrounded by temporary wooden walls, one mile from the east gate of Ramsgate, where all members of the NAME Army are congregating before the march to Lokeren.
 ___
 The force is composed of 50 forossan **knights**, 250 forossan **foot soldiers**, 100 forossan **archers**, and 133 **mercenaries**.
 
 \page
 
-## March to TOWN_NAME
+## March to Lokeren
 If the party decides to join the NAME Army they will be assigned either to a forossan camp or to the mercenary camp, depending on the decisions taken in Ramsgate.
 
-At the camp the party will meet a handful of characters that will be involved in the march to the town of TOWN_NAME. The march will be a quick sequence.
+At the camp the party will meet a handful of characters that will be involved in the march to the town of Lokeren. The march will be a quick sequence.
 ___
-In the town of TOWN_NAME the army will clash with the "barbarian horde" where a battle will ensue.
+In the town of Lokeren the army will clash with the "barbarian horde" where a battle will ensue.
 
 ### At the Camp
 At the ARMY camp the party will either be placed in the forossan camp or the mercenary camp, where they will meet the following characters.
 ___
-***FOROSSAN_CAPTAIN_NAME.*** is a 5'10'' man with short reddish-brown hair and beard, lightgreen eyes, and pale skin. He dawns a polished plate armor with a black ram head emblazoned on his cuirass, and he wields a faberge greatsword.
+***Fionn MacGovern.*** is a 5'10'' man with short reddish-brown hair and beard, lightgreen eyes, and pale skin. He dawns a polished plate armor with a black ram head emblazoned on his cuirass, and he wields a faberge greatsword.
 
 He is the nephew of the lord of Rostov and is leading the army to avenge his uncle's defeat and smash this barbaric rebellion.
 
 ___
-***FOROSSAN_KNIGHT.*** DESCRIPTION.
+***Owen O'Den.*** DESCRIPTION.
 
 ___
-***FOROSSAN_ARCHER.*** is a 5'10'' man with short brown hair, dark green eyes and a scar on his forehead. He wears a dark green gambeson, leather pants and a kettle helmet, he wields longbow.
+***Finn.*** is a 5'10'' man with short brown hair, dark green eyes and a scar on his forehead. He wears a dark green gambeson, leather pants and a kettle helmet, he wields longbow.
 
 He is a reserved man...
 
 ___
-***FOROSSAN_SPEARMEN.*** is a 5'5'' woman with short red hair and a brown left eye and a green brown eye. But this face is a rare sight as she mostly maintians herself under a set of half plate, she wields a large pike.
+***Lexi.*** is a 5'5'' woman with short red hair and a brown left eye and a green brown eye. But this face is a rare sight as she mostly maintians herself under a set of half plate, she wields a large pike.
 
 She is a simple woman with not many goals...
 
 ___
-***ASTORAN_MERCENARY.*** DESCRIPTION.
+***Romulo.*** DESCRIPTION.
 
 ___
-***HAFEXIAN_HEX_BLADE.*** is a 5'6'' tall man with long black hair, pale skin, and a left brown eye and a green right eye. He wears a old and beat up lamellar armor devoid of any special symbol, but he wields a strange two handed sword with a curved blade and a circular guard.
+***Mojmir.*** is a 5'6'' tall man with long black hair, pale skin, and a left brown eye and a green right eye. He wears a old and beat up lamellar armor devoid of any special symbol, but he wields a strange two handed sword with a curved blade and a circular guard.
 
 He is a hafexian charlatan and thief that has a strangely magical relationship with the strange sword he once stole from a adernian merchant's cart.
 
 ___
-***FOROSSAN_SCOUT.*** is a 5' tall woman with short messy blackish-red hair, brown eyes, and pale skin. She wears a plain beige gambeson with simple metal plates laced to the arms and chest, she wields a rapier and a parrying dagger.
+***Liliana.*** is a 5' tall woman with short messy blackish-red hair, brown eyes, and pale skin. She wears a plain beige gambeson with simple metal plates laced to the arms and chest, she wields a rapier and a parrying dagger.
 
 She has joined the army as a mercenary scout to have an adventure...
 
@@ -161,8 +161,8 @@ She has joined the army as a mercenary scout to have an adventure...
 As the army marches...
 
 
-### Battle of TOWN_NAME
-The battle of TOWN_NAME is a counter siege where the NAME Army reaches the walled town as it is being sieged by the "barbaric horde".
+### Battle of Lokeren
+The battle of Lokeren is a counter siege where the NAME Army reaches the walled town as it is being sieged by the "barbaric horde".
 
 After a short skirmish the attacking force retreats north...
 
@@ -181,17 +181,17 @@ After Gherman sends a latter to his friend, a advisor to the king, the party is 
 
 The party is then escorted to the inner city, where they are treated to barbers,... Finally they are directed to the Stirling Keep, where they will talk with the king and its advisors.
 ___
-***FOROSSAN_KING_NAME.*** is a large man with long red hair and beard, dark green eyes, and a hooked nose. He wears fine black linen clothes adorned with gold-thread rams and a golden crown.
+***Logan McSterlin.*** is a large man with long red hair and beard, dark green eyes, and a hooked nose. He wears fine black linen clothes adorned with gold-thread rams and a golden crown.
 
 PERSONALITY.
 
 ___
-***FOROSSAN_SCOUT_MASTER.*** is a 5'7'' tall old man with short white hair and beard, blind of his left eye, and a sun burnt wrinkled face. He wears a plain green gambeson... and he wields a longbow and carries a hand crossbow.
+***Niel, the Hunter.*** is a 5'7'' tall old man with short white hair and beard, blind of his left eye, and a sun burnt wrinkled face. He wears a plain green gambeson... and he wields a longbow and carries a hand crossbow.
 
 PERSONALITY.
 
 ___
-> ## FOROSSAN_SCOUT_MASTER
+> ## Niel
 >*Medium humanoid (human), lawful neutral*
 > ___
 > - **Armor Class** 15 (gambeson)

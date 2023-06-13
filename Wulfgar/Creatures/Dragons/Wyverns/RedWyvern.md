@@ -66,7 +66,15 @@ ___
 >
 >
 > ### Reaction
-> After taking an attack from behind the wyvern can make a tail attack.
+> After taking damage from a melee weapon attack the wyvern can make a tail attack.
 >
 > ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 11 (2d6 + 4) Bludgeoning damage. And the target must succeed a DC 16 Strength saving throw or be knocked prone.
+>
+>
+> ### Legendary Actions
+> The adult wyvern can take 1 legendary action, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The adult wyvern regains spent legendary actions at the start of their turn.
+>
+> ***Detect.*** The adult wyvern makes a Wisdom (Perception) check.
+>
+> ***CLaw.*** The adult wyvern makes a claw attack.
 >
