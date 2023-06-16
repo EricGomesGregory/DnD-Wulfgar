@@ -245,14 +245,4 @@ As the terrain switches from the windy plains to the mountains of the Stormlands
 ___
 The party finally reaches the outskirts of the city of Melfia...
 
-\page
-
-## Melfia
-The city of Melfia, located atop the HAFEXIA_MOUNTAIN_RANGE mountain, is a small walled city composed of two sections. The inner city, where the 
-
-### Inner City
-DESCRIPTION.
-
-#### NAME Academy of Astronomy
-DESCRIPTION.
 
