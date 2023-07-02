@@ -59,7 +59,7 @@ In addition to the inns the city of Londor has the following notable common buil
 ### Ceárta
 The ceárta is a small brick building, located near the west bank. It is the town's main forge and is responsible for crafting most if not all of the tools and weapons of the city.
 
-The forge is operated by **Gambion** a tall men in his early 30's with short black hair and relatively tanned skin, as well as his apprentices.
+The forge is operated by **Gambino** a tall men in his early 30's with short black hair and relatively tanned skin, as well as his apprentices.
 
 
 ### Lubdhi's Perfumery
@@ -153,16 +153,13 @@ Risteárd Bjorkin and his advisors are desperate but don't wish to demonstrate t
 
 During the audience the party will be informed of the dragon's attack and will be demanded to kill the dragon in order to be allowed to stay in Londor. The only clue that the lord's council has is that smoke was sighted a mile north-east of the city a day before the attack.
 
-
-### Dragon's Cave
-The cave is a wide 
-
+___
 ___
 > ## Adult Red Wyvern
 >*Large dragon, unaligned*
 > ___
-> - **Armor Class** 15 (Natural Armor)
-> - **Hit Points** 118 (12d10 + 48) (Damage Threshold 4)
+> - **Armor Class** 18 (Natural Armor)
+> - **Hit Points** 118 (12d10 + 48) (Damage Threshold 8)
 > - **Speed** 20 ft., fly 80 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
