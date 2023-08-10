@@ -44,7 +44,7 @@ ___
 >
 > - Cantrips (at will): *friends, light, mage hand, message*
 >
-> - 1st level: *charm person, comprehand languages, disguise self*
+> - 1st level: *charm person, comprehend languages, disguise self*
 >
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 6 (1d8 + 2) slashing damage. 
