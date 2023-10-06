@@ -1,27 +1,29 @@
-## Nammu, the Obsidian Sphinx
-Nammu is a massive creature with the body of a lioness, the face of a woman, and the wings of a hawk. She is black as obsidian, her eyes are like the night sky, and her body is adorned with ancient jewelry made of gold and inlaid with precious stones.
-
-Nammu is a ancestral agent of causality, gifting patronage to some individuals in order to influence the destiny of the world.
-
-### History
-CHARACTER_HISTORY.
-
-### Characteristics
-The following are Nammu's characteristics such as his personality, ideals, bonds, and flaws.
+# Crossroads of Destiny
 ___
-***Personality.***
-Nammu is a distant and almost unknowable creature, focused on her goals above all else.
-___
-***Goals.***
-Nammu has two goals, she wishes to bring the union of the astral and real worlds so it can regain its material form. But first she seeks to weaken the strength of other creatures before merging the astral and real worlds.
-___
-***Bonds.***
-Nammu has a week relation with her warlocks, seeing them as tools to further her goals.
+After finishing off the malformed beholder, the party finds themselves divided, either within the castle's basement (or hanging over it) or within the silent keep.
 
-She has a strong connection to the primordial deity of the void Qmn.
-___
-***Flaws.***
-Nammu's distance to her warlocks and her self centered nature causes her to neglect the wishes and desires of her servants and leaving them feeling unheard and unanswered.
+After exiting the castle the party can return to the city of Melfia...
+
+
+## Silent Castle
+At the now silent Himmelsspeer, the party can explore the castle's basement and remaining rooms. With successful Intelligence (Investigation) or Wisdom (Perception) checks the party can find some of the items in the Castle Loot Table.
+
+<div class='wide'>
+
+##### Castle Loot Table
+| 1d8 | Basement Loot                     | Castle Loot                   |
+|:---:|:----------------------------------|:------------------------------|
+|  1  | Crates and Crates of rotted grain | An old suit of plate armor    |
+| 2-3 | An old suit of plate armor        | Books on Melfian History      |
+| 4-5 | Old maps of the vrostian region   | A broken ornate flute         |
+| 6-7 | A broken **ultra heavy crossbow** | A small chest with 2d12+20 pg |
+|  8  | A strange tome under a shelf      | Books on arcane knowledge     |
+
+</div>
+
+## Night of Calling
+At the same night Nammu calls for saladin to fulfill his
+
 
 \page
 

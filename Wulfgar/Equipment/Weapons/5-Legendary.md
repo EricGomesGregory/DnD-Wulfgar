@@ -25,10 +25,10 @@ The DC for these attacks is equal to 8 + your Intelligence modifier + your Profi
 *Weapon (warhammer), legendary* (Attunement)
 
 ***Attunement.***
-To attune to this weapon you must have at least 17 Wisdom and be proficient in blacksmithing. Otherwise it performs like a common warhammer.
+To attune to this weapon you must have at least 17 Wisdom and be proficient in blacksmithing tools. Otherwise it performs like a common warhammer.
 
 ***Magic Weapon.***
 This weapon deals magical bludgeoning damage.
 
 ***Soul of Creation.***
-When attempting a blacksmithing check you can treat a d20 roll of 9 or lower as a 10.
+When attempting a blacksmithing check you can treat a d20 roll of 9 or lower as a 10. In addition when crafting items via
