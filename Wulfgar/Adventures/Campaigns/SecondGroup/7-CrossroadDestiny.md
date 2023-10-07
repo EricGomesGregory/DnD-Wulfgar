@@ -21,6 +21,15 @@ At the now silent Himmelsspeer, the party can explore the castle's basement and 
 
 </div>
 
+#### Ultra Heavy Crossbow
+*Weapon (heavy crossbow), rare*
+
+| Damage       | Range   | Properties                |
+|:-------------|:-------:|:--------------------------|
+| 2d6 Piercing | 100/400 | Reload, Range, Two-handed |
+
+
+
 ## Night of Calling
 At the same night Nammu calls for saladin to fulfill his
 

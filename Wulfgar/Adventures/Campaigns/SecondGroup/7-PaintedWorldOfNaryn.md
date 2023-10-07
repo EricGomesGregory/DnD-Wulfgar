@@ -106,7 +106,7 @@ The rotting village is a small assortment of wooden shacks surrounding an old st
 #### Smith's House
 The smith's house is a simple stone brick building 
 
-At the smith's house the party can find a strange bloated humanoid with rotting flesh known as ELVEN_BLACKSMITH_NAME
+At the smith's house the party can find a strange bloated humanoid with rotting flesh known as Sanev
 
 #### Longhouse
 The longhouse is a huge upside down longship that was transformed into a huge house. Currently the building is dilapidated with its wood rotting and blighted vines taking over the base of the building.
