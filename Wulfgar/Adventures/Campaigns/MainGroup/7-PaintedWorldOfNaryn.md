@@ -96,47 +96,64 @@ Within the smithy the party can find the following characters.
 Durgal is brash but lovable simulacrum of an elf, he was created by Ardghal as a consequence of drawing a village on a hill. Recently he has started to *Rot* on his left ankle but he has told no one.
 
 
-#### TAVERN
-TAVERN_DESCRIPTION.
+#### Fancy Snowman
+The Fancy Snowman is a large log building with a thatched roof across the street of the Longhouse. Within it the party can find a cozy tavern with five round tables and a bar and the following characters:
 
-***BARKEEP_FEMALE_NAME.*** DESCRIPTION.
-
-
-#### LONGHOUSE
-LONGHOUSE_DESCRIPTION.
-
-***ELDER_MALE_NAME.*** DESCRIPTION.
-
-***ELDER_FEMALE_NAME.*** DESCRIPTION.
+***Briar Alekin.*** is a 5'8'' tall chubby elven woman with a freckled face and long brownish gold hair. She wears simple commoner clothes...
 
 
-#### MARKET
-The MARKET is a small wooden house built around a large oval rock with a thatched roof, on the front the store has a wooden board with the drawing of a headless chicken.
+#### Longhouse
+The Longhouse is a huge building built over a huge upside down longship. Within the building the party can find a long table in the middle with a elevated stone platform 
 
-Within the MARKET the party can find the following characters:
+***Rhul.*** is a 6'1'' tal simulacrum of an elven men in his late 60's with a stern and wrinkled face. He wears a regal and ornate tunic with gold thread adornments and a brown bear fur coat over it.
 
-***Lauritz Sørgaard.*** is a 5'4'' tall androgynous simulacrum satyr with curly brown hair, a pair of black ram horns, reddish-brown eyes and a pair of brown ram lags. HE/SHE wears a green tunic under a beige coat.
+***Iku.*** is a 5'10'' tall simulacrum of an elven woman in her early 60's with a kind but wrinkled face. She wears a ornate dress with gold thread adornments and a cream dear fur coat over it.
+
+
+#### Twin Swans
+The Twin Swans is a small wooden house built around a large oval rock with a thatched roof, on the front the store has a wooden board with the drawing of a headless chicken.
+
+Within the Twin Swans the party can find the following characters:
+
+***Lauritz Sørgaard.*** is a 5'4'' tall androgynous simulacrum satyr with curly brown hair, a pair of black ram horns, reddish-brown eyes and a pair of brown ram lags. He wears a green tunic under a beige coat and carries a long.
 
 Lauritz is a reserved individual with a vast knowledge of this world
 
-***Linette Sørgaard.*** is a 5'4'' tall androgynous simulacrum satyr with curly brown hair, a pair of black ram horns, reddish-brown eyes and a pair of brown ram lags. HE/SHE wears a green tunic under a beige coat.
+***Linette Sørgaard.*** is a 5'4'' tall androgynous simulacrum satyr with curly brown hair, a pair of black ram horns, reddish-brown eyes and a pair of brown ram lags. She wears a green tunic under a beige coat.
 
 
 
 
-#### TEMPLE
-TEMPLE_DESCRIPTION.
+#### Temple of the Caretaker
+The Temple of the Caretaker is a large tone spire in the center of town made of stone bricks...
 
-***ELDER_PRIEST_NAME.*** DESCRIPTION.
+Within the temple the party can find a large statue of a faceless woman caring a baby.
 
+***Ikaron.*** is a 7'02'' tall slender humanoid with light brown elk legs, goatish face and a pair of dark-green goat eyes. He wears a large beige tunic adorned in gold thread vines and leaves.
 
-#### HOUSE
-HOUSE_DESCRIPTION.
-
-***RESIDENT_NAME.*** DESCRIPTION.
+Ikaron is a 10th-level **cleric**... 
 
 
-#### HOUSE
-HOUSE_DESCRIPTION.
+#### Dwarven House
+The Dwarven House is a small stone brick building built into the city's wall. Within the party can find:
 
-***RESIDENT_NAME.*** DESCRIPTION.
+***Durindal, the clan-less.*** is a 5' tall beardless dwarf with long braided black hair that wears a long fur coat made of patches of fur from different animals and a large brimmed dark blue hat.
+
+Durindal was one an Arrynsen and advisor of NAME Saldrisen but revoked his own name after he aided the Saldrisen to escape the battlefield with the elves in order to help Ardghal Elyrsen to forge a mirror into this painted world.
+
+Currently he is a 5th-level **Wizard**...
+
+##### Unlikely Friendship
+The 17th prince of the elven empire Ardghal Elyrsen and the hair of the Saldrin name met at first as enemies on the battlefield of the unconquered plains.
+
+But after meeting properly to discuss a winter's truce they discovered a unexpected respect to each other as both were master artisans in their own fields.
+___
+During the truce the two met in secret to discuss an end to the unnecessary combat, away from the ears of the men around them. During this meetings NAME learnt of the life of Ardghal and decided to aid him in his desire to be free of the elven world.
+
+At the first battle after the winter, NAME had his advisor Durindal turn them both invisible and arranged a body double to be slain by Ardghal's Silver Moon Knights in order to free the dwarves of the human's battlefield.
+
+Him, his advisor, and Ardghal ventured north to the land of Vrostia where they met a young and deformed giant named GIANT_NAME and found a strange pigment that spewed from the ground.
+___
+With this pigment in hands the four were spirited into the Irithyll keep by the silver moon knights and began their work, Ardghal painted a world for Naryn while NAME forged a silver mirror and embedded a shard on the painting.
+
+But they were caught at the last moment and in a moment of desperation NAME used his own hammer to finish the mirror but paid with his own soul and hammer instead.
