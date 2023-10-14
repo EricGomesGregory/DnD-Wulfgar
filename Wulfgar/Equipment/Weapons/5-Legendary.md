@@ -1,6 +1,8 @@
 ## Legendary
 The following are legendary weapons of the wolrd of Wulfgar...
 
+### Moonlight Greatsword
+
 
 #### Moonlight Greatsword
 *Weapon (greatsword), legendary* (Attunement)
@@ -20,8 +22,9 @@ This weapon has a number of charges equal to your Intelligence modifier (minimum
 The DC for these attacks is equal to 8 + your Intelligence modifier + your Proficiency Bonus. You recover all spent charges at the end of a long rest.
 
 
+### Skirn
 
-#### SALADIN_WARHAMMER_NAME
+#### Skirn
 *Weapon (warhammer), legendary* (Attunement)
 
 ***Attunement.***
@@ -31,4 +34,7 @@ To attune to this weapon you must have at least 17 Wisdom and be proficient in b
 This weapon deals magical bludgeoning damage.
 
 ***Soul of Creation.***
-When attempting a blacksmithing check you can treat a d20 roll of 9 or lower as a 10. In addition when crafting items via
+When attempting a blacksmithing check you can treat a d20 roll of 9 or lower as a 10. In addition when crafting items with this hammer.
+
+***Innate Spellcasting.***
+Skirn has the innate ability to cast magic (spell save DC 19, +11 to hit with spell attacks). It can innately cast Stone Shape and Wall of Stone once per long rest each, requiring no material components.

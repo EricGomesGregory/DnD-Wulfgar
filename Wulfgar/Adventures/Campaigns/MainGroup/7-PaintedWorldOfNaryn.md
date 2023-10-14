@@ -139,7 +139,7 @@ The Dwarven House is a small stone brick building built into the city's wall. Wi
 
 ***Durindal, the clan-less.*** is a 5' tall beardless dwarf with long braided black hair that wears a long fur coat made of patches of fur from different animals and a large brimmed dark blue hat.
 
-Durindal was one an Arrynsen and advisor of NAME Saldrisen but revoked his own name after he aided the Saldrisen to escape the battlefield with the elves in order to help Ardghal Elyrsen to forge a mirror into this painted world.
+Durindal was one an Arrynsen and advisor of Justein Saldrisen but revoked his own name after he aided the Saldrisen to escape the battlefield with the elves in order to help Ardghal Elyrsen to forge a mirror into this painted world.
 
 Currently he is a 5th-level **Wizard**...
 
@@ -148,12 +148,12 @@ The 17th prince of the elven empire Ardghal Elyrsen and the hair of the Saldrin 
 
 But after meeting properly to discuss a winter's truce they discovered a unexpected respect to each other as both were master artisans in their own fields.
 ___
-During the truce the two met in secret to discuss an end to the unnecessary combat, away from the ears of the men around them. During this meetings NAME learnt of the life of Ardghal and decided to aid him in his desire to be free of the elven world.
+During the truce the two met in secret to discuss an end to the unnecessary combat, away from the ears of the men around them. During this meetings Justein learnt of the life of Ardghal and decided to aid him in his desire to be free of the elven world.
 
-At the first battle after the winter, NAME had his advisor Durindal turn them both invisible and arranged a body double to be slain by Ardghal's Silver Moon Knights in order to free the dwarves of the human's battlefield.
+At the first battle after the winter, Justein had his advisor Durindal turn them both invisible and arranged a body double to be slain by Ardghal's Silver Moon Knights in order to free the dwarves of the human's battlefield.
 
-Him, his advisor, and Ardghal ventured north to the land of Vrostia where they met a young and deformed giant named GIANT_NAME and found a strange pigment that spewed from the ground.
+Him, his advisor, and Ardghal ventured north to the land of Vrostia where they met a young and deformed giant named Radik and found a strange pigment that spewed from the ground.
 ___
-With this pigment in hands the four were spirited into the Irithyll keep by the silver moon knights and began their work, Ardghal painted a world for Naryn while NAME forged a silver mirror and embedded a shard on the painting.
+With this pigment in hands the four were spirited into the Irithyll keep by the silver moon knights and began their work, Ardghal painted a world for Naryn while Justein forged a silver mirror and embedded a shard on the painting.
 
-But they were caught at the last moment and in a moment of desperation NAME used his own hammer to finish the mirror but paid with his own soul and hammer instead.
+But they were caught at the last moment and in a moment of desperation Justein used his own hammer to finish the mirror but paid with his own soul and hammer instead.
