@@ -44,7 +44,7 @@ ___
 ***Yeti.*** are large gorilla-like creatures with long white fur, greyish blue skin and light-blue eyes
 
 ___
-***CHARACTER_NAME.*** is...
+***Oriana.*** is...
 
 ___
 > ## Yeti
@@ -157,3 +157,32 @@ ___
 With this pigment in hands the four were spirited into the Irithyll keep by the silver moon knights and began their work, Ardghal painted a world for Naryn while Justein forged a silver mirror and embedded a shard on the painting.
 
 But they were caught at the last moment and in a moment of desperation Justein used his own hammer to finish the mirror but paid with his own soul and hammer instead.
+
+\page
+
+# Appendix A: Stat Blocks
+
+___
+> ## Radik
+>*Huge giant, lawful good*
+> ___
+> - **Armor Class** 13 (Natural Armor)
+> - **Hit Points** 94 (10d12 + 30)
+> - **Speed** 15 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 22 (+6) |  6 (-2) | 16 (+3) | 15 (+2) | 13 (+1) | 10 (+0) |
+>___
+> - **Saving Throws** Con +7
+> - **Skills** Athletics +10, Crafting +10 
+> - **Damage Resistances** Cold
+> - **Senses** passive Perception 11
+> - **Languages** Giant, Dwarvish
+> - **Level** 10 **PB** +4
+> ___
+> ### Actions
+> ***Furious Roar (1/day).*** Radik emits a furious roar. A number of creatures of its choice within 60 feet of it must make a DC 15 Wisdom saving throw, on a failed save the creature is Frightened for 1 minute or until it saves.
+>
+> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit* 16 (3d6 + 6) Bludgeoning damage. 
+>
