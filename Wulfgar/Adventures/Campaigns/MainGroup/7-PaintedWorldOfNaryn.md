@@ -158,6 +158,55 @@ With this pigment in hands the four were spirited into the Irithyll keep by the 
 
 But they were caught at the last moment and in a moment of desperation Justein used his own hammer to finish the mirror but paid with his own soul and hammer instead.
 
+
+\page
+
+## Ice-Mirror Cave
+
+
+___
+___
+> ## Albino Red Wyrm
+>*Large dragon, chaotic evil*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 157 (15d10 + 75)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 17 (+3) | 18 (+4) | 20 (+5) | 15 (+2) | 10 (+0) | 16 (+3) |
+>___
+> - **Saving Throws** Str +8, Con +10, Cha +8
+> - **Skills** Perception +5, Stealth +9
+> - **Damage Immunities** Fire
+> - **Condition Immunities** Frightened
+> - **Senses** Darkvision 120 ft., passive Perception 15
+> - **Languages** Draconic
+> - **Level** 15 **PB** +5
+> ___
+> ***Legendary Resistance (3/Day).***
+> If the albino red Wyrm fails a saving throw, it can choose to succeed instead.
+>
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (2d6 + 3) Slashing damage.
+>
+> ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+> ```
+> ```
+>
+> ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>
+> ### Legendary Actions
+> The albino wyrm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The albino wyrm regains spent legendary actions at the start of their turn.
+>
+> ***Detect.*** The dragon makes a Wisdom (Perception) check.
+>
+> ***Tail Attack.*** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) Bludgeoning damage.
+>
+
 \page
 
 # Appendix A: Stat Blocks
@@ -172,7 +221,7 @@ ___
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
->| 22 (+6) |  6 (-2) | 16 (+3) | 15 (+2) | 13 (+1) | 10 (+0) |
+>| 22 (+6) |  6 (-2) | 16 (+3) |  8 (-1) | 13 (+1) | 10 (+0) |
 >___
 > - **Saving Throws** Con +7
 > - **Skills** Athletics +10, Crafting +10 

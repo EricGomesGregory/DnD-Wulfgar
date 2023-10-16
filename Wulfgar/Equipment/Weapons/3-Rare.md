@@ -17,7 +17,7 @@ While wielding this weapon you have a +5 bonus to attack and damage rolls. This 
 
 
 
-#### Reothadh
+#### Paleltuma
 *Weapon (mace), rare*
 
 ***Large Weapon.***
