@@ -161,10 +161,41 @@ But they were caught at the last moment and in a moment of desperation Justein u
 
 \page
 
+
+
+
 ## Ice-Mirror Cave
+After Durindal explained the *unlikely friendship* in the temple of the Caretaker, **Ikaron** requested the aid of the party to seek the the ice-mirror cave in the slope of the mountain and slay the white wyrm that lives inside it.
 
+> ##### The Ice-Mirror Cave
+> The cave consists of a maze of organic tunnels carved by fire from the gargantuan glacier that composes this section of the mountain.
+>
+> The tunnels were carved by the albino red wyrm with its innate fire breathing.
 
+### Entrance
+The entrance of the cave is a wide crack covered in snow with a shallow ceiling where medium sized creatures can barely pass without hitting their heads.
+
+Within it the party can find the following clues:
+- There are torn limbs and appendages of beasts and humanoids stuck on the snow and the area creates a funnel like structure that leads deeper into the cave.
+- *DC 17 Wisdom (Perception).* There's a echoing sound of dripping water coming from deeper in the cave.
+- *DC 15 Intelligence (Investigation).* Find (1d4 + 1) pinkish-white scales that indicate a large creature.
+
+### Tunnels
+After venturing deeper into the cave the party begins to walk in the slippery surface of a sleek organic tunnel of mirror-like ice. Walking deeper into the tunnel the ground becomes so slippery that is needed a DC 17 Dexterity (Acrobatics) check to travel through it.
+
+#### Skill Challenge: Tunnel Slide
+If half or more of the party members fail the Dexterity (Acrobatics) check, the party starts to slide down the slippery ice tunnels. Characters that haven't failed the check have advantage on their checks during the skill challenge.
 ___
+The skill challenge lasts for five rounds and characters can use one of the following options to handle the situation:
+- Perform a DC 17 ability score check.
+- Perform a DC 15 ability score check and use a feature, object, or tool.
+- Cast a spell or magical feature.
+___
+Characters that failed the check or spellcheck the character takes 1d6, then 1d8, then 1d10, then 1d12, then 2d6 Bludgeoning, Piercing, or Slashing damage for each failure.
+
+
+\page
+
 ___
 > ## Albino Red Wyrm
 >*Large dragon, chaotic evil*
@@ -193,9 +224,6 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (2d6 + 3) Slashing damage.
 >
 > ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
->
-> ```
-> ```
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
