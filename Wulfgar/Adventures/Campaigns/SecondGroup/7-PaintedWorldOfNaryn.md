@@ -1,8 +1,6 @@
 # Painted World of Naryn
 ___
-The painted world of Naryn is a demiplane created by Ardghal Elyrsen in order to keep its beloved Naryn safe from the witch hunt of the end of the second era. The world resembles a snow covered mountainous land surrounded by a dark boreal forest and beyond it a endless fog that stretches to the horizon.
-
-The world is scarcely populated by simulacrums of humanoids, mostly elves, and other creatures be them common or fantastical. The only exception are Naryn herself and a handful of creatures that have entered this world either by entering the painting or by entering it through the astral plane.
+The painted world of Naryn is a demiplane created by Ardghal Elyrsen in order to keep its beloved Naryn safe from the witch hunt of the end of the second era. The world resembles a snow covered mountainous 
 
 ___
 ***Ardghal Elyrsen.*** was one of the last sons of Elyrion and Silvaris and he lived from the end of dragons to the fall of the elven empire at the end of the second era, he was a tall and muscular elven man like his father with long black hair and milk white skin like his mother but despite his strength he developed a passion for the softer arts and eventually becoming the greatest painter of the elven world.
@@ -17,7 +15,12 @@ ___
 ***Naryn, the Sorceress.***
 is a 7'5'' tall woman with reddish-brown skin, long black hair, slitted cyan eyes,  a pair of well kept ebony horns and long silver hair her skin is snow-white with splotches of tiny crystal-like scales. She wears a ornate elven dress with bronze ornaments under a thick elk's fur coat, under the coat she hides a dragon tail with light-blue scales that is rotting just like her world.
 
-Naryn is a naive girl on the body of a grown woman, she has been awaiting her beloved for centuries on a never changing world. She is a draconic sorceress to her very core
+Naryn is a naive girl on the body of a grown woman, she has been awaiting her beloved for centuries on a never changing world.
+
+#### The Rot
+The Rot is a sickness that afflicts this world and its denizens. For creatures it begins as a rash on a specific part of the body the slowly turns into a greyish black-purple growth throughout the creatures body.
+
+The Rot also affects the environment, slowly turning swaths of land int swamps and sludge fields.
 
 \page
 
@@ -101,18 +104,30 @@ ___
 
 
 ### Rotting Village
-The rotting village is a small assortment of wooden shacks surrounding an old stone fire pit. The village consists of a improvised smith's house, a longhouse and a small shack.
+The rotting village is a small assortment of wooden shacks surrounding an old stone fire pit. The village has the following notable locations.
 
 #### Smith's House
-The smith's house is a simple stone brick building 
+The smith's house is a simple stone brick building with simple brick shingles and a crooked chimney. Within it the party can find a strange bloated humanoid with rotting flesh known as Snave, the smith.
+___
+***Snave.*** is a strange bloated humanoid with tanned white skin from the forge, bald head, deformed ears and brown eyes, he is afflicted with the Rot causing his skin to grey and blacken in splotches. He wears faded red wool pants and a leather apron.
 
-At the smith's house the party can find a strange bloated humanoid with rotting flesh known as Sanev
 
 #### Longhouse
 The longhouse is a huge upside down longship that was transformed into a huge house. Currently the building is dilapidated with its wood rotting and blighted vines taking over the base of the building.
 
-Within the longhouse the party can find...
+Within the longhouse the party can find a assortment of miss matched tables and chairs creating a bootleg tavern.
+___
+***FEMALE_BARTENDER.*** is a 5'4'' strig...
 
 #### Gaelin's Shack
-The Gaelin's Shack is a small wooden building 
+The Gaelin's Shack is a small wooden building adorned with drying herbs, chicken feet and garlic strings. Within the shack the party can find a messy and cramped room with books and scrolls scattered throughout the room. 
 
+##### Quest: Risky Hunt
+Gaelin proposes for the party a trade, if they help him hunt a rotted beast in exchange he can guide them trough the dark forest at the base of the mountain to someone that can help them.
+
+> #### Guides & Revelations
+> The guide that Gaelin is referring is a avatar of *Heks, the Witch Mother*...
+
+\page
+
+##
