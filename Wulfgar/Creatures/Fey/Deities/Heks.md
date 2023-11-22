@@ -38,6 +38,9 @@ ___
 > ***Legendary Resistance (3/Day).***
 > If Heks fails a saving throw, it can choose to succeed instead.
 >
+> ```
+> ```
+>
 > ### Actions
 > ***Multiattack.*** Heks makes two claw attacks.
 >

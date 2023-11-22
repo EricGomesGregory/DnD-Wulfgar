@@ -193,6 +193,11 @@ The skill challenge lasts for five rounds and characters can use one of the foll
 ___
 Characters that failed the check or spellcheck the character takes 1d6, then 1d8, then 1d10, then 1d12, then 2d6 Bludgeoning, Piercing, or Slashing damage for each failure.
 
+```
+```
+
+### Labyrinth of Mirrors
+After sliding down the tunnels the party reaches a section of cave composed of various 
 
 \page
 

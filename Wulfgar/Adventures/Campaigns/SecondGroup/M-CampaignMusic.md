@@ -9,6 +9,8 @@ https://soundcloud.com/jhn-bylss/berserk-soundtrack-behelit-extended-loop
 [BERSERK MURDER]
 https://soundcloud.com/erserk/berserk-soundtrack-5-murder
 
+[Wendy Rule - A Tribute to Hecate]
+https://soundcloud.com/larissa-sol-372152293/wendy-rule-a-tribute-to-hecate?si=2a979dd5108141548ca04fb9399e5869&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ### Calm & Emotional
 

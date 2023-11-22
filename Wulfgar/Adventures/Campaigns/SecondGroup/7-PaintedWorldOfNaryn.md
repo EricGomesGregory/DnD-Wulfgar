@@ -69,20 +69,20 @@ ___
 
 ___
 > ## Corvian Hunter
->*Medium humanoid (elf), lawful evil*
+>*Medium humanoid (strig), lawful evil*
 > ___
 > - **Armor Class** 18
-> - **Hit Points** 000 (8d8 - 8)
-> - **Speed** 30 ft.
+> - **Hit Points** 31 (8d8 - 8)
+> - **Speed** 30 ft., Fly 
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 10 (+0) | 20 (+5) |  8 (-1) | 16 (+3) | 15 (+2) |  9 (-1) |
 >___
-> - **Saving Throws** Dex +0, Int +0
+> - **Saving Throws** Dex +8, Int +6
 > - **Skills** Acrobatics +8, *Arcana* +8, Perception +5, *Stealth* +11
 > - **Senses** passive Perception 15
-> - **Languages** Elvish
+> - **Languages** String, Elvish
 > - **Level** 8 **PB** +3
 > ___
 > ***Sneak Attack.*** Once per turn, the corvian hunter deals an extra 3 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the bravo that isn’t incapacitated and the bravo doesn’t have disadvantage on the attack roll.
@@ -117,17 +117,57 @@ The longhouse is a huge upside down longship that was transformed into a huge ho
 
 Within the longhouse the party can find a assortment of miss matched tables and chairs creating a bootleg tavern.
 ___
-***FEMALE_BARTENDER.*** is a 5'4'' strig...
+***Myriil.*** is a 5'4'' strig with brown feathers, green eyes and a slender body.
 
 #### Gaelin's Shack
 The Gaelin's Shack is a small wooden building adorned with drying herbs, chicken feet and garlic strings. Within the shack the party can find a messy and cramped room with books and scrolls scattered throughout the room. 
 
 ##### Quest: Risky Hunt
-Gaelin proposes for the party a trade, if they help him hunt a rotted beast in exchange he can guide them trough the dark forest at the base of the mountain to someone that can help them.
+Gaelin proposes for the party a trade, if they help him hunt a rotted beast, that has killed some of the villagers that went foraging, in exchange he can guide them trough the dark forest at the base of the mountain to someone that can help them.
 
-> #### Guides & Revelations
-> The guide that Gaelin is referring is a avatar of *Heks, the Witch Mother*...
+He is unaware that the beast is a Cockatrice.
+
+> #### Guide and Revelations
+> The guide that Gaelin is referring is a avatar of *Heks, the Witch Mother* a occult deity of magic hexes and secrets.
+>
+> She has kowledge related to both the painted world and the 
 
 \page
 
-##
+## Risky Hunt
+
+### Cockatrice's Cave
+Each creature at the end of the round must make a DC 6 Constitution saving throw or be Poisoned.
+___
+> ## Rotted Cockatrice
+>*Large monstrosity, neutral evil*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 72 (9d10 + 18)
+> - **Speed** 20 ft., fly 40 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 16 (+3) | 15 (+2) |  6 (-2) | 13 (+1) |  6 (-2) |
+>___
+> - **Saving Throws** Con +6
+> - **Skill** Perception +5
+> - **Condition Immunities** Petrified, Poisoned
+> - **Senses** Darkvision 60 Ft., passive Perception 15
+> - **Level** 9 **PB** +4
+> ___
+> ### Actions
+> ***Multiattack.*** The Cockatrice makes two scratch attacks.
+>
+> ***Scratch.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit* 8 (2d4 + 3) Slashing damage. 
+>
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 8 (2d4 + 3) Piercing damage. The target must succeed on a DC 16 Constitution saving throw against being magically petrified On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is Petrified for 24 hours
+
+```
+```
+
+### The Witches Hut
+After defeating the Cockatrice the party is guided up the mountain to a
+
+- Bovir's grandmother (Cathryn) and mother made a bargain with Heks to save him from a sickness in exchange he would carry a dark soul that was lost from its brothers and sisters that reside beneath Loretta.
+- PAINTED_WORLD_LORE.
