@@ -22,6 +22,9 @@ The Rot is a sickness that afflicts this world and its denizens. For creatures i
 
 The Rot also affects the environment, slowly turning swaths of land int swamps and sludge fields.
 
+### Stellar Keep
+The Stellar Keep is a large stone-brick castle that sits atop a ledge of the lonely mountain at the center of the painted world. Within it resides the Caretaker, her army of strig ARMY_NAME, and the sleeping Naryn.
+
 \page
 
 ## Rotten Swamp Bellow

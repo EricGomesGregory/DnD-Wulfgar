@@ -22,9 +22,15 @@ The Rot is a sickness that afflicts this world and its denizens. For creatures i
 
 The Rot also affects the environment, slowly turning swaths of land int swamps and sludge fields.
 
+```
+```
+
+### Stellar Keep
+The Stellar Keep is a large stone-brick castle that sits atop a ledge of the lonely mountain at the center of the painted world. Within it resides the Caretaker, her army of strig ARMY_NAME, and the sleeping Naryn. 
+
 \page
 
-## ADVENTURE_NAME
+## Journey Begins
 The party finds themselves within a strange world of fantasy where all seems to be off. After catching their breath the party must track their way trough the snowfields towards a column of smoke coming from a distant village.
 
 ### Bridge of Giant Dwarves
@@ -197,16 +203,31 @@ Characters that failed the check or spellcheck the character takes 1d6, then 1d8
 ```
 
 ### Labyrinth of Mirrors
-After sliding down the tunnels the party reaches a section of cave composed of various 
+After sliding down the tunnels the party reaches a section of cave composed of various columns of transparent or mirrored ice that hold the roof of the cavern, creating a labyrinth of mirrors and windows. Echoing from the depths of the cave the party can hear a small hum of the sleeping dragon.
+
+In order to traverse the labyrinth, each time the parties first in the marching oder must make a DC 15 Intelligence save before making a Wisdom (Survival) check. On a failed save the character takes 2 (1d4) Bludgeoning damage.
+
+___
+The following random encounters table can be used to foreshadow the encounter.
+
+##### Labyrinth Encounters
+| 1d6 | Encounter                                                                                 |
+|:---:|:------------------------------------------------------------------------------------------|
+|  1  | Icicles fall from the room, the party must make a DC 15 Dexterity save taking 10 (3d6) Piercing damage or half as much on a successful save. |
+|  2  | 1d4 + 1 **strig warriors** encased in the ice.                                            |
+|  3  | Tremors shake the ground, the party must make a DC 15 Dexterity save or be knocked prone. |
+|  4  | A pile of snow tha covers a large cylindrical stone-like object.                          |
+|  5  | 2d6 **yeti** half-eaten carcases.                                                         |
+|  6  | A thick warm fog that envelops the party for 10 minutes in a **heavily obscured** area.   |
 
 \page
 
 ___
 > ## Albino Red Wyrm
->*Large dragon, chaotic evil*
+>*Huge dragon, chaotic evil*
 > ___
 > - **Armor Class** 15 (Natural Armor)
-> - **Hit Points** 157 (15d10 + 75)
+> - **Hit Points** 255 (15d12 + 75)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -219,7 +240,7 @@ ___
 > - **Condition Immunities** Frightened
 > - **Senses** Darkvision 120 ft., passive Perception 15
 > - **Languages** Draconic
-> - **Level** 15 **PB** +5
+> - **Level** 15 **PB** +5 (Elite)
 > ___
 > ***Legendary Resistance (3/Day).***
 > If the albino red Wyrm fails a saving throw, it can choose to succeed instead.
@@ -239,6 +260,91 @@ ___
 >
 > ***Tail Attack.*** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) Bludgeoning damage.
 >
+
+```
+```
+
+### Layer Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+
+- The ice begins to melt creating a 20-foot-radius sphere of fog centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is **heavily obscured**. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.
+
+- Icicles fall from the roof targeting a point on the ground the dragon can see within 120 feet of it. Creatures in the path of the icicles must make a DC 15 Dexterity saving throw, taking 21 (6d6) Piercing damage on a failed save, or half as much damage on a successful one.
+
+### Layer Treasures
+After killing the albino red wyrm the party can find the following items scattered around the ice cave. 
+
+#### Strange Raw Metal
+A small pile of strange bluish-silver raw metal. With a successful DC 17 Intelligence (Investigation) or Intelligence (Nature) check a character can discern that the raw metal is Titanium ore, worth around 500 gp.
+
+#### Gemstones
+Scattered around the ice and snow the party can find 6 raw gemstones:
+- 1 Translucent blue sapphire with white star-shaped center (**Star sapphire** 400 gp)
+- 1 Transparent rich olive green (**Peridot** 250 gp)
+- 2 Translucent pale blue with green and golden mottling (**Opal** 300 gp each)
+- 1 Transparent deep blue (**Blue spinel** 375 gp)
+- 1 Transparent blue-white (**Diamond** 500 gp)
+
+\page
+
+## Mountain Climb
+After returning to the menagerie village **Ikaron** keeps his end of the bargain and grants them access to the road to the **Stellar Keep**...
+
+### The Ascend
+After exiting the
+
+#### Wounded Strig
+After traversing a quarter of the mountain's path the party crosses a pile of snow, characters with 15 passive perception or greater
+
+***Russ.*** is a 5'7'' tall strig with greyish-white plumage and dark brown eyes that seem pupilless... He wears a dark greyish-blue worn leather armor and carries a strange double bladed sword.
+
+___
+> ## Russ
+>*Medium humanoid (string), lawful neutral*
+> ___
+> - **Armor Class** 18 (Leather)
+> - **Hit Points** 50 (7d8 + 14)
+> - **Speed** 30 ft. fly 50 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 20 (+5) | 15 (+2) | 10 (+0) | 16 (+3) | 13 (+1) |
+>___
+> - **Saving Throws** Dex +9, Wis +6
+> - **Skills** *Acrobatics* +11, Perception +6, Survival +6
+> - **Senses** passive Perception 16
+> - **Languages** Strig, Elvish, Dwarvish
+> - **Level** 7 **PB** +3 (Buffed)
+> ___
+> ***Cunning Action.***
+> Russ can use a bonus action to take the Dash, Disengage, or Hide action.
+>
+>
+> ### Actions
+> ***Multiattack.*** Russ makes two Silver Slicer attacks.
+>
+> ***Silver Slicer.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (1d10 + 5) Slashing damage.
+>
+> ***Swirling Slices.*** Russ makes three Silver Slicer attacks, if all attacks hit he can take this action again as a bonus action.
+>
+> ### Reactions
+> ***Fly Away.*** If a creature hits Russ with a attack he can use half of his flying speed without provoking opportunity attacks.
+>
+
+
+#### Silver Slicer
+*Weapon (double bladed sword), rare*
+
+| Damage        | Weight | Properties          |
+|:--------------|:------:|:--------------------|
+| 1d10 Slashing |  3 lb. | Finesse, two-handed |
+
+***Swirling Slices (Action).***
+You make three consecutive attacks with this weapon. If you hit a creature with all the attacks you can spend your bonus action to repeat this action.
+
+This action doesn't benefit from Extra attack and can't be performed more then once per round as well as it can't be held or used as a reaction.
 
 \page
 
