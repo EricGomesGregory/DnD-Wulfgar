@@ -293,19 +293,36 @@ Scattered around the ice and snow the party can find 6 raw gemstones:
 After returning to the menagerie village **Ikaron** keeps his end of the bargain and grants them access to the road to the **Stellar Keep**...
 
 ### The Ascend
-After exiting the
+After exiting the village the party traverses an old cobblestone road up the mountain that slowly becomes a dir road. As the party begins to ascend further and further the road begins to be covered by more and more snow.
 
 #### Wounded Strig
-After traversing a quarter of the mountain's path the party crosses a pile of snow, characters with 15 passive perception or greater
+After traversing a quarter of the mountain's path the party crosses a pile of snow, characters with 15 passive perception or greater can hear a faint cry coming from within the snow pile. If the party investigates the pile they can find a wounded strig by the name of Russ.
 
 ***Russ.*** is a 5'7'' tall strig with greyish-white plumage and dark brown eyes that seem pupilless... He wears a dark greyish-blue worn leather armor and carries a strange double bladed sword.
+___
+If the party heals Russ he will inform them that he was hunting a rotted beast has climbed up the mountain and wounded him while he was searching for it. The party can aid Russ in his hunt.
+
+Alternatively the party can ignore Russ, in that case they will have one of the following random encounters from the table bellow.
+
+##### Mountain Encounters
+| 1d6 | Encounter                           |
+|:---:|:------------------------------------|
+|  1  | 1d4 **strig thugs**                 |
+|  2  | A snowstorm that hinders visibility |
+|  3  | 1d4 + 2 **yeti**                    |
+|  4  | 
+
+\page
+
+#### Beast Hunt
+If the party decides to aid Russ they will follow him to a small plato where a huge six legged elk is aimlessly wondering.
 
 ___
 > ## Russ
 >*Medium humanoid (string), lawful neutral*
 > ___
 > - **Armor Class** 18 (Leather)
-> - **Hit Points** 50 (7d8 + 14)
+> - **Hit Points** 49 (7d8 + 14)
 > - **Speed** 30 ft. fly 50 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
@@ -316,7 +333,7 @@ ___
 > - **Skills** *Acrobatics* +11, Perception +6, Survival +6
 > - **Senses** passive Perception 16
 > - **Languages** Strig, Elvish, Dwarvish
-> - **Level** 7 **PB** +3 (Buffed)
+> - **Level** 7 **PB** +3
 > ___
 > ***Cunning Action.***
 > Russ can use a bonus action to take the Dash, Disengage, or Hide action.
@@ -327,12 +344,11 @@ ___
 >
 > ***Silver Slicer.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (1d10 + 5) Slashing damage.
 >
-> ***Swirling Slices.*** Russ makes three Silver Slicer attacks, if all attacks hit he can take this action again as a bonus action.
+> ***Swirling Slices.*** Russ makes three Silver Slicer attacks, if all attacks hit he can take this action again.
 >
 > ### Reactions
 > ***Fly Away.*** If a creature hits Russ with a attack he can use half of his flying speed without provoking opportunity attacks.
 >
-
 
 #### Silver Slicer
 *Weapon (double bladed sword), rare*
@@ -340,11 +356,73 @@ ___
 | Damage        | Weight | Properties          |
 |:--------------|:------:|:--------------------|
 | 1d10 Slashing |  3 lb. | Finesse, two-handed |
-
-***Swirling Slices (Action).***
-You make three consecutive attacks with this weapon. If you hit a creature with all the attacks you can spend your bonus action to repeat this action.
+___
+***Swirling Slices.***
+You use your action and bonus action to make three consecutive attacks with this weapon. If you hit a creature with all the attacks you can repeat this action.
 
 This action doesn't benefit from Extra attack and can't be performed more then once per round as well as it can't be held or used as a reaction.
+
+```
+```
+
+***Rotted Giant Elk.*** is a huge six-legged elk with thick fur, rotted patches of greyish-green skin, and bloodied eyes. It once was a humanoid born from this world's painting process.
+___
+> ## Rotted Giant Elk
+>*Huge undead beast, chaotic neutral*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 150 (10d12 + 30)
+> - **Speed** 60 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 20 (+5) | 16 (+3) | 16 (+3) |  7 (-2) | 15 (+2) | 10 (+0) |
+>___
+> - **Saving Throws** Str +9
+> - **Skills** Perception +6
+> - **Damage Immunities** Poison
+> - **Damage Resistances** Necrotic
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 16
+> - **Level** 10 **PB** +4 (Elite)
+> ___
+> ***Charge.*** If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 10 (3d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>
+> ### Actions
+> ***Ram.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 15 (3d6 + 5) Piercing damage.
+>
+> ***Hooves.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 18 (3d8 + 5) Bludgeoning damage.
+>
+> ### Legendary Actions
+> The rotted giant elk can take 2 legendary action, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The rotted giant elk regains spent legendary actions at the start of their turn.
+>
+> ***Detect.*** The elk makes a Wisdom (Perception) check.
+>
+> ***Hooves Attack.*** The elk attacks with its hooves.
+>
+
+\page
+
+### Witch Hut
+After traversing half of the mountain the party reaches a crossroad that branches into two paths, one heads up the mountain towards a tower in the distance, while the other leads to a hut with a smoking chimney.
+
+If the party decides to approach the hut they will discover that it is inhabited by an old lady. Entering it...
+
+___
+***Old lady Heks.*** is an old human woman in her early 80's with short white hair, a blind eye and wrinkled skin. She wears a purple dress with with green leaves embroidered on it.
+
+Heks goal is not to hide her identity, a character can attempt a DC 17 Intelligence (Religion) check to discern that that name refers to the Witch-Mother. Her goal is to convince them to ignore the sorceress (since the other group is already seeking her) instead they should destroy the painting from within in order to prevent a god of Rot to emerge.
+
+During the conversation Heks will reveal that **Ikaron** is using scrying magic to spy on the party during their journey.
+
+___
+If the party accepts Heks's plan they will be allowed to rest within her hut and will be instructed to attack the watchpoint up the road. **Go to Attack the Watchpoint**.
+
+```
+```
+Alternatively if the party decides to ignore the hut or abandons the Witch-Mother's request they can continue up the road, reaching a stone tower.
+
+Within the tower they can find Russ and a crowd of strig warriors within.
 
 \page
 
@@ -373,4 +451,28 @@ ___
 > ***Furious Roar (1/day).*** Radik emits a furious roar. A number of creatures of its choice within 60 feet of it must make a DC 15 Wisdom saving throw, on a failed save the creature is Frightened for 1 minute or until it saves.
 >
 > ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit* 16 (3d6 + 6) Bludgeoning damage. 
+>
+
+
+___
+> ## Strig Thug
+>*Medium humanoid (string), chaotic neutral*
+> ___
+> - **Armor Class** 15 (Gambeson)
+> - **Hit Points** 17 (3d8)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 16 (+3) | 10 (+0) |  8 (-1) | 13 (+1) | 10 (+0) |
+>___
+> - **Skills** Acrobatics +5, Intimidation +2
+> - **Senses** passive Perception 11
+> - **Languages** Strig
+> - **Level** 3 **PB** +2
+> ___
+> ***Silent Walk.*** The strig thug has advantage on Dexterity (Stealth) checks.
+>
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) Piercing damage. 
 >
