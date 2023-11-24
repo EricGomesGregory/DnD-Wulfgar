@@ -305,12 +305,14 @@ If the party heals Russ he will inform them that he was hunting a rotted beast h
 Alternatively the party can ignore Russ, in that case they will have one of the following random encounters from the table bellow.
 
 ##### Mountain Encounters
-| 1d6 | Encounter                           |
-|:---:|:------------------------------------|
-|  1  | 1d4 **strig thugs**                 |
-|  2  | A snowstorm that hinders visibility |
-|  3  | 1d4 + 2 **yeti**                    |
-|  4  | 
+| 1d6 | Encounter                                                  |
+|:---:|:-----------------------------------------------------------|
+|  1  | 1d4 **strig thugs**                                        |
+|  2  | A snowstorm that hinders visibility                        |
+|  3  | 1d4 + 2 **yeti**                                           |
+|  4  | A character has the sensation that they are being observed |
+|  5  | 1d4 + 1 **eagles** fly over the party                      |
+|  6  | The skys are clear and the wind is nice                    |
 
 \page
 
