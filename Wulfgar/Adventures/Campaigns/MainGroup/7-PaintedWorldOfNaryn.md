@@ -426,6 +426,146 @@ Within the tower they can find Russ and a crowd of strig warriors within.
 
 \page
 
+## Attack the Watchpoint
+The Watchpoint is a stone-brick tower...
+
+The tower is guarded by **Russ**, **Ikaron**, 5 **String Knights** and 5 **Strig Archers**.
+
+___
+> ## Russ
+>*Medium humanoid (string), lawful neutral*
+> ___
+> - **Armor Class** 18 (Leather)
+> - **Hit Points** 49 (7d8 + 14)
+> - **Speed** 30 ft. fly 50 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 20 (+5) | 15 (+2) | 10 (+0) | 16 (+3) | 13 (+1) |
+>___
+> - **Saving Throws** Dex +9, Wis +6
+> - **Skills** *Acrobatics* +11, Perception +6, Survival +6
+> - **Senses** passive Perception 16
+> - **Languages** Strig, Elvish, Dwarvish
+> - **Level** 7 **PB** +3
+> ___
+> ***Cunning Action.***
+> Russ can use a bonus action to take the Dash, Disengage, or Hide action.
+>
+>
+> ### Actions
+> ***Multiattack.*** Russ makes two Silver Slicer attacks.
+>
+> ***Silver Slicer.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (1d10 + 5) Slashing damage.
+>
+> ***Swirling Slices.*** Russ makes three Silver Slicer attacks, if all attacks hit he can take this action again.
+>
+> ### Reactions
+> ***Fly Away.*** If a creature hits Russ with a attack he can use half of his flying speed without provoking opportunity attacks.
+>
+
+#### Silver Slicer
+*Weapon (double bladed sword), rare*
+
+| Damage        | Weight | Properties          |
+|:--------------|:------:|:--------------------|
+| 1d10 Slashing |  3 lb. | Finesse, two-handed |
+___
+***Swirling Slices.***
+You use your action and bonus action to make three consecutive attacks with this weapon. If you hit a creature with all the attacks you can repeat this action.
+
+This action doesn't benefit from Extra attack and can't be performed more then once per round as well as it can't be held or used as a reaction.
+
+___
+> ## Strig Knight
+>*Medium humanoid (string), chaotic neutral*
+> ___
+> - **Armor Class** 18 (Plate)
+> - **Hit Points** 42 (5d10 + 10)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) |  8 (-1) | 14 (+2) | 13 (+1) | 10 (+0) | 10 (+0) |
+>___
+> - **Skills** Athletics +6, Intimidation +3
+> - **Senses** passive Perception 10
+> - **Languages** Strig
+> - **Level** 5 **PB** +3
+> 
+> ### Actions
+> ***Multiattack.*** The knight makes two longsword attacks.
+>
+> ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit* 8 (1d10 + 3) Slashing damage. 
+>
+
+___
+> ## Strig Archer
+>*Medium humanoid (string), chaotic neutral*
+> ___
+> - **Armor Class** 15 (Gambeson)
+> - **Hit Points** 17 (5d8)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>|  8 (-1) | 16 (+3) | 10 (+0) |  8 (-1) | 13 (+1) | 10 (+0) |
+>___
+> - **Skills** Acrobatics +5, Intimidation +2
+> - **Senses** passive Perception 11
+> - **Languages** Strig
+> - **Level** 5 **PB** +3
+> ___
+> ***Silent Walk.*** The strig thug has advantage on Dexterity (Stealth) checks.
+>
+> ### Actions
+> ***Multiattack.*** The archer makes two longbow attacks.
+>
+> ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit* 7 (1d8 + 3) Piercing damage.
+
+\page
+
+___
+> ## Ikaron
+>*Medium humanoid (faun), lawful neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 104 (10d8 + 20)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 10 (+0) | 14 (+2) | 15 (+2) | 10 (+0) | 20 (+5) | 10 (+0) |
+>___
+> - **Saving Throws** Wis +9, Cha +4
+> - **Skills** History +4, Medicine +9, Religion +4
+> - **Senses** passive Perception 15
+> - **Languages** Sylvan, Elvish, Strig
+> - **Level** 10 **PB** +4 (Life Domain Cleric)
+> ___
+> ***Spellcasting.*** Ikaron is an 10th-level Spellcaster. Its Spellcasting Ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Ikaron has the following Cleric Spells prepared:
+>
+> Cantrips (at will). *light, mending, thaumaturgy*
+>
+> 1st level (4 slots). *bless, cure wounds, healing word, shield of faith*
+>
+> 2nd Level (3 slots). *hold person, lesser restoration, spiritual weapon*
+>
+> 3rd Level (3 slots). *beacon of hope, revivify (1x)*
+>
+> 4th Level (2 slots). *death ward, guardian of faith*
+>
+> 5th Level (1 slots). *mass cure wounds*
+>
+> ***Disciple of Life.*** Whenever Ikaron use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+>
+> ### Actions
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 1 Bludgeoning damage. 
+>
+
+
+\page
+
 # Appendix A: Stat Blocks
 
 ___
@@ -476,3 +616,37 @@ ___
 > ### Actions
 > ***Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d4 + 3) Piercing damage. 
 >
+
+\page
+___
+> ## Yeti
+>*Large monstrosity, chaotic neutral*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 57 (6d10 + 24)
+> - **Speed** 40 ft. climb 40 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 18 (+4) | 15 (+2) | 18 (+4) |  6 (-2) | 13 (+1) |  6 (-2) |
+>___
+> - **Saving Throws** Str +7, Con +7
+> - **Skills** Perception +4, Stealth +5
+> - **Damage Immunities** Cold
+> - **Senses** Darkvision 60 ft., passive Perception 14
+> - **Languages** Yeti
+> - **Level** 6 **PB** +3
+> ___
+> ***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+>
+> ***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+>
+>
+> ### Actions
+> ***Multiattack.*** The yeti can use its Chilling Gaze and makes two claw attacks.
+>
+> ***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
+>
+> ***Chilling Gaze.*** The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 15 Constitution saving throw against this magic or take 14 (4d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target’s saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
