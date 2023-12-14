@@ -174,3 +174,246 @@ After defeating the Cockatrice the party is guided up the mountain to a
 
 - Bovir's grandmother (Cathryn) and mother made a bargain with Heks to save him from a sickness in exchange he would carry a dark soul that was lost from its brothers and sisters that reside beneath Loretta.
 - PAINTED_WORLD_LORE.
+
+\page
+
+## The Climb
+After speaking with Heks, the Witch-mother the party begins their ascend of the lonely mountain towards the Stellar Keep. But their journey will be treacherous with all of the Caretaker's might against them.
+
+### Initial Ascend
+One character must make a DC 15 Wisdom (Survival) check, then each character must make a DC 13 Strength (Athletics) check.
+
+The survival check will determine the encounter table, while for each failure of the Strength check the party will reach the encounter later and later on the day.
+
+#### Normal Encounter
+As the party traverses the snow covered mountainside the snow slowly begins to churn and 2d8 **frostbitten elves** rise from the snow and attack the party.
+
+**Roll Initiative**
+
+___
+> ## Frostbitten Elves
+>*Medium undead (elf), chaotic neutral*
+> ___
+> - **Armor Class** 9
+> - **Hit Points** 10 (4d8 - 8)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) |  8 (-1) |  6 (-2) |  8 (-1) | 10 (+0) |  6 (-2) |
+>___
+> - **Damage Resistances** Cold
+> - **Condition Immunities** Charmed, Frightened
+> - **Senses** passive Perception 10
+> - **Languages** Elvish
+> - **Level** 4 **PB** +2
+> ___
+> ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+>
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 6 (1d6 + 3) Bludgeoning damage. 
+>
+
+
+```
+```
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Hard Encounter
+As the party traverses a 10-foot wide 30-foot long ledge along a ravine three young **yetis** slide down the rock wall towards the party. 
+
+**Roll Initiative**
+
+___
+> ## Young Yeti
+>*Large monstrosity, chaotic neutral*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 57 (6d10 + 24)
+> - **Speed** 40 ft. climb 40 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 18 (+4) | 15 (+2) | 18 (+4) |  6 (-2) | 13 (+1) |  6 (-2) |
+>___
+> - **Saving Throws** Str +7, Con +7
+> - **Skills** Perception +4, Stealth +5
+> - **Damage Immunities** Cold
+> - **Senses** Darkvision 60 ft., passive Perception 14
+> - **Languages** Yeti
+> - **Level** 6 **PB** +3
+> ___
+> ***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+>
+> ***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+>
+>
+> ### Actions
+> ***Multiattack.*** The yeti can use its Chilling Gaze and makes two claw attacks.
+>
+> ***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
+>
+
+\page
+
+### "Uninhabited" Cave
+After the previous encounter the party continues their journey until nightfall when they will find a small uninhabited cave.
+
+If the party decides to explore the cave they can find the following information abut it with a successful Intelligence (Investigation) or Wisdom (Perception) check:
+
+- **21** Carvings of runes written on the wall. A player that can read Giant can discern the following *"Nilla resides here."* 
+
+- **17** Old bones that seem to be the remains of a large monstrosity.
+
+- **15** Shards of sharpened stone scattered on the edges of the cave.
+
+___
+After dawn the party is awakened by the sound of heavy footsteps coming from outside. Outside the cave the party can find a wounded giant dragging the corpse of a yeti.
+
+___
+***Nilla.*** is a 20 foot tall female giant with greyish-purple skin, long braided white hair and dark brown eyes. She wears a handmaid hide armor made of yeti skin and she wields a huge greataxe.
+
+She is usually brash and courageous but currently she is partially wounded and exhausted.
+
+```
+```
+___
+> ## Nilla
+>*Huge giant, lawful neutral*
+> ___
+> - **Armor Class** 13 (Hide)
+> - **Hit Points** 143 (12d12 + 60)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 26 (+8) | 14 (+2) | 20 (+5) | 10 (+0) | 18 (+4) | 10 (+0) |
+>___
+> - **Saving Throws** Str +12, Con +9
+> - **Skills** Athletics +12, Acrobatics +6, Intimidation +4, Perception +8
+> - **Damage Immunities** Lightning, Thunder
+> - **Damage Resistances** Cold
+> - **Senses** passive Perception 18
+> - **Languages** Giant
+> - **Level** 12 **PB** +4
+> ___
+> ***FEATURE.*** FEATURE DESCRIPTION
+>
+> ### Actions
+> ***Multiattack.***
+>
+> ***Greataxe.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit* 27 (3d12 + 8) Slashing damage. 
+>
+> ***Lightning Strike (Recharge 5–6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 18 Dexterity saving throw, taking 54 (12d8) Lightning damage on a failed save, or half as much damage on a successful one.
+
+If the party befriends Nilla she can spend one day to imbue a melee weapon with a Rune of Sparking or a Rune of Thunder.
+
+#### Rune of Sparking
+*Weapon modification, rare*
+
+***Lightning Strike.*** A weapon with this rune inscribed on it deals and additional 1d12 Lightning damage.
+
+#### Rune of Thunder
+*Weapon modification, rare*
+
+***Lightning Strike.*** A weapon with this rune inscribed on it forces a creature to make a DC 17 Strength saving throw or be knocked 10 feet back and prone on a hit.
+
+\page
+
+### Caretaker's Ambush
+As the party traverses the side of the mountain they reach a small 20-foot radius plato in the mountain with a path that continues ascending.
+
+As the group reaches the middle of the plato two winged **string Warrior** jump from a higher ledge of the mountain and attack the party as the Caretaker herself reaches the area and casts *ice storm* on the battlefield.
+
+**Roll Initiative.**
+
+___
+***Strig Warrior.*** are white and grey feathered strigs with large wings and piercing reddish brown or yellow eyes. They don blueish-grey gambeson and wield longswords.
+
+___
+> ## Strig Warrior
+>*Medium humanoid (string), chaotic neutral*
+> ___
+> - **Armor Class** 13 (Gambeson)
+> - **Hit Points** 42 (5d10 + 10)
+> - **Speed** 30 ft. Fly 50 ft. 
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 16 (+3) | 13 (+1) | 14 (+2) |  8 (-1) | 10 (+0) |  8 (-1) |
+>___
+> - **Skills** Athletics +6, Intimidation +3
+> - **Senses** passive Perception 10
+> - **Languages** Strig
+> - **Level** 5 **PB** +3
+> 
+> ### Actions
+> ***Multiattack.*** The knight makes two longsword attacks.
+>
+> ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit* 8 (1d10 + 3) Slashing damage. 
+>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+> ##### GM Notes
+> This encounter has the following specificities:
+> - The will stay away from the spells conjured by the Caretaker
+> - Once defeated the Caretaker will become snow.
+
+```
+```
+
+***Caretaker's Simulacrum.*** is a 13 foot tall strig with lightblue eyes, a massive barn owl face and pure white feathers. She wears a flowing greyish-blue tunic and a brown fur coat over it and she wields a darkblue crystal shard as a one-handed greatsword.
+
+___
+> ## Caretaker's Simulacrum
+>*Large construct, lawful neutral*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 127 (15d10 + 45)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 18 (+4) | 10 (+0) | 17 (+3) | 20 (+5) | 15 (+2) | 16 (+3) |
+>___
+> - **Saving Throws** Int +10, Wis +7, Cha +8
+> - **Skills** Arcana +10, Deception +8, Insight +7, Perception +7 Persuasion +8
+> - **Damage Immunities** Cold
+> - **Condition Immunities** Charm
+> - **Senses** Darkvision 120ft., passive Perception 17
+> - **Languages** Strig, Elvish
+> - **Level** 15 **PB** +5
+> ___
+> ***Innate Spellcasting.*** The Caretaker's innate spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+>
+> At will: *frostbite, ray of frost*
+>
+> 3/day each: *command, frost fingers, shield*
+>
+> 2/day each: *counterspell, thunder step*
+>
+> 1/day each: *ice storm*
+>
+> ### Actions
+> ***Multiattack.*** The Caretaker either makes two moonlight shard attacks or a at will spell and a moonlight shard attacks.
+>
+> ***Moonlight Shard.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 11 (2d6 + 4) magical Slashing damage. 
+>
+> ***Moonlight Thrust.*** The Caretaker thrust the blade towards a direction creating a 5-foot wide 15-foot long line of moonlight. Each creature in the area must make a DC 18 Dexterity saving throw taking 14 (4d6) Force damage or half as much on a successful save. 

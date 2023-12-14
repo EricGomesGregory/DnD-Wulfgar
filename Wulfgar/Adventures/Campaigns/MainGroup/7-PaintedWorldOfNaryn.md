@@ -565,6 +565,46 @@ ___
 > ***Unarmed Strike.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 1 Bludgeoning damage. 
 >
 
+\page
+
+***Caretaker's Simulacrum.*** is a 13 foot tall strig with lightblue eyes, a massive barn owl face and pure white feathers. She wears a flowing greyish-blue tunic and a brown fur coat over it and she wields a darkblue crystal shard as a one-handed greatsword.
+
+___
+> ## Caretaker's Simulacrum
+>*Large construct, lawful neutral*
+> ___
+> - **Armor Class** 15 (Natural Armor)
+> - **Hit Points** 127 (15d10 + 45)
+> - **Speed** 30 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 18 (+4) | 10 (+0) | 17 (+3) | 20 (+5) | 15 (+2) | 16 (+3) |
+>___
+> - **Saving Throws** Int +10, Wis +7, Cha +8
+> - **Skills** Arcana +10, Deception +8, Insight +7, Perception +7 Persuasion +8
+> - **Damage Immunities** Cold
+> - **Condition Immunities** Charm
+> - **Senses** Darkvision 120ft., passive Perception 17
+> - **Languages** Strig, Elvish
+> - **Level** 15 **PB** +5
+> ___
+> ***Innate Spellcasting.*** The Caretaker's innate spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+>
+> At will: *frostbite, ray of frost*
+>
+> 3/day each: *command, frost fingers, shield*
+>
+> 2/day each: *counterspell, thunder step*
+>
+> 1/day each: *ice storm*
+>
+> ### Actions
+> ***Multiattack.*** The Caretaker either makes two moonlight shard attacks or a at will spell and a moonlight shard attacks.
+>
+> ***Moonlight Shard.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 11 (2d6 + 4) magical Slashing damage. 
+>
+> ***Moonlight Thrust.*** The Caretaker swing the blade creating a arc of moonlight that travels in a 15-foot cone. Each creature in the area must make a DC 18 Dexterity saving throw taking 14 (4d6) Force damage or half as much on a successful save. 
 
 \page
 
