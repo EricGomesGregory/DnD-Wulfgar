@@ -329,7 +329,7 @@ If the party befriends Nilla she can spend one day to imbue a melee weapon with 
 #### Rune of Thunder
 *Weapon modification, rare*
 
-***Lightning Strike.*** A weapon with this rune inscribed on it forces a creature to make a DC 17 Strength saving throw or be knocked 10 feet back and prone on a hit.
+***Lightning Strike.*** A weapon with this rune inscribed on it forces a creature to make a DC 17 Strength saving throw or be knocked 10 feet back and prone on a hit. This rune emits a thunderous boom audible out to 300 feet.
 
 \page
 
