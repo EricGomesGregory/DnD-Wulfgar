@@ -261,8 +261,6 @@ ___
 > ***Tail Attack.*** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) Bludgeoning damage.
 >
 
-```
-```
 
 ### Layer Actions
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
