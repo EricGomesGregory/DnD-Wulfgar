@@ -319,7 +319,7 @@ If the party decides to aid Russ they will follow him to a small plato where a h
 
 ___
 > ## Russ
->*Medium humanoid (string), lawful neutral*
+>*Medium humanoid (strig), lawful neutral*
 > ___
 > - **Armor Class** 18 (Leather)
 > - **Hit Points** 49 (7d8 + 14)
