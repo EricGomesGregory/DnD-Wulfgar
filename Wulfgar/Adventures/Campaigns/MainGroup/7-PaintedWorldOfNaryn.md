@@ -602,7 +602,7 @@ ___
 >
 > ***Moonlight Shard.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit* 11 (2d6 + 4) magical Slashing damage. 
 >
-> ***Moonlight Thrust.*** The Caretaker swing the blade creating a arc of moonlight that travels in a 15-foot cone. Each creature in the area must make a DC 18 Dexterity saving throw taking 14 (4d6) Force damage or half as much on a successful save. 
+> ***Moonlight Slash.*** The Caretaker swing the blade creating a arc of moonlight that travels in a 15-foot cone. Each creature in the area must make a DC 18 Dexterity saving throw taking 14 (4d6) Force damage or half as much on a successful save. 
 
 \page
 
