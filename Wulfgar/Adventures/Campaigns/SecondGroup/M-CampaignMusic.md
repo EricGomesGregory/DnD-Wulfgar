@@ -99,6 +99,10 @@ https://open.spotify.com/track/2nd7GWjHZKfrH4djIT9itD?si=841199879c2e4085
 [BJORTH Valkyrjur]
 https://open.spotify.com/track/4WftCve6WsFxVL4N7A09Fb?si=daa80e19d2864b4d
 
+[HUNT OR BE HUNTED]
+https://open.spotify.com/intl-pt/album/1nvoRcxbF85b6h0PDjZtXA?si=HaELU3_kTIi6xH8ozJssxA
+
+
 
 ### Epic
 
