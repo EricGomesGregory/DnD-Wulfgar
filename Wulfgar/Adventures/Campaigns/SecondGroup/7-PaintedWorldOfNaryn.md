@@ -15,7 +15,7 @@ ___
 ***Naryn, the Sorceress.***
 is a 7'5'' tall woman with reddish-brown skin, long black hair, slitted cyan eyes,  a pair of well kept ebony horns and long silver hair her skin is snow-white with splotches of tiny crystal-like scales. She wears a ornate elven dress with bronze ornaments under a thick elk's fur coat, under the coat she hides a dragon tail with light-blue scales that is rotting just like her world.
 
-Naryn is a naive girl on the body of a grown woman, she has been awaiting her beloved for centuries on a never changing world.
+Naryn is a strong willed woman that has been awaiting her beloved for centuries on a never changing world.
 
 #### The Rot
 The Rot is a sickness that afflicts this world and its denizens. For creatures it begins as a rash on a specific part of the body the slowly turns into a greyish black-purple growth throughout the creatures body.
