@@ -1,5 +1,5 @@
-## RELIGION
-In the begging of the world, when the land was covered in ash, the great spirit of the sky Bozhe used his essence to create the giants. 
+## Vrostian Shamanism
+In the beginning of the world, when the land was covered in ash, the great spirit of the sky Bozhe used his essence to create the giants.
 
 Bozhe first placed his essence in a basin, it then plucked the storms from the sky and passed them through the basin creating the Burya, then Bozhe caught the wind and fed it its essence creating the Veter, then it grabbed the flames that doweled in the ground and placed it in its basin creating the Pozhar. As the essence in the bowl began to dwindle Bozhe used it to water the mountains and hills creating the Hora and the Pahorb, and finally with the remaining essence Bozhe hurled it into the air raining its essence into the ground creating the Goliaths.
 

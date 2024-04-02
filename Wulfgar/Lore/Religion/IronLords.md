@@ -28,7 +28,9 @@ When Kaur's army was ready he led them into the surface, where they proceed to d
 |*Traitor Lords*|    |                          |                                          |
 | Hurbek        | CE | Death, War               | Black skull with white teeth             |
 | Ormen         | CE | Knowledge, Grave         | Green scroll pierced by black dagger     |
-| Kahre         | CN | Nature, Tempest          | Black dead tree struck by blue lightning |
+| Krigshau      | CN | Nature, Tempest          | Black dead tree struck by blue lightning |
+| Kunnskap      | LE | Arcane, Trickery         | SYMBOL |
+| Smigrav       | LN | Forge, Grave             | SYMBOL |
 
 </div>
 
@@ -60,15 +62,24 @@ Melmir is 5' muscular dwarf with a bald hair, rageful mahogany eyes, and a braid
 
 Followers of Melmir perform war chants before engaging their enemies as a form to call Melmir's spirit to their side. The side that chants the strongest is believed to win Melmir's blessing.
 
+Melmir was known to be the owner of a black iron plate armor, whom name has been lost to time. It is widely known that he died in combat disregarding his own wounds in order to protect his compatriots at the end of the 1st era.
+
 
 #### Arryn, the Just
+Arryn is a 4'5'' robust dwarven woman with long braided black hair adorned with eagle feathers and silver beads, a pair of piercing blue eyes, a shallow five'o clock shadow and a slender nose. She is the lord of justice, law and the natural order.
+
+Followers of Arryn invoke the dwarven laws with hawk-like focus in order to attract her guidance and presence.
+
+Arryn was known to have been the most long lived dwarf in all of history, being alive from the beginning of the 1st era to well beyond the beginning of the 2nd era. She passed away, in her keep, restless after adjudicating her most complex case.
 
 
 #### Ragduhr, the Jester
 
 
 #### Sarniss, the Undertaker
+Sarniss is a 4' tall gaunt dwarven woman with very long plain-looking black hair, sunken dark green eyes and a crooked nose. She is the iron lord of the "world of the remembered".
 
+No one is a direct follower of Sarniss but all dwarfs beg her for safe passage for their deceased.
 
 
 ### Traitor Lords
@@ -76,3 +87,4 @@ The following are the traitor lords...
 
 
 #### Hurbek, the Life Breaker
+Hurbek was a 5'6'' tall and muscular dwarf with a short black beard and a bald head. Not much was remembered by the dwarven population beyond the fact that he killed Kaur in the end of the 1st era.

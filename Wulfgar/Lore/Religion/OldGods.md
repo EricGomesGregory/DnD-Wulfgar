@@ -1,5 +1,5 @@
 ## Old Gods
-In the begging there was a twin branched tree in the Boreal Forrest that gave fruit to two elves: Elyrion, a golden haired man with a muscled body, brash personality and a affinity with animals; and Silvaris a black haired woman with marble skin, a inquisitive personality and endless desire for knowledge.
+In the beginning there was a twin branched tree in the Boreal Forrest that gave fruit to two elves: Elyrion, a golden haired man with a muscled body, brash personality and a affinity with animals; and Silvaris a black haired woman with marble skin, a inquisitive personality and endless desire for knowledge.
 
 Together they fathered the elven race and began to build a civilization in peace. But then the dragons came from beyond the ash sea and in a single swift battle decimated the elves and enslaved them.
 
@@ -37,6 +37,7 @@ With his heart full of sorrow and his elves protected by his beasts, he hurled h
 | Innur           | CN | Trickery, War                 | White dragon                          |
 
 </div>
+
 
 ### Major Deities
 The following are the deities followed by the majority of believers of the Old Gods religion.
