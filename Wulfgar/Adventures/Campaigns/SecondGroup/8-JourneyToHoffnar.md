@@ -65,14 +65,17 @@ After descending the mountain the party begins their journey trough the hafexian
 ##### Stormlands Encounters
 | 1d6 | Encounter                                           |
 |:---:|:----------------------------------------------------|
-|  1  | 3d6 **knights** and 2d4 **bowmen**                  |
+|  1  | 3d6 **knights** and 2d4 **bowmen** from Rattvik     |
 |  2  | A cold and wet marshland that is difficult to cross |
 |  3  | 1d4+1 **goblin horde**                              |
 |  4  | Heavy rainfall                                      |
 |  5  | 2d4 **ogres**                                       |
-|  6  | A group of traveling merchants from CITY_NAME       |
+|  6  | A group of traveling merchants from Dublin          |
+
+
 
 ### Hard Choices
+
 
 \page
 
