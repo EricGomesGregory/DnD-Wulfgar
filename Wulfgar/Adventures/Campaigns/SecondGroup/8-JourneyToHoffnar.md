@@ -25,7 +25,7 @@ ___
 >*Large humanoid, chaotic good*
 > ___
 > - **Armor Class** 13 (Natural Armor)
-> - **Hit Points** 000 (8d10 + 8)
+> - **Hit Points** 54 (8d10 + 8)
 > - **Speed** 30 ft.
 >___
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
