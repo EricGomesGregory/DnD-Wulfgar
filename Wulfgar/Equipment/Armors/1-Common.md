@@ -7,7 +7,7 @@ Many Armors and shields have special Properties related to their use, as shown i
 While wearing an armor with this property, you have disadvantage on Dexterity (Stealth) checks and Strength (Athletics) checks whenever you attempt to swim.
 
 ***Parry.***
-You can make an attack with a weapon as a reaction, whenever a creature misses a melee weapon attack against you.
+You can make a melee attack with a weapon as a reaction, whenever a creature misses a melee weapon attack against you.
 
 ***Special.***
 A armor or shield with the special property has unusual rules governing its use, explained in the armor’s description (see “Special Armors” later in this section).
