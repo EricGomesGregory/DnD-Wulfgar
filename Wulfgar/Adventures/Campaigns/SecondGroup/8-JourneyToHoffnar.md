@@ -57,6 +57,12 @@ ___
 >
 >
 
+
+\page
+
+## Descending the Mountain
+After being knighted the party must descend the mountain, forming their 
+
 \page
 
 ## Stormlands Journey
