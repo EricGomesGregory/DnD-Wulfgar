@@ -18,7 +18,9 @@ Durindal was one an Arrynsen and advisor of Justein Saldrisen but revoked his ow
 After meeting Durin he has taken upon himself the task of clearing the saldrisen name.
 
 ___
-***Radik.*** RADIK_DESCRIPTION.
+***Radik.*** is a 10' tall humanoid with grey skin, massive muscular arms and chest but extremely slender vestigial legs. He wears a hide kilt and a crude steel bucket-helm and he wields Durin's hammer.
+
+Radik is an ancient stone giant that was cast away from his clan as an infant, during his lifetime he befriended Justin Saldrisen, the last wielder of **Skirn** as well as Durindal and Ardghal Elyrsen the last hair of Irithyll. After being trapped in the dungeons of Irithyll for 600 years Radik has befriended Durin Saldrisen and currently is helping Durindal in his quest to clear the name of Durin in the eyes of his clan.
 
 ___
 > ## Naryn
@@ -81,7 +83,7 @@ After descending the mountain the party begins their journey trough the hafexian
 
 
 ### Hard Choices
-
+After traveling through the stormlands
 
 \page
 
