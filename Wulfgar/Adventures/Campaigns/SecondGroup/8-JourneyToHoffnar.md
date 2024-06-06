@@ -83,7 +83,7 @@ After descending the mountain the party begins their journey trough the hafexian
 
 
 ### Hard Choices
-After traveling through the stormlands
+As the party travels through the stormlands they must make hard choices to maintain their entourage through the journey to Hoffnar. To do so the party begins with enough food and water for all 200 members for 1 week, each party member must take part in a skill challenge, in which the party must make 9 ability checks 
 
 \page
 
