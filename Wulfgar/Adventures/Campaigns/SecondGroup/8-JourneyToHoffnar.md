@@ -88,7 +88,44 @@ As the party travels through the stormlands they must make hard choices to maint
 ### Meeting the Vanguard
 After receiving a response from his
 - Durindal sent a message from Hoffnar
-  - received a response to meet with a  
+  - received a response to meet with a group of elite warriors of the city
+- The party will meet a group of 2 dwarven knights and 3 dwarven scouts
+  - During the meeting
+
+___
+***Zander Ironcloak.*** is a very rugged dwarf with an eye patch, a short but well maintained beard and three shallow scars on his face. He wears a set of full plate armor with light-blue and charcoal tassilis.
+
+Zander is a bit of a hot head, with 
+
+___
+***Hallgrim Silvercoat.*** is a taller dwarf with a blocky head and face...
+
+___
+> ## Dwarven Elite Knight
+>*Medium humanoid (dwarf), lawful neutral*
+> ___
+> - **Armor Class** 20 (Plate +2)
+> - **Hit Points** 72 (8d10 + 24)
+> - **Speed** 25 ft.
+>___
+>|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+>|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+>| 20 (+5) |  8 (-1) | 16 (+3) | 10 (+0) | 13 (+1) | 12 (+1) |
+>___
+> - **Saving Throws** Str +8, Dex +1
+> - **Skills** Athletics +8, Intimidation +8, Perception +4, Survival +4
+> - **Senses** Darkvision 60 ft., passive Perception 14
+> - **Languages** Dwarvish, Common
+> - **Level** Knight 8 **PB** +3 
+> ___
+> ***Polearm Master.*** Elite knight can make a special attack with a bonus action 7 (1d4 + 5) Bludgeoning , and make an opportunity attack if a creature enter your reach.
+>
+> ### Actions
+> ***Halberd.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit* 10 (1d10 + 5) Slashing damage. 
+>
+> ***Javelin.*** *Ranged Weapon Attack:* +2 to hit, range 20/60 ft., one target. *Hit* 2 (1d6 - 1) Piercing damage.
+>
+
 
 \page
 
