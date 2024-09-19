@@ -93,7 +93,7 @@ After receiving a response from his
   - During the meeting
 
 ___
-***Zander Ironcloak.*** is a very rugged dwarf with an eye patch, a short but well maintained beard and three shallow scars on his face. He wears a set of full plate armor with light-blue and charcoal tassilis.
+***Zander Ironcloak.*** is a very rugged dwarf with an eye patch, a short but well maintained beard and three shallow scars on his face. He wears a set of full plate armor with light-blue and charcoal tassels.
 
 Zander is a bit of a hot head, with 
 
@@ -126,8 +126,6 @@ ___
 > ***Javelin.*** *Ranged Weapon Attack:* +2 to hit, range 20/60 ft., one target. *Hit* 2 (1d6 - 1) Piercing damage.
 >
 
-
-\page
 
 \page
 
