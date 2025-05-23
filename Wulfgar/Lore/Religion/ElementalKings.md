@@ -22,7 +22,8 @@ Finally the four lords of the world decided to create those who would inherit th
 | Qayana        |  N | Life, Nature                  | Olive and blue waves crashing                     |
 | Qmn           | NE | Death                         | Seven black eyes forming a circle                 |
 |*Minor deities*|    |                               |                                                   |
-| Reta          | CN | Trickery                      | Four armed sylph
+| Reta          | CN | Trickery                      | Four armed sylph                                  |
+| Zeri          |  N | Fate                          | Cocoon unraveling int gold thread                 |
 | STORM         |    | Tempest
 | Skiaa         | CN | Knowledge                     | Black silhouette of a man and woman holding hands |
 |*Demigods*     |    |                               |                                                   |
@@ -55,3 +56,11 @@ Qmn is the primordial deity of the void, it envelops the world as it exists beyo
 
 
 ### Minor Deities
+
+#### Reta, the Laughing Wind
+
+
+#### Zeri, the Unraveler of Fate
+Zeri is the minor deity of fate, she is the one responsible for maintaining the passage of tine linear as she unravels the gold thread from her own cocoon til the end of time.
+
+Once Zeri was known as Ineth the last daughter of Ashar, she was the least notable of all the sylphs. In an attempt to distinguish herself she stole the thread of time from her mother and built a cocoon out of it. After resting inside the cocoon she became a butterfly-winged sylph but as punishment her wings were bound and she is in the process of unraveling the threads of time until the end of time.
