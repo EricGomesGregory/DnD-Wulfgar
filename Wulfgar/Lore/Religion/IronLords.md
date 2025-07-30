@@ -35,6 +35,9 @@ When Kaur's army was ready he led them into the surface, where they proceed to d
 </div>
 
 
+\page
+
+
 ### Major Lords
 The following are the most commonly worshiped Iron Lords...
 
@@ -74,7 +77,7 @@ Arryn was known to have been the most long lived dwarf in all of history, being 
 
 
 #### Ragduhr, the Jester
-
+Ragduhr
 
 #### Sarniss, the Undertaker
 Sarniss is a 4' tall gaunt dwarven woman with very long plain-looking black hair, sunken dark green eyes and a crooked nose. She is the iron lord of the "world of the remembered".
