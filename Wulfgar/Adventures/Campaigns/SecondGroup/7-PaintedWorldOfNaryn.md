@@ -100,7 +100,7 @@ ___
 ___
 After the end of the combat the strange figure that has aided them introduces himself as Gaelin and guides them to the source of the smoke, the small rotting village.
 ___
-***Gaelin.*** is a simulacrum of an elven hunter that was created by Ardghal when he painted this world. 
+***Gaelin.*** is a strig hunter that was created by Ardghal when he painted this world. 
 
 
 \page
