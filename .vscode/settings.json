@@ -224,5 +224,6 @@
     "homebrewery.enabled": true,
     "markdown.preview.scrollEditorWithPreview": false,
     "markdown.preview.scrollEditorWithPreview": false,
-    "markdown.preview.markEditorSelection": false
+    "markdown.preview.markEditorSelection": false,
+    "markdown.preview.scrollPreviewWithEditor": false
 }
