@@ -9,7 +9,7 @@
 | Durin     | 9   | 16  | 24  | 32  | 40  | 47  | 56  |     |     |      |
 | Evor      | 8   | 15  | 23  | 30  | 33  |  ?  |  ?  |  ?  |  ?  |  ?   |
 | Ravi      | 11  | 22  | 27  | 29  |  ?  |  ?  |  ?  |  ?  |  ?  |  ?   |
-| Scry      | 11  | 17  | 28  | 33  | 43  | 50  | 58  | 67  |  ?  |  ?   |
+| Scry      | 11  | 17  | 28  | 33  | 43  | 50  | 58  | 67  | 74  |  ?   |
 | Kaito     | 10  | 18  | 24  | 34  | 40  | 50  | 56  | 62  | 72  |  ?   |
 | Skuje     | 10  | 17  | 26  | 33  | 42  | 45  | 54  | 59  | 69  |  ?   |
 | Niemir    |     |     |     |     |     |     |     | 52  | 59  |  ?   |
@@ -59,3 +59,5 @@
 ### Character Effects
 
 ***Scry.*** now has a Dark Soul, whenever it dies if lest untouched for a day he will awaken again with a point of hollowing.
+
+Scry has 1/ point of hollowing
