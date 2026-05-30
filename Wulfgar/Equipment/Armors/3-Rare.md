@@ -11,7 +11,7 @@ ___
 a number of creatures of your choice within a 10 foot radius of you, have advantage on saves against being Frightened.
 
 
-#### Wyver-Hide Armor
+#### Wyvern-Hide Armor
 *Medium Armor (Hide), rare*
 
 ***Armor Class.*** 12 +Dex modifier (max 2)
